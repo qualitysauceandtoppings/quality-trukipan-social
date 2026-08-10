@@ -1,0 +1,6 @@
+# OS / editor rommel
+.DS_Store
+Thumbs.db
+*~
+.idea/
+.vscode/
