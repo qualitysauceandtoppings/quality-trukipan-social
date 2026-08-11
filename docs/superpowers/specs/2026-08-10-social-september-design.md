@@ -111,16 +111,16 @@ Eén dag in augustus, op een donderdag of zaterdag zodat de truck ook staat.
 
 | Blok | Tijd | Wat | Levert |
 |---|---|---|---|
-| 1 · Truck op locatie | 09:00–12:00 | Opbouw-timelapse, bestseller, rij/drukte, locatiebeeld | 4 reels + 8 stills |
+| 1 · Truck op locatie | 09:00–12:00 | Opbouw-timelapse, bestseller, rij/drukte, locatiebeeld | 4 reels + 16 stills |
 | 2 · Keuken | 12:30–15:30 | 8 gerechten van pan tot bord, elk 20–30 seconden | 8 reels |
 | 3 · Gerechten stills | 15:30–17:00 | Diezelfde 8 gerechten, twee hoeken, daglicht | 16 stills |
 | 4 · Pairing | 17:00–17:45 | Drie drinks naast een gerecht | 6 stills |
-| 5 · Sfeer en team | 18:00–19:30 | Gedekte zaak, avondlicht, chef, team | 10 stills + 1 reel |
+| 5 · Sfeer en team | 18:00–19:30 | Timelapse vanaf vast standpunt, rustig naar vol; gedekte zaak, avondlicht, chef, team | 10 stills + 4 reels |
 | 6 · Sauce | 19:30–20:15 | Flessen los, in de hand, giet-shot op het bord | 8 stills + 1 reel |
 
-Ruwe opbrengst: 14 reels en ongeveer 48 stills. Dat dekt de 13 nodige reels precies: 8
-keukenreels en 1 sfeerreel voor het restaurant (samen 9) en 4 voor de truck. De
-sauce-reel uit blok 6 is reserve.
+Ruwe opbrengst: 17 reels en ongeveer 56 stills. Dat dekt de 13 nodige reels precies: 5
+keukenreels en 4 zaterdagavondreels voor het restaurant (samen 9) en 4 voor de truck. De
+sauce-reel uit blok 6 en de 3 extra keukenreels zijn reserve.
 
 **Datum shootdag:** wordt vastgelegd zodra de contentmakers reageren. Uiterste datum is
 zaterdag 22 augustus 2026 — later haalt de levering van 28 augustus het niet.

@@ -41,38 +41,38 @@ Status: `Nieuw` (ongebruikt) · `Ingepland` · `Geplaatst` · `Afgevoerd`
 | REST_FOTO_gerecht_14.jpg | REST | FOTO | Gerecht 7, hoek 2, daglicht | | Nieuw |
 | REST_FOTO_gerecht_15.jpg | REST | FOTO | Gerecht 8, hoek 1, daglicht | | Nieuw |
 | REST_FOTO_gerecht_16.jpg | REST | FOTO | Gerecht 8, hoek 2, daglicht | | Nieuw |
-| REST_FOTO_pairing_01.jpg | REST | FOTO | Drink naast gerecht in één kader | | Nieuw |
-| REST_FOTO_pairing_02.jpg | REST | FOTO | Drink naast gerecht in één kader | | Nieuw |
-| REST_FOTO_pairing_03.jpg | REST | FOTO | Drink naast gerecht in één kader | | Nieuw |
-| REST_FOTO_pairing_04.jpg | REST | FOTO | Drink naast gerecht in één kader | | Nieuw |
-| REST_FOTO_pairing_05.jpg | REST | FOTO | Drink naast gerecht in één kader | | Nieuw |
-| REST_FOTO_pairing_06.jpg | REST | FOTO | Drink naast gerecht in één kader | | Nieuw |
-| REST_FOTO_sfeer_01.jpg | REST | FOTO | Gedekte zaak, avondlicht, chef en team | | Nieuw |
-| REST_FOTO_sfeer_02.jpg | REST | FOTO | Gedekte zaak, avondlicht, chef en team | | Nieuw |
-| REST_FOTO_sfeer_03.jpg | REST | FOTO | Gedekte zaak, avondlicht, chef en team | | Nieuw |
-| REST_FOTO_sfeer_04.jpg | REST | FOTO | Gedekte zaak, avondlicht, chef en team | | Nieuw |
-| REST_FOTO_sfeer_05.jpg | REST | FOTO | Gedekte zaak, avondlicht, chef en team | | Nieuw |
-| REST_FOTO_sfeer_06.jpg | REST | FOTO | Gedekte zaak, avondlicht, chef en team | | Nieuw |
-| REST_FOTO_sfeer_07.jpg | REST | FOTO | Gedekte zaak, avondlicht, chef en team | | Nieuw |
-| REST_FOTO_sfeer_08.jpg | REST | FOTO | Gedekte zaak, avondlicht, chef en team | | Nieuw |
-| REST_FOTO_sfeer_09.jpg | REST | FOTO | Gedekte zaak, avondlicht, chef en team | | Nieuw |
-| REST_FOTO_sfeer_10.jpg | REST | FOTO | Gedekte zaak, avondlicht, chef en team | | Nieuw |
-| TRUCK_FOTO_onsite_01.jpg | TRUCK | FOTO | Truck on-site, locatie en drukte herkenbaar | | Nieuw |
-| TRUCK_FOTO_onsite_02.jpg | TRUCK | FOTO | Truck on-site, locatie en drukte herkenbaar | | Nieuw |
-| TRUCK_FOTO_onsite_03.jpg | TRUCK | FOTO | Truck on-site, locatie en drukte herkenbaar | | Nieuw |
-| TRUCK_FOTO_onsite_04.jpg | TRUCK | FOTO | Truck on-site, locatie en drukte herkenbaar | | Nieuw |
-| TRUCK_FOTO_onsite_05.jpg | TRUCK | FOTO | Truck on-site, locatie en drukte herkenbaar | | Nieuw |
-| TRUCK_FOTO_onsite_06.jpg | TRUCK | FOTO | Truck on-site, locatie en drukte herkenbaar | | Nieuw |
-| TRUCK_FOTO_onsite_07.jpg | TRUCK | FOTO | Truck on-site, locatie en drukte herkenbaar | | Nieuw |
-| TRUCK_FOTO_onsite_08.jpg | TRUCK | FOTO | Truck on-site, locatie en drukte herkenbaar | | Nieuw |
-| SAUCE_FOTO_fles_01.jpg | SAUCE | FOTO | Fles los en in de hand | | Nieuw |
-| SAUCE_FOTO_fles_02.jpg | SAUCE | FOTO | Fles los en in de hand | | Nieuw |
-| SAUCE_FOTO_fles_03.jpg | SAUCE | FOTO | Fles los en in de hand | | Nieuw |
-| SAUCE_FOTO_fles_04.jpg | SAUCE | FOTO | Fles los en in de hand | | Nieuw |
-| SAUCE_FOTO_fles_05.jpg | SAUCE | FOTO | Fles los en in de hand | | Nieuw |
-| SAUCE_FOTO_fles_06.jpg | SAUCE | FOTO | Fles los en in de hand | | Nieuw |
-| SAUCE_FOTO_fles_07.jpg | SAUCE | FOTO | Fles los en in de hand | | Nieuw |
-| SAUCE_FOTO_fles_08.jpg | SAUCE | FOTO | Fles los en in de hand | | Nieuw |
+| REST_FOTO_pairing_01.jpg | REST | FOTO | Pom met kipjus naast een koud glas Parbo bier | | Nieuw |
+| REST_FOTO_pairing_02.jpg | REST | FOTO | Bruine bonen met rijst naast een glas rode huiswijn | | Nieuw |
+| REST_FOTO_pairing_03.jpg | REST | FOTO | Roti met kip naast een verse limoen-ijsthee | | Nieuw |
+| REST_FOTO_pairing_04.jpg | REST | FOTO | Saoto soep naast een Surinaamse rumcocktail | | Nieuw |
+| REST_FOTO_pairing_05.jpg | REST | FOTO | Bakbanaan met zoutvis naast een fles Fernandes ananas | | Nieuw |
+| REST_FOTO_pairing_06.jpg | REST | FOTO | Moksi meti naast een glas witte huiswijn | | Nieuw |
+| REST_FOTO_sfeer_01.jpg | REST | FOTO | Gedekte tafels vooraan bij de ingang, avondlicht | | Nieuw |
+| REST_FOTO_sfeer_02.jpg | REST | FOTO | Chef aan het fornuis, stoom boven de pan | | Nieuw |
+| REST_FOTO_sfeer_03.jpg | REST | FOTO | Team achter de pass, bord wordt doorgegeven | | Nieuw |
+| REST_FOTO_sfeer_04.jpg | REST | FOTO | Volle zaal van achteruit gefotografeerd, gasten wazig | | Nieuw |
+| REST_FOTO_sfeer_05.jpg | REST | FOTO | Bar met flessen op de achtergrond, warm licht | | Nieuw |
+| REST_FOTO_sfeer_06.jpg | REST | FOTO | Chef garneert een bord, close-up van de handen | | Nieuw |
+| REST_FOTO_sfeer_07.jpg | REST | FOTO | Serveerster brengt een dienblad naar een tafel | | Nieuw |
+| REST_FOTO_sfeer_08.jpg | REST | FOTO | Detail gedekte tafel: bestek, servet, kaarsje | | Nieuw |
+| REST_FOTO_sfeer_09.jpg | REST | FOTO | Buitenkant van de zaak bij avondlicht, gevel verlicht | | Nieuw |
+| REST_FOTO_sfeer_10.jpg | REST | FOTO | Team groepsfoto bij de bar na sluiting | | Nieuw |
+| TRUCK_FOTO_onsite_01.jpg | TRUCK | FOTO | Luik van de truck gaat open, eerste klant van de dag | | Nieuw |
+| TRUCK_FOTO_onsite_02.jpg | TRUCK | FOTO | Close-up van de bestseller op het opdienblad | | Nieuw |
+| TRUCK_FOTO_onsite_03.jpg | TRUCK | FOTO | Rij klanten die wachten voor het bestelraam | | Nieuw |
+| TRUCK_FOTO_onsite_04.jpg | TRUCK | FOTO | Kok binnen in de truck maakt een bord op | | Nieuw |
+| TRUCK_FOTO_onsite_05.jpg | TRUCK | FOTO | Menubord buiten de truck, handgeschreven specials | | Nieuw |
+| TRUCK_FOTO_onsite_06.jpg | TRUCK | FOTO | Klant ontvangt lachend de bestelling | | Nieuw |
+| TRUCK_FOTO_onsite_07.jpg | TRUCK | FOTO | Truck van opzij, omgeving en locatie herkenbaar | | Nieuw |
+| TRUCK_FOTO_onsite_08.jpg | TRUCK | FOTO | Drukte rond de truck bij zonsondergang | | Nieuw |
+| SAUCE_FOTO_fles_01.jpg | SAUCE | FOTO | Fles solo op houten snijplank, studiolicht | | Nieuw |
+| SAUCE_FOTO_fles_02.jpg | SAUCE | FOTO | Fles in de hand, label goed leesbaar | | Nieuw |
+| SAUCE_FOTO_fles_03.jpg | SAUCE | FOTO | Giet-shot: saus stroomt over een bord | | Nieuw |
+| SAUCE_FOTO_fles_04.jpg | SAUCE | FOTO | Twee flessen naast elkaar, verschillende smaken | | Nieuw |
+| SAUCE_FOTO_fles_05.jpg | SAUCE | FOTO | Fles naast een bord met frietjes | | Nieuw |
+| SAUCE_FOTO_fles_06.jpg | SAUCE | FOTO | Close-up van het label en de ingrediëntenlijst | | Nieuw |
+| SAUCE_FOTO_fles_07.jpg | SAUCE | FOTO | Fles in de hand van de chef bij de foodtruck | | Nieuw |
+| SAUCE_FOTO_fles_08.jpg | SAUCE | FOTO | Giet-shot van bovenaf op een burger | | Nieuw |
 
 ## Repurposeregels
 
@@ -80,3 +80,7 @@ Status: `Nieuw` (ongebruikt) · `Ingepland` · `Geplaatst` · `Afgevoerd`
 - Elke reel gaat ook naar TikTok, met een eigen caption
 - De restaurant-reel van woensdag levert vrijdag de sauce-versie
 - Een goed lopende post mag na acht weken terugkomen
+
+`STORY`-rijen staan hierboven nog niet: die ontstaan pas na de shootdag, worden uit de
+reels geknipt volgens de repurposeregels hierboven, en worden pas aan deze index
+toegevoegd zodra ze daadwerkelijk gemaakt zijn.
