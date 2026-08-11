@@ -85,6 +85,33 @@ Status: `Nieuw` (ongebruikt) · `Ingepland` · `Geplaatst` · `Afgevoerd`
 | SAUCE_FOTO_fles_07.jpg | SAUCE | FOTO | Fles in de hand van de chef bij de foodtruck | | Nieuw |
 | SAUCE_FOTO_fles_08.jpg | SAUCE | FOTO | Giet-shot van bovenaf op een burger | | Nieuw |
 
+## Welk bestand hoort bij welke rubriek
+
+Zo hoeft niemand te raden welk beeld waar terechtkomt.
+
+| Rubriek | Nodig in september | Bestanden |
+|---|---|---|
+| Bord van de week | 5 foto's | `REST_FOTO_gerecht_01` t/m `_05` |
+| De klassieker | 4 foto's | `REST_FOTO_gerecht_06` t/m `_09` |
+| Zondagbord | 4 foto's | `REST_FOTO_gerecht_10` t/m `_13` |
+| Avondsfeer | 4 foto's | `REST_FOTO_sfeer_01` t/m `_04` |
+| Pairing | 4 foto's | `REST_FOTO_pairing_01` t/m `_04` |
+| In de keuken | 5 reels | `REST_REEL_gerecht_01` t/m `_05` |
+| Zaterdagavond | 4 reels | `REST_REEL_sfeer_01` t/m `_04` |
+| Locatie-reveal | 8 foto's | `TRUCK_FOTO_locatie_01` t/m `_08` |
+| Drukte | 4 foto's | `TRUCK_FOTO_onsite_01` t/m `_04` |
+| On-site bestseller | 4 reels | `TRUCK_REEL_bestseller_01`, `TRUCK_REEL_opbouw_01`, `TRUCK_REEL_drukte_01`, `TRUCK_REEL_locatie_01` |
+| Fles in beeld | 4 foto's | `SAUCE_FOTO_fles_01` t/m `_04` |
+| Saus in gebruik | 4 reels | Geknipt uit `REST_REEL_gerecht_01` t/m `_04`; `SAUCE_REEL_giet_01` is reserve |
+
+De vier truck-reels zijn bewust verschillend van elkaar: vier keer dezelfde bestseller-reel
+in één maand leest als een herhaling. Opbouw, bestseller, drukte en locatie vullen samen de
+vier donderdagen.
+
+Reserve voor oktober: `REST_FOTO_gerecht_14` t/m `_16`, `REST_FOTO_sfeer_05` t/m `_10`,
+`REST_FOTO_pairing_05` en `_06`, `TRUCK_FOTO_onsite_05` t/m `_08`, `SAUCE_FOTO_fles_05`
+t/m `_08`, `REST_REEL_gerecht_06` t/m `_08`.
+
 ## Repurposeregels
 
 - Elke reel levert 3 losse stills (coverframe, detail, procesbeeld) en 2 stories

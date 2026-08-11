@@ -29,8 +29,10 @@ schema meer.
 
 1. **Idee → Buffer.** Nieuwe content eerst als 'Idee' (voorraad).
 2. **Klaar? → inplannen.** Verplaats idee naar de wachtrij met dag + tijd.
-3. **Eén post, meer kanalen.** Kies meteen IG + FB (+ TikTok voor reels).
-4. **Reels → ook TikTok.** Zelfde video, andere caption/hashtags.
+3. **Eén contentmoment, aparte post per kanaal.** Een contentmoment dat naar twee
+   kanalen gaat wordt in Buffer twee losse posts, elk met een eigen caption. Van de
+   54 contentmomenten in september gaan er 29 naar twee kanalen: samen 83 posts.
+4. **Reels → ook TikTok.** Zelfde video, kortere caption en minder hashtags.
 5. **Stories & Google.** Handmatig op de dag zelf.
 
 ## Status
