@@ -10,7 +10,7 @@ maand vooraf ingepland via Buffer. Gebruik dit bestand om het werk voort te zett
 |---|---|---|---|
 | Restaurant | **Quality Trukipan Presikhaaf** | di t/m zo (ma dicht) | Instagram, TikTok |
 | Foodtruck | **Quality Trukipan** | do + za | Instagram, TikTok, Facebook |
-| Los merk | Quality Sauce & Toppings | — | Instagram, TikTok, Facebook |
+| Eigen merk | Quality Sauce & Toppings | ma + vr | Instagram, TikTok, Facebook |
 
 > Quality Sauce & Toppings zit vanaf september mee in het systeem: vaste foto op
 > maandag, vaste reel op vrijdag.
@@ -20,8 +20,9 @@ maand vooraf ingepland via Buffer. Gebruik dit bestand om het werk voort te zett
 
 - Organisatie: **Quality empire** — `organizationId: 6a2d69cf3d34f01dcdb6401f`
 - Plan: **Essentials** (per kanaal betaald; alle kanalen gekoppeld)
-- Tool: Buffer MCP-server (`mcp__buffer__*`). Vereist dat de gebruiker Buffer als
-  connector heeft geautoriseerd.
+- Tool: de Buffer MCP-server. De toolnamen dragen een server-ID die per omgeving
+  verschilt — zoek ze op met ToolSearch op "buffer" in plaats van een naam te gokken.
+  Vereist dat Buffer als connector geautoriseerd is.
 
 ### Kanaal-IDs
 
