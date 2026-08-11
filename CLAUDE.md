@@ -1,8 +1,8 @@
 # CLAUDE.md — context voor Claude Code
 
 Dit project beheert de social media van **Quality Trukipan** (Surinaams eten,
-Presikhaaf/Arnhem). Doel: één vast weekritme + posts inplannen via Buffer.
-Gebruik dit bestand om het werk voort te zetten.
+Presikhaaf/Arnhem). Doel: een voorraadmodel met vaste weekdag-rubrieken, per
+maand vooraf ingepland via Buffer. Gebruik dit bestand om het werk voort te zetten.
 
 ## Merken & accounts
 
@@ -12,12 +12,13 @@ Gebruik dit bestand om het werk voort te zetten.
 | Foodtruck | **Quality Trukipan** | do + za | Instagram, TikTok, Facebook |
 | Los merk | Quality Sauce & Toppings | — | Instagram, TikTok, Facebook |
 
-> Quality Sauce & Toppings staat LOS van dit systeem — niet in de weekplanning meenemen.
+> Quality Sauce & Toppings zit vanaf september mee in het systeem: vaste foto op
+> maandag, vaste reel op vrijdag.
 > Presikhaaf heeft (nog) geen eigen Facebook-pagina; Facebook loopt via het hoofdaccount.
 
 ## Buffer
 
-- Organisatie: **My Organization** — `organizationId: 6a2d69cf3d34f01dcdb6401f`
+- Organisatie: **Quality empire** — `organizationId: 6a2d69cf3d34f01dcdb6401f`
 - Plan: **Essentials** (per kanaal betaald; alle kanalen gekoppeld)
 - Tool: Buffer MCP-server (`mcp__buffer__*`). Vereist dat de gebruiker Buffer als
   connector heeft geautoriseerd.
@@ -37,38 +38,31 @@ Gebruik dit bestand om het werk voort te zetten.
 
 ## Het systeem
 
-**Restaurant (Presikhaaf), di t/m zo:** 2 reels/week (bv. wo + za), 4–5 foto-posts
-verspreid, elke open dag 2–3 stories.
-**Foodtruck (Quality Trukipan), do + za:** locatie vooraf aankondigen (story + post)
-+ on-site foto/reel op de dag.
+Voorraadmodel met vaste weekdag-rubrieken. Volledige beschrijving staat in
+`docs/superpowers/specs/2026-08-10-social-september-design.md`.
 
-**Beste posttijden (NL horeca):** feed 12:00 of 18:00 · stories ±11:00/±17:00/±20:00 ·
-TikTok/Reels 18:00–20:00 · Google 1x/week 's ochtends.
+Drie merken: restaurant (di–zo), foodtruck (do + za), Sauce & Toppings (ma + vr).
+Per maand ± 54 posts, vooraf ingepland in Buffer.
 
-## Werkwijze / rolverdeling
+## Rolverdeling
 
-- **Jonathan** — planning, goedkeuring, stories live op de dag.
-- **Contentmaker** — maakt de reels + foto's (krijgt de shotlist uit de weekplanning).
-- **Claude** — captions schrijven + als Idee in Buffer zetten en inplannen.
+- **Jonathan** — keurt één keer per maand de complete batch goed. Verder niets.
+- **Contentmakers** — leveren beeld volgens `content/briefing-contentmakers.md`, vóór de 28e.
+- **Claude** — maandplan, captions, beeld koppelen, inplannen in Buffer, index bijhouden, evaluatie.
 
-Stories (met poll/muziek/sticker) en Google Bedrijfsprofiel = handmatig op de dag.
-Automatisch posten van reels/stories werkt alleen met een zakelijk IG-account
-gekoppeld aan een Facebook-pagina.
+Niets wordt ingepland zonder expliciete goedkeuring van Jonathan op de hele batch.
 
-## Status (laatst bijgewerkt: 2026-08-10)
+## Publiceren
 
-- [x] Buffer-kanalen gekoppeld (Essentials).
-- [x] Weekplanning-systeem + ideeënbank opgezet (zie `content/` en `exports/`).
-- [x] Captions week 11–16 aug als **Ideeën** in Buffer gezet (11 stuks, nog zonder media).
-- [ ] Foto's/video's van de contentmaker toevoegen aan de Buffer-ideeën.
-- [ ] Ideeën omzetten naar ingeplande posts (dag + tijd) per kanaal.
-- [ ] Google Bedrijfsprofiel-post inrichten (handmatig, los van Buffer).
+Beide Instagram-accounts zijn Professional Accounts zonder herinneringen: feed-posts
+en reels publiceren automatisch. Kale stories ook. Alleen reels die op een trending
+sound uit de app moeten worden als herinnering klaargezet, maximaal twee per maand.
 
-## Next steps voor Claude Code
+## Status
 
-1. Nieuwe week? Kopieer `content/weekplanning.md`, vul onderwerpen uit `ideeenbank.md`.
-2. Schrijf captions (stijl: warm, Nederlands, Surinaams eten, emoji spaarzaam,
-   hashtags zoals `#QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan`).
-3. Zet ze via `mcp__buffer__create_idea` klaar (org-id hierboven), met in de titel:
-   `ONDERDEEL · Dag datum tijd · Kanaal · TYPE`.
-4. Zodra media er is: idee → post inplannen op de juiste dag/tijd en kanaal.
+- [x] Ontwerp vastgelegd en goedgekeurd (10 aug 2026)
+- [x] Maandplan, captions, contentbank en briefing voor september
+- [ ] Shootdag ingepland met de contentmakers (uiterlijk 22 aug)
+- [ ] Beeld geleverd (uiterlijk 28 aug)
+- [ ] Aanleverroute voor media vastgesteld — open vraag bij de contentmakers
+- [ ] Batch september goedgekeurd en ingepland in Buffer

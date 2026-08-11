@@ -1,7 +1,7 @@
 # Quality Trukipan — Social Media Systeem
 
-Eén vast weekritme voor het **restaurant** en de **foodtruck**, klaar om samen te
-beheren en in te plannen via Buffer.
+Eén voorraadmodel voor het **restaurant**, de **foodtruck** en **Quality Sauce &
+Toppings**, klaar om samen te beheren en per maand vooraf in te plannen via Buffer.
 
 ## Wat zit hierin
 
@@ -10,9 +10,16 @@ quality-trukipan-social/
 ├── README.md              ← dit bestand (start hier)
 ├── CLAUDE.md              ← context voor Claude Code om verder te werken
 ├── content/
-│   ├── weekplanning.md    ← het vaste weekritme (kopieer per week)
-│   ├── ideeenbank.md      ← contentideeën per categorie
-│   └── captions-week-2026-08-11.md  ← de captions van deze week
+│   ├── september-2026.md            ← het maandplan (bron van waarheid)
+│   ├── captions-september-2026.md   ← alle 54 captions
+│   ├── contentbank.md               ← index van al het beeldmateriaal
+│   ├── briefing-contentmakers.md    ← gaat naar de contentmakers
+│   ├── maandroutine.md              ← de vaste maandcyclus
+│   ├── weekplanning.md              ← oud sjabloon, naslag
+│   └── ideeenbank.md                ← contentideeën per categorie
+├── docs/superpowers/
+│   ├── specs/                       ← het ontwerp
+│   └── plans/                       ← dit uitvoeringsplan
 ├── buffer/
 │   └── setup.md           ← accounts, kanalen, plan en werkwijze
 └── exports/
@@ -22,26 +29,21 @@ quality-trukipan-social/
 
 ## De kern in het kort
 
-- **Restaurant = Quality Trukipan Presikhaaf** — open dinsdag t/m zondag (maandag dicht).
-  2 reels + 4–5 foto's + elke open dag stories.
-- **Foodtruck = Quality Trukipan** — rijdt donderdag en zaterdag. Locatie vooraf
-  aankondigen + on-site content op de dag.
-- **Quality Sauce & Toppings** — apart merk, staat los van dit systeem.
-- Inplannen gaat via **Buffer** (Essentials-plan, alle kanalen gekoppeld).
+Dit werkt volgens een **voorraadmodel**, niet een weekritme:
 
-## Weekritme (elke maandag ± 20 min)
-
-1. Kopieer `content/weekplanning.md` naar een nieuwe week.
-2. Vul per rij het onderwerp in (haal ideeën uit `content/ideeenbank.md`).
-3. Stuur de contentmaker de rijen met Reel/Foto — dat is zijn shotlist.
-4. Klare foto's/video's → als Idee in Buffer, plan de post op dag + tijd.
-5. Stories + Google Bedrijfsprofiel doe je handmatig op de dag zelf.
+- **Eén shootdag per maand** levert de complete beeldvoorraad voor die maand.
+- Elk merk heeft een **vaste rubriek per weekdag**: restaurant di t/m zo, foodtruck
+  do + za, Quality Sauce & Toppings ma (foto) + vr (reel).
+- De **hele maand** wordt in één keer vooraf ingepland in **Buffer** (Essentials-plan,
+  alle kanalen gekoppeld); Jonathan keurt één keer per maand de complete batch goed.
+- De volledige cyclus — wie doet wat en wanneer — staat in `content/maandroutine.md`.
 
 ## Verder werken in Claude Code
 
 Open deze map in Claude Code. Het bestand `CLAUDE.md` bevat alle context
-(merken, kanalen + IDs, systeem, status, next steps) zodat je direct verder kunt:
-nieuwe weken plannen, captions schrijven en posts in Buffer klaarzetten.
+(merken, kanalen + IDs, het systeem, rolverdeling, status) zodat je direct verder
+kunt: het maandplan en de captions bijwerken, beeld koppelen en posts in Buffer
+klaarzetten.
 
 ## In git zetten
 
