@@ -95,12 +95,17 @@ Kaal betekent dat Buffer ze automatisch publiceert.
 September begint op dinsdag 1 en eindigt op woensdag 30. Vier volle weken
 (1–6, 7–13, 14–20, 21–27) plus maandag 28 tot en met woensdag 30.
 
-| Merk | Posts |
+| Merk | Contentmomenten |
 |---|---|
 | Restaurant | 30 |
 | Foodtruck | 16 |
 | Sauce & Toppings | 8 |
 | **Totaal** | **54** |
+
+Dit zijn contentmomenten (rijen in het maandplan), geen Buffer-posts: 29 van de 54
+gaan naar twee kanalen (bijvoorbeeld Instagram + TikTok), en elk kanaal krijgt een
+eigen `create_post`-aanroep. In Buffer worden 54 contentmomenten dus 83 posts
+(54 + 29).
 
 Daarvan zijn 13 reels die echt gefilmd moeten worden (9 restaurant, 4 foodtruck); de
 sauce-reels komen uit restaurant-materiaal.

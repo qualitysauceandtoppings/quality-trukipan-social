@@ -43,7 +43,10 @@ Voorraadmodel met vaste weekdag-rubrieken. Volledige beschrijving staat in
 `docs/superpowers/specs/2026-08-10-social-september-design.md`.
 
 Drie merken: restaurant (di–zo), foodtruck (do + za), Sauce & Toppings (ma + vr).
-Per maand ± 54 posts, vooraf ingepland in Buffer.
+Per maand 54 contentmomenten, vooraf ingepland in Buffer. Een contentmoment dat
+naar twee kanalen gaat (bijvoorbeeld Instagram + TikTok) is in Buffer twee
+aparte posts; 29 van de 54 contentmomenten gaan naar twee kanalen, dus dat
+worden samen 83 posts.
 
 ## Rolverdeling
 

@@ -16,7 +16,10 @@
   - Restaurant Instagram `6a7a28b4b2d9d577435147db` · TikTok `6a7a246bb2d9d5774351333e`
   - Sauce Instagram `6a2d6a8c38b5579345903152` · Facebook `6a2d6b2f38b5579345903373` · TikTok `6a2d6b6338b557934590342b`
 - September 2026: 1 sept = dinsdag, 30 sept = woensdag. Maandagen: 7, 14, 21, 28
-- Totaal 54 posts: 30 restaurant, 16 foodtruck, 8 sauce
+- Totaal 54 contentmomenten: 30 restaurant, 16 foodtruck, 8 sauce. Een contentmoment
+  dat naar twee kanalen gaat is in Buffer twee aparte `create_post`-aanroepen (twee
+  posts); 29 van de 54 contentmomenten gaan naar twee kanalen, dus dat wordt
+  samen 83 posts in Buffer
 - Captionstijl: warm, Nederlands, emoji spaarzaam, vaste hashtagsets per merk
 - Vaste hashtags restaurant: `#QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan`
 - Vaste hashtags foodtruck: `#QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem`
@@ -60,7 +63,9 @@ beelden in `contentbank.md`. Status is `Gepland`, `In Buffer` of `Geplaatst`.
 September 2026 begint op dinsdag 1 en eindigt op woensdag 30.
 Volle weken: 1–6, 7–13, 14–20, 21–27. Slot: 28–30.
 
-Totaal 54 posts — 30 restaurant, 16 foodtruck, 8 sauce.
+Totaal 54 contentmomenten — 30 restaurant, 16 foodtruck, 8 sauce. Daarvan gaan
+er 29 naar twee kanalen (elk een eigen `create_post`-aanroep), dus in Buffer
+worden dit 83 posts.
 ```
 
 - [ ] **Stap 2: Vul week 1 (di 1 t/m zo 6 september)**
@@ -130,7 +135,7 @@ Geen donderdag of zaterdag, dus geen foodtruck.
 
 - [ ] **Stap 6: Voeg de storytabel toe**
 
-Stories tellen niet mee in de 54 posts en krijgen geen eigen regel per dag. Eén vaste
+Stories tellen niet mee in de 54 contentmomenten en krijgen geen eigen regel per dag. Eén vaste
 tabel onderaan het bestand volstaat, want ze draaien op hergebruikte frames uit de reels.
 
 ```markdown
@@ -355,7 +360,8 @@ Dit is het enige document dat de deur uit gaat. Het moet los te lezen zijn, zond
 **Shootdag:** [datum], een donderdag of zaterdag zodat de foodtruck ook staat.
 Uiterste datum: zaterdag 22 augustus 2026.
 **Aanleveren:** uiterlijk vrijdag 28 augustus 2026.
-**Waarvoor:** de complete social media van september — 54 posts over drie merken.
+**Waarvoor:** de complete social media van september — 54 contentmomenten over drie
+merken, samen goed voor 83 posts omdat een deel naar twee kanalen gaat.
 ```
 
 - [ ] **Stap 2: Neem het draaiboek van de shootdag over**
@@ -504,7 +510,10 @@ Voorraadmodel met vaste weekdag-rubrieken. Volledige beschrijving staat in
 `docs/superpowers/specs/2026-08-10-social-september-design.md`.
 
 Drie merken: restaurant (di–zo), foodtruck (do + za), Sauce & Toppings (ma + vr).
-Per maand ± 54 posts, vooraf ingepland in Buffer.
+Per maand 54 contentmomenten, vooraf ingepland in Buffer. Een contentmoment dat
+naar twee kanalen gaat (bijvoorbeeld Instagram + TikTok) is in Buffer twee
+aparte posts; 29 van de 54 contentmomenten gaan naar twee kanalen, dus dat
+worden samen 83 posts.
 
 ## Rolverdeling
 
@@ -579,7 +588,9 @@ Deze taak raakt de buitenwereld. Hij start pas als aan drie voorwaarden is volda
 
 **Interfaces:**
 - Gebruikt: `september-2026.md` voor datum, tijd, kanaal en type; `captions-september-2026.md` voor de tekst; `contentbank.md` voor de bestandsnaam
-- Levert: 54 ingeplande posts in Buffer. Post-ID's hoeven niet teruggeschreven te worden; de statuskolom in het maandplan volstaat.
+- Levert: 83 ingeplande posts in Buffer, voor de 54 contentmomenten uit het maandplan
+  (29 daarvan gaan naar twee kanalen en leveren dus elk twee posts). Post-ID's hoeven
+  niet teruggeschreven te worden; de statuskolom in het maandplan volstaat.
 
 - [ ] **Stap 1: Controleer de voorwaarden**
 
@@ -597,7 +608,9 @@ Verwacht: `organizations[0].id` is `6a2d69cf3d34f01dcdb6401f`, naam `Quality emp
 
 - [ ] **Stap 3: Maak één testpost aan als concept**
 
-Begin met één post om het formaat te bevestigen voordat je er 54 aanmaakt. Roep `create_post` aan met:
+Begin met één post om het formaat te bevestigen voordat je de overige 82 aanmaakt
+(samen 83 posts, voor de 54 contentmomenten waarvan 29 naar twee kanalen gaan). Roep
+`create_post` aan met:
 
 ```json
 {
@@ -620,7 +633,7 @@ Roep `list_posts` aan met `organizationId: 6a2d69cf3d34f01dcdb6401f` en `status:
 
 Verwacht: één post, met de juiste tekst, het juiste kanaal en `dueAt` op 1 september 12:00 lokale tijd. Klopt er iets niet, corrigeer dan het formaat voordat je verder gaat.
 
-- [ ] **Stap 5: Maak de resterende 53 posts aan**
+- [ ] **Stap 5: Maak de resterende 82 posts aan**
 
 Loop `september-2026.md` van boven naar beneden af. Per rij:
 
@@ -634,11 +647,11 @@ Loop `september-2026.md` van boven naar beneden af. Per rij:
 
 Roep `list_posts` aan met `dueAt.start: "2026-09-01T00:00:00+02:00"`, `dueAt.end: "2026-09-30T23:59:59+02:00"` en `first: 100`.
 
-Verwacht: 54 posts. Wijkt het af, zoek dan met de tellingen per merk uit taak 1 welke rij ontbreekt.
+Verwacht: 83 posts (54 contentmomenten, waarvan 29 naar twee kanalen). Wijkt het af, zoek dan met de tellingen per merk uit taak 1 welke rij ontbreekt.
 
 - [ ] **Stap 7: Zet de statussen in de repo bij**
 
-Zet in `september-2026.md` de kolom `Status` op `In Buffer` voor alle 54 rijen. Zet in `contentbank.md` per gebruikt bestand de datum in `Gebruikt op` en de status op `Ingepland`.
+Zet in `september-2026.md` de kolom `Status` op `In Buffer` voor alle 54 rijen (contentmomenten — dit is geen postentelling). Zet in `contentbank.md` per gebruikt bestand de datum in `Gebruikt op` en de status op `Ingepland`.
 
 - [ ] **Stap 8: Commit**
 
