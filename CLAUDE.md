@@ -42,6 +42,13 @@ maand vooraf ingepland via Buffer. Gebruik dit bestand om het werk voort te zett
 Voorraadmodel met vaste weekdag-rubrieken. Volledige beschrijving staat in
 `docs/superpowers/specs/2026-08-10-social-september-design.md`.
 
+De foodtruck heeft vaste standplaatsen: donderdag en zaterdag winkelcentrum
+Hatert in Nijmegen, zondag winkelcentrum Elderhof in Arnhem. Zie
+`content/locaties.md` voor de standplaatsen en de bijbehorende hashtag-regel.
+Afwijkingen (festival, privéfeest, dag dat de truck niet rijdt) geeft
+Jonathan door via de chat, uiterlijk de dag ervoor — niet meer per maand
+aanleveren zoals bij [gerecht]/[drink].
+
 Drie merken: restaurant (di–zo), foodtruck (do + za + zo), Sauce & Toppings (ma + vr).
 Per maand 62 contentmomenten, vooraf ingepland in Buffer. Een contentmoment dat
 naar twee kanalen gaat (bijvoorbeeld Instagram + TikTok) is in Buffer twee
@@ -51,7 +58,10 @@ worden samen 95 posts.
 ## Rolverdeling
 
 - **Jonathan** — keurt één keer per maand de complete batch goed en levert daarbij
-  de invulling van [gerecht], [drink] en [locatie] voor die maand aan. Verder niets.
+  de invulling van [gerecht] en [drink] voor die maand aan. De standplaatsen van
+  de foodtruck liggen vast in `content/locaties.md`; Jonathan hoeft die niet meer
+  per maand aan te leveren, alleen uitzonderingen erop worden via de chat
+  doorgegeven (zie `content/locaties.md`). Verder niets.
 - **Contentmakers** — leveren beeld volgens `content/briefing-contentmakers.md`, vóór de 28e.
 - **Claude** — maandplan, captions, beeld koppelen, inplannen in Buffer, index bijhouden, evaluatie.
 

@@ -144,90 +144,90 @@ nodig varianten aan voordat je de maand uitschrijft.
 ## Sjablonen — Foodtruck & Sauce
 
 **Locatie-reveal donderdag — variant A**
-> Donderdag staan we bij [locatie] 📍 Kom langs voor verse trukipan.
-> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
+> Donderdag staan we bij winkelcentrum Hatert in Nijmegen 📍 Kom langs voor verse trukipan.
+> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem #Nijmegen
 
 **Locatie-reveal donderdag — variant B**
-> Waar vind je ons vandaag? Bij [locatie]. Loop langs en proef het zelf.
-> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
+> Waar vind je ons vandaag? Bij winkelcentrum Hatert in Nijmegen. Loop langs en proef het zelf.
+> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem #Nijmegen
 
 **Locatie-reveal donderdag — variant C**
-> Vandaag rijdt de truck naar [locatie]. Kom een bakkie trukipan halen.
-> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
+> Vandaag rijdt de truck naar winkelcentrum Hatert in Nijmegen. Kom een bakkie trukipan halen.
+> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem #Nijmegen
 
 **Locatie-reveal donderdag — variant D**
-> Deze donderdag staan we weer klaar bij [locatie]. Kom langs voor verse trukipan.
-> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
+> Deze donderdag staan we weer klaar bij winkelcentrum Hatert in Nijmegen. Kom langs voor verse trukipan.
+> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem #Nijmegen
 
 **On-site bestseller — variant A**
 > De bestseller bij de truck, recht van de plaat. Kom hem proeven waar wij vandaag staan.
-> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
+> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem #Nijmegen
 
 **On-site bestseller — variant B**
 > Dit bestellen de meeste mensen bij ons 🔥 Sta ook in de rij en proef waarom.
-> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
+> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem #Nijmegen
 
 **On-site bestseller — variant C**
 > Onze bestseller, gemaakt terwijl jij wacht. Kom langs bij de truck en probeer 'm.
-> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
+> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem #Nijmegen
 
 **On-site bestseller — variant D**
 > Wat iedereen bij de truck bestelt, staat er niet voor niets al jaren op. Kom langs en proef 'm zelf.
-> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
+> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem #Nijmegen
 
 **Locatie-reveal zaterdag — variant A**
-> Zaterdag staan we bij [locatie] 📍 Kom langs voor verse trukipan.
-> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
+> Zaterdag staan we bij winkelcentrum Hatert in Nijmegen 📍 Kom langs voor verse trukipan.
+> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem #Nijmegen
 
 **Locatie-reveal zaterdag — variant B**
-> Waar vind je ons dit weekend? Bij [locatie]. Loop langs en proef het zelf.
-> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
+> Waar vind je ons dit weekend? Bij winkelcentrum Hatert in Nijmegen. Loop langs en proef het zelf.
+> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem #Nijmegen
 
 **Locatie-reveal zaterdag — variant C**
-> Het weekend is begonnen, en dat vieren we bij [locatie]. Kom gezellig langs voor verse trukipan.
-> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
+> Het weekend is begonnen, en dat vieren we bij winkelcentrum Hatert in Nijmegen. Kom gezellig langs voor verse trukipan.
+> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem #Nijmegen
 
 **Locatie-reveal zaterdag — variant D**
-> Dit weekend staan we bij [locatie] klaar voor je. Kom langs voor verse trukipan.
-> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
+> Dit weekend staan we bij winkelcentrum Hatert in Nijmegen klaar voor je. Kom langs voor verse trukipan.
+> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem #Nijmegen
 
 **Locatie-reveal zondag — variant A**
-> Zondag staan we bij [locatie] 📍 Kom langs voor verse trukipan.
+> Zondag staan we bij winkelcentrum Elderhof in Arnhem 📍 Kom langs voor verse trukipan.
 > #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
 
 **Locatie-reveal zondag — variant B**
-> Waar vind je ons deze zondag? Bij [locatie]. Loop gezellig langs en proef mee.
+> Waar vind je ons deze zondag? Bij winkelcentrum Elderhof in Arnhem. Loop gezellig langs en proef mee.
 > #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
 
 **Locatie-reveal zondag — variant C**
-> Ook op zondag rijdt de truck: vandaag bij [locatie]. Kom een bakkie trukipan halen.
+> Ook op zondag rijdt de truck: vandaag bij winkelcentrum Elderhof in Arnhem. Kom een bakkie trukipan halen.
 > #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
 
 **Locatie-reveal zondag — variant D**
-> Rustige zondag, verse trukipan: we staan bij [locatie]. Kom langs en schuif aan.
+> Rustige zondag, verse trukipan: we staan bij winkelcentrum Elderhof in Arnhem. Kom langs en schuif aan.
 > #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
 
 **Locatie-reveal — variant zonder adres**
 
 Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 > Vandaag staan we op onze vaste plek 🔥 Tijden vind je in de story. Kom langs voor verse trukipan.
-> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
+> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem #Nijmegen
 
 **Drukte — variant A**
 > Rij bij de truck, en niet zonder reden. Kom aansluiten en proef waarom.
-> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
+> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem #Nijmegen
 
 **Drukte — variant B**
 > Het is weer druk bij ons vandaag 🙌 Neem wat tijd mee en kom langs.
-> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
+> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem #Nijmegen
 
 **Drukte — variant C**
 > Zo ziet een goede dag bij de truck eruit: rijen mensen die willen proeven. Sluit aan en ontdek het zelf.
-> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
+> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem #Nijmegen
 
 **Drukte — variant D**
 > Nog een drukke dag bij de truck, precies zoals we het willen. Sluit aan in de rij en proef mee.
-> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
+> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem #Nijmegen
 
 **Drukte — variant E**
 > Ook op zondag staat de rij weer bij de truck. Sluit aan en proef waarom.
@@ -289,13 +289,13 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 > TikTok: [gerecht] van pan tot bord 🔥 #QualityTrukipan #SurinaamsEten #Arnhem
 
 **03-09 · 10:00 · FOODTRUCK · Instagram + Facebook · FOTO**
-> Donderdag staan we bij [locatie] 📍 Kom langs voor verse trukipan.
-> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
+> Donderdag staan we bij winkelcentrum Hatert in Nijmegen 📍 Kom langs voor verse trukipan.
+> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem #Nijmegen
 
 **03-09 · 13:00 · FOODTRUCK · Instagram + TikTok · REEL**
 > De bestseller bij de truck, recht van de plaat. Kom hem proeven waar wij vandaag staan.
-> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
-> TikTok: de bestseller, live vanaf de truck 🔥 #QualityTrukipan #StreetFood #Arnhem
+> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem #Nijmegen
+> TikTok: de bestseller, live vanaf de truck 🔥 #QualityTrukipan #StreetFood #Arnhem #Nijmegen
 
 **03-09 · 17:30 · RESTAURANT · Instagram · FOTO**
 > De avond valt, de lichten gaan aan en Presikhaaf schuift aan tafel. Kom sfeer proeven bij Quality Trukipan.
@@ -311,8 +311,8 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 > TikTok: saus in actie, precies zo gebruiken wij 'm. #QualitySauce #SurinaamsEten #Arnhem
 
 **05-09 · 10:00 · FOODTRUCK · Instagram + Facebook · FOTO**
-> Zaterdag staan we bij [locatie] 📍 Kom langs voor verse trukipan.
-> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
+> Zaterdag staan we bij winkelcentrum Hatert in Nijmegen 📍 Kom langs voor verse trukipan.
+> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem #Nijmegen
 
 **05-09 · 12:30 · RESTAURANT · Instagram · FOTO**
 > Een klassieker die nooit verveelt: [gerecht]. Kom hem proeven zoals hij hoort te zijn.
@@ -320,7 +320,7 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 
 **05-09 · 13:00 · FOODTRUCK · Instagram · FOTO**
 > Rij bij de truck, en niet zonder reden. Kom aansluiten en proef waarom.
-> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
+> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem #Nijmegen
 
 **05-09 · 18:00 · RESTAURANT · Instagram + TikTok · REEL**
 > Zaterdagavond bij Quality Trukipan: vol, warm en gezellig. Kom de sfeer proeven.
@@ -328,7 +328,7 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 > TikTok: zo ziet zaterdagavond bij ons eruit 🎶 #QualityTrukipan #Presikhaaf #Arnhem
 
 **06-09 · 10:00 · FOODTRUCK · Instagram + Facebook · FOTO**
-> Zondag staan we bij [locatie] 📍 Kom langs voor verse trukipan.
+> Zondag staan we bij winkelcentrum Elderhof in Arnhem 📍 Kom langs voor verse trukipan.
 > #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
 
 **06-09 · 12:30 · RESTAURANT · Instagram · FOTO**
@@ -355,13 +355,13 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 > TikTok: recht uit de keuken, [gerecht] in wording. #QualityTrukipan #SurinaamsEten #Arnhem
 
 **10-09 · 10:00 · FOODTRUCK · Instagram + Facebook · FOTO**
-> Waar vind je ons vandaag? Bij [locatie]. Loop langs en proef het zelf.
-> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
+> Waar vind je ons vandaag? Bij winkelcentrum Hatert in Nijmegen. Loop langs en proef het zelf.
+> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem #Nijmegen
 
 **10-09 · 13:00 · FOODTRUCK · Instagram + TikTok · REEL**
 > Dit bestellen de meeste mensen bij ons 🔥 Sta ook in de rij en proef waarom.
-> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
-> TikTok: dit grijpt iedereen bij de truck. #QualityTrukipan #StreetFood #Arnhem
+> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem #Nijmegen
+> TikTok: dit grijpt iedereen bij de truck. #QualityTrukipan #StreetFood #Arnhem #Nijmegen
 
 **10-09 · 17:30 · RESTAURANT · Instagram · FOTO**
 > Zo ziet een avond bij ons eruit 🌙 Rustig, warm en vol geur uit de keuken. Reserveer je plekje voor vanavond.
@@ -377,8 +377,8 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 > TikTok: een dot saus, en het is compleet. #QualitySauce #SurinaamsEten #Arnhem
 
 **12-09 · 10:00 · FOODTRUCK · Instagram + Facebook · FOTO**
-> Waar vind je ons dit weekend? Bij [locatie]. Loop langs en proef het zelf.
-> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
+> Waar vind je ons dit weekend? Bij winkelcentrum Hatert in Nijmegen. Loop langs en proef het zelf.
+> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem #Nijmegen
 
 **12-09 · 12:30 · RESTAURANT · Instagram · FOTO**
 > [gerecht], onze klassieker waar mensen speciaal voor terugkomen. Reserveer je tafel en ontdek waarom.
@@ -386,7 +386,7 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 
 **12-09 · 13:00 · FOODTRUCK · Instagram · FOTO**
 > Het is weer druk bij ons vandaag 🙌 Neem wat tijd mee en kom langs.
-> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
+> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem #Nijmegen
 
 **12-09 · 18:00 · RESTAURANT · Instagram + TikTok · REEL**
 > Zo gaat een zaterdagavond bij ons 🎶 Reserveer op tijd, want vol is vol.
@@ -394,7 +394,7 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 > TikTok: druk, warm en gezellig. #QualityTrukipan #Presikhaaf #Arnhem
 
 **13-09 · 10:00 · FOODTRUCK · Instagram + Facebook · FOTO**
-> Waar vind je ons deze zondag? Bij [locatie]. Loop gezellig langs en proef mee.
+> Waar vind je ons deze zondag? Bij winkelcentrum Elderhof in Arnhem. Loop gezellig langs en proef mee.
 > #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
 
 **13-09 · 12:30 · RESTAURANT · Instagram · FOTO**
@@ -421,13 +421,13 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 > TikTok: kijk mee hoe [gerecht] ontstaat. #QualityTrukipan #SurinaamsEten #Arnhem
 
 **17-09 · 10:00 · FOODTRUCK · Instagram + Facebook · FOTO**
-> Vandaag rijdt de truck naar [locatie]. Kom een bakkie trukipan halen.
-> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
+> Vandaag rijdt de truck naar winkelcentrum Hatert in Nijmegen. Kom een bakkie trukipan halen.
+> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem #Nijmegen
 
 **17-09 · 13:00 · FOODTRUCK · Instagram + TikTok · REEL**
 > Onze bestseller, gemaakt terwijl jij wacht. Kom langs bij de truck en probeer 'm.
-> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
-> TikTok: recht van de plaat, onze bestseller. #QualityTrukipan #StreetFood #Arnhem
+> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem #Nijmegen
+> TikTok: recht van de plaat, onze bestseller. #QualityTrukipan #StreetFood #Arnhem #Nijmegen
 
 **17-09 · 17:30 · RESTAURANT · Instagram · FOTO**
 > Avondsfeer zoals wij 'm het liefst hebben: vol, warm en gezellig. Schuif aan en ervaar het zelf.
@@ -443,8 +443,8 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 > TikTok: zo doen wij het met onze saus. #QualitySauce #SurinaamsEten #Arnhem
 
 **19-09 · 10:00 · FOODTRUCK · Instagram + Facebook · FOTO**
-> Het weekend is begonnen, en dat vieren we bij [locatie]. Kom gezellig langs voor verse trukipan.
-> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
+> Het weekend is begonnen, en dat vieren we bij winkelcentrum Hatert in Nijmegen. Kom gezellig langs voor verse trukipan.
+> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem #Nijmegen
 
 **19-09 · 12:30 · RESTAURANT · Instagram · FOTO**
 > Sommige gerechten hoeven nooit te veranderen. [gerecht] is er zo een. Kom langs in Presikhaaf.
@@ -452,7 +452,7 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 
 **19-09 · 13:00 · FOODTRUCK · Instagram · FOTO**
 > Zo ziet een goede dag bij de truck eruit: rijen mensen die willen proeven. Sluit aan en ontdek het zelf.
-> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
+> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem #Nijmegen
 
 **19-09 · 18:00 · RESTAURANT · Instagram + TikTok · REEL**
 > De week wordt afgesloten zoals het hoort: gezellig druk bij ons in de zaak. Schuif aan en maak er een avond van.
@@ -460,7 +460,7 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 > TikTok: de sfeer van een goede zaterdag. #QualityTrukipan #Presikhaaf #Arnhem
 
 **20-09 · 10:00 · FOODTRUCK · Instagram + Facebook · FOTO**
-> Ook op zondag rijdt de truck: vandaag bij [locatie]. Kom een bakkie trukipan halen.
+> Ook op zondag rijdt de truck: vandaag bij winkelcentrum Elderhof in Arnhem. Kom een bakkie trukipan halen.
 > #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
 
 **20-09 · 12:30 · RESTAURANT · Instagram · FOTO**
@@ -487,13 +487,13 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 > TikTok: [gerecht] ontstaat, stap voor stap in de keuken. #QualityTrukipan #SurinaamsEten #Arnhem
 
 **24-09 · 10:00 · FOODTRUCK · Instagram + Facebook · FOTO**
-> Deze donderdag staan we weer klaar bij [locatie]. Kom langs voor verse trukipan.
-> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
+> Deze donderdag staan we weer klaar bij winkelcentrum Hatert in Nijmegen. Kom langs voor verse trukipan.
+> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem #Nijmegen
 
 **24-09 · 13:00 · FOODTRUCK · Instagram + TikTok · REEL**
 > Wat iedereen bij de truck bestelt, staat er niet voor niets al jaren op. Kom langs en proef 'm zelf.
-> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
-> TikTok: onze bestseller, al jaren favoriet. #QualityTrukipan #StreetFood #Arnhem
+> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem #Nijmegen
+> TikTok: onze bestseller, al jaren favoriet. #QualityTrukipan #StreetFood #Arnhem #Nijmegen
 
 **24-09 · 17:30 · RESTAURANT · Instagram · FOTO**
 > De geuren uit de keuken, het gedempte licht, de tafels die vollopen: zo begint een avond bij ons. Kom langs en voel het zelf.
@@ -509,8 +509,8 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 > TikTok: onze saus, gewoon overal bij. #QualitySauce #SurinaamsEten #Arnhem
 
 **26-09 · 10:00 · FOODTRUCK · Instagram + Facebook · FOTO**
-> Dit weekend staan we bij [locatie] klaar voor je. Kom langs voor verse trukipan.
-> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
+> Dit weekend staan we bij winkelcentrum Hatert in Nijmegen klaar voor je. Kom langs voor verse trukipan.
+> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem #Nijmegen
 
 **26-09 · 12:30 · RESTAURANT · Instagram · FOTO**
 > [gerecht] verandert nooit, en dat is precies de bedoeling. Kom hem proeven zoals je hem kent.
@@ -518,7 +518,7 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 
 **26-09 · 13:00 · FOODTRUCK · Instagram · FOTO**
 > Nog een drukke dag bij de truck, precies zoals we het willen. Sluit aan in de rij en proef mee.
-> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
+> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem #Nijmegen
 
 **26-09 · 18:00 · RESTAURANT · Instagram + TikTok · REEL**
 > Zaterdagavond zoals wij 'm het liefst zien: de zaak vol, de sfeer goed. Reserveer op tijd, want vol raakt vol.
@@ -526,7 +526,7 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 > TikTok: nog een volle zaterdagavond. #QualityTrukipan #Presikhaaf #Arnhem
 
 **27-09 · 10:00 · FOODTRUCK · Instagram + Facebook · FOTO**
-> Rustige zondag, verse trukipan: we staan bij [locatie]. Kom langs en schuif aan.
+> Rustige zondag, verse trukipan: we staan bij winkelcentrum Elderhof in Arnhem. Kom langs en schuif aan.
 > #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
 
 **27-09 · 12:30 · RESTAURANT · Instagram · FOTO**
