@@ -8,7 +8,9 @@ Stijl: warm, Nederlands, emoji spaarzaam. Captions eindigen op een uitnodiging
 
 ## Sjablonen — Restaurant
 
-Per rubriek drie varianten, zodat vier weken niet identiek klinken.
+Per rubriek drie varianten, vier voor rubrieken zonder placeholder (Avondsfeer,
+On-site bestseller, Drukte, Zaterdagavond, Saus in gebruik, Fles in beeld),
+zodat de weken niet identiek klinken.
 
 **Bord van de week — variant A**
 > Nieuwe week, nieuw bord: [gerecht]. Vers gemaakt, precies zoals het hoort. Kom langs in Presikhaaf.
@@ -46,6 +48,10 @@ Per rubriek drie varianten, zodat vier weken niet identiek klinken.
 > Avondsfeer zoals wij 'm het liefst hebben: vol, warm en gezellig. Schuif aan en ervaar het zelf.
 > #QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan
 
+**Avondsfeer — variant D**
+> De geuren uit de keuken, het gedempte licht, de tafels die vollopen: zo begint een avond bij ons. Kom langs en voel het zelf.
+> #QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan
+
 **Pairing — variant A**
 > [drink] bij [gerecht], een combinatie die altijd werkt. Kom het proeven in Presikhaaf.
 > #QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan
@@ -80,6 +86,10 @@ Per rubriek drie varianten, zodat vier weken niet identiek klinken.
 
 **Zaterdagavond — variant C**
 > De week wordt afgesloten zoals het hoort: gezellig druk bij ons in de zaak. Schuif aan en maak er een avond van.
+> #QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan
+
+**Zaterdagavond — variant D**
+> Zaterdagavond zoals wij 'm het liefst zien: de zaak vol, de sfeer goed. Reserveer op tijd, want vol raakt vol.
 > #QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan
 
 **Zondagbord — variant A**
@@ -120,6 +130,10 @@ Per rubriek drie varianten, zodat vier weken niet identiek klinken.
 > Onze bestseller, gemaakt terwijl jij wacht. Kom langs bij de truck en probeer 'm.
 > #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
 
+**On-site bestseller — variant D**
+> Wat iedereen bij de truck bestelt, staat er niet voor niets al jaren op. Kom langs en proef 'm zelf.
+> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
+
 **Locatie-reveal zaterdag — variant A**
 > Zaterdag staan we bij [locatie] 📍 Kom langs voor verse trukipan.
 > #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
@@ -129,7 +143,7 @@ Per rubriek drie varianten, zodat vier weken niet identiek klinken.
 > #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
 
 **Locatie-reveal zaterdag — variant C**
-> Vandaag rijdt de truck naar [locatie]. Kom een bakkie trukipan halen.
+> Het weekend is begonnen, en dat vieren we bij [locatie]. Kom gezellig langs voor verse trukipan.
 > #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
 
 **Locatie-reveal — variant zonder adres**
@@ -150,6 +164,10 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 > Zo ziet een goede dag bij de truck eruit: rijen mensen die willen proeven. Sluit aan en ontdek het zelf.
 > #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
 
+**Drukte — variant D**
+> Nog een drukke dag bij de truck, precies zoals we het willen. Sluit aan in de rij en proef mee.
+> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
+
 **Fles in beeld — variant A**
 > Onze saus, recht in beeld. Bestel 'm via de link in bio en breng de smaak naar huis.
 > #QualitySauce #SurinaamsEten #Saus #Arnhem
@@ -162,6 +180,10 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 > Klaar voor gebruik, klaar voor jouw bord: onze saus. Bestel 'm nu via de webshoplink.
 > #QualitySauce #SurinaamsEten #Saus #Arnhem
 
+**Fles in beeld — variant D**
+> De fles die nooit mag ontbreken in huis. Bestel 'm via de webshop en zet 'm in je keukenkast.
+> #QualitySauce #SurinaamsEten #Saus #Arnhem
+
 **Saus in gebruik — variant A**
 > Zo gebruiken wij onze saus het liefst: gewoon overal bij. Bestel 'm via de link in bio.
 > #QualitySauce #SurinaamsEten #Saus #Arnhem
@@ -171,7 +193,11 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 > #QualitySauce #SurinaamsEten #Saus #Arnhem
 
 **Saus in gebruik — variant C**
-> Onze saus in actie, precies zoals bedoeld. Bestel 'm via de webshop en probeer thuis.
+> Onze saus in actie, precies zoals bedoeld. Bestel 'm via de webshop en probeer 'm thuis.
+> #QualitySauce #SurinaamsEten #Saus #Arnhem
+
+**Saus in gebruik — variant D**
+> Onze saus zit overal bij op tafel, van de rijst tot de kip. Bestel 'm via de link in bio en voeg 'm toe aan jouw bord.
 > #QualitySauce #SurinaamsEten #Saus #Arnhem
 
 ## Week 1 — di 1 t/m zo 6 september
@@ -319,12 +345,12 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 > #QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan
 
 **18-09 · 18:00 · SAUCE · Instagram + TikTok · REEL**
-> Onze saus in actie, precies zoals bedoeld. Bestel 'm via de webshop en probeer thuis.
+> Onze saus in actie, precies zoals bedoeld. Bestel 'm via de webshop en probeer 'm thuis.
 > #QualitySauce #SurinaamsEten #Saus #Arnhem
 > TikTok: zo doen wij het met onze saus. #QualitySauce #SurinaamsEten #Arnhem
 
 **19-09 · 10:00 · FOODTRUCK · Instagram + Facebook · FOTO**
-> Vandaag rijdt de truck naar [locatie]. Kom een bakkie trukipan halen.
+> Het weekend is begonnen, en dat vieren we bij [locatie]. Kom gezellig langs voor verse trukipan.
 > #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
 
 **19-09 · 12:30 · RESTAURANT · Instagram · FOTO**
@@ -364,12 +390,12 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 > #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
 
 **24-09 · 13:00 · FOODTRUCK · Instagram + TikTok · REEL**
-> De bestseller bij de truck, recht van de plaat. Kom hem proeven waar wij vandaag staan.
+> Wat iedereen bij de truck bestelt, staat er niet voor niets al jaren op. Kom langs en proef 'm zelf.
 > #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
-> TikTok: de bestseller, live vanaf de truck 🔥 #QualityTrukipan #StreetFood #Arnhem
+> TikTok: onze bestseller, al jaren favoriet. #QualityTrukipan #StreetFood #Arnhem
 
 **24-09 · 17:30 · RESTAURANT · Instagram · FOTO**
-> De avond valt, de lichten gaan aan en Presikhaaf schuift aan tafel. Kom sfeer proeven bij Quality Trukipan.
+> De geuren uit de keuken, het gedempte licht, de tafels die vollopen: zo begint een avond bij ons. Kom langs en voel het zelf.
 > #QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan
 
 **25-09 · 12:00 · RESTAURANT · Instagram · FOTO**
@@ -377,9 +403,9 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 > #QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan
 
 **25-09 · 18:00 · SAUCE · Instagram + TikTok · REEL**
-> Zo gebruiken wij onze saus het liefst: gewoon overal bij. Bestel 'm via de link in bio.
+> Onze saus zit overal bij op tafel, van de rijst tot de kip. Bestel 'm via de link in bio en voeg 'm toe aan jouw bord.
 > #QualitySauce #SurinaamsEten #Saus #Arnhem
-> TikTok: saus in actie, precies zo gebruiken wij 'm. #QualitySauce #SurinaamsEten #Arnhem
+> TikTok: onze saus, gewoon overal bij. #QualitySauce #SurinaamsEten #Arnhem
 
 **26-09 · 10:00 · FOODTRUCK · Instagram + Facebook · FOTO**
 > Zaterdag staan we bij [locatie] 📍 Kom langs voor verse trukipan.
@@ -390,13 +416,13 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 > #QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan
 
 **26-09 · 13:00 · FOODTRUCK · Instagram · FOTO**
-> Rij bij de truck, en niet zonder reden. Kom aansluiten en proef waarom.
+> Nog een drukke dag bij de truck, precies zoals we het willen. Sluit aan in de rij en proef mee.
 > #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
 
 **26-09 · 18:00 · RESTAURANT · Instagram + TikTok · REEL**
-> Zaterdagavond bij Quality Trukipan: vol, warm en gezellig. Kom de sfeer proeven.
+> Zaterdagavond zoals wij 'm het liefst zien: de zaak vol, de sfeer goed. Reserveer op tijd, want vol raakt vol.
 > #QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan
-> TikTok: zo ziet zaterdagavond bij ons eruit 🎶 #QualityTrukipan #Presikhaaf #Arnhem
+> TikTok: nog een volle zaterdagavond. #QualityTrukipan #Presikhaaf #Arnhem
 
 **27-09 · 12:30 · RESTAURANT · Instagram · FOTO**
 > Zondag, tijd voor [gerecht]. Rustig aan tafel met de mensen van wie je houdt. Kom langs in Presikhaaf.
@@ -405,7 +431,7 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 ## Slot — ma 28 t/m wo 30 september
 
 **28-09 · 17:00 · SAUCE · Instagram + Facebook · FOTO**
-> Deze fles hoort in elke keuken 🌶️ Bestel via de webshop en proef het verschil.
+> De fles die nooit mag ontbreken in huis. Bestel 'm via de webshop en zet 'm in je keukenkast.
 > #QualitySauce #SurinaamsEten #Saus #Arnhem
 
 **29-09 · 12:00 · RESTAURANT · Instagram · FOTO**
