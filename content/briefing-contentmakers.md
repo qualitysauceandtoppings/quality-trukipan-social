@@ -76,6 +76,18 @@ binnen zijn:
 De rest — alles wat hierboven niet genoemd staat — mag uiterlijk **woensdag
 2 september**.
 
+**Stuur een lijstje mee.** Wij schrijven de teksten bij jullie beeld, en zonder lijstje
+weten we niet wat er op een foto staat. Eén regel per bestand is genoeg:
+
+```
+REST_FOTO_gerecht_01.jpg  — pom met kipjus
+REST_REEL_gerecht_01.mp4  — roti met kip, van pan tot bord
+REST_FOTO_pairing_01.jpg  — bakbanaan met een Parbo
+```
+
+Voor de acht gerechten uit de keuken en de drie drinks bij de pairings is dat lijstje
+verplicht. Bij sfeer- en locatiebeelden hoeft het niet.
+
 ## Wat er precies nodig is
 
 Dit is de harde ondergrens: hiermee komt september rond. Het draaiboek hierboven

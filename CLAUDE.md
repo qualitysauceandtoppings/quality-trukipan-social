@@ -62,7 +62,9 @@ worden samen 95 posts.
   de foodtruck liggen vast in `content/locaties.md`; Jonathan hoeft die niet meer
   per maand aan te leveren, alleen uitzonderingen erop worden via de chat
   doorgegeven (zie `content/locaties.md`). Verder niets.
-- **Contentmakers** — leveren beeld volgens `content/briefing-contentmakers.md`, vóór de 28e.
+- **Contentmakers** — leveren beeld volgens `content/briefing-contentmakers.md`, vóór de 28e,
+  met een lijstje erbij van welk gerecht of welke drink in welk bestand zit. Daaruit worden
+  de placeholders `[gerecht]` en `[drink]` in de captions ingevuld.
 - **Claude** — maandplan, captions, beeld koppelen, inplannen in Buffer, index bijhouden, evaluatie.
 
 Niets wordt ingepland zonder expliciete goedkeuring van Jonathan op de hele batch.
