@@ -63,11 +63,30 @@ Beide Instagram-accounts zijn Professional Accounts zonder herinneringen: feed-p
 en reels publiceren automatisch. Kale stories ook. Alleen reels die op een trending
 sound uit de app moeten worden als herinnering klaargezet, maximaal twee per maand.
 
+## Beeldopslag
+
+Buffer accepteert media alleen via een directe bestands-URL. Daarvoor staat een
+Cloudflare R2-bucket klaar in het account `info@qualityfoodcocktailbar.nl`
+(account-ID `49cd4a50cee1c34782a6d375951b7143`):
+
+- Bucket: `quality-trukipan-media`
+- Publiek adres: `https://pub-45b4de13a5a44d21a27e6ebf505bfc5b.r2.dev`
+- Eén map per maand: `2026-09/`, `2026-10/`, enzovoort
+- Link van een bestand: `<publiek adres>/<maandmap>/<bestandsnaam>`, bijvoorbeeld
+  `https://pub-45b4de13a5a44d21a27e6ebf505bfc5b.r2.dev/2026-09/REST_REEL_pom_01.mp4`
+
+De contentmakers krijgen géén toegang tot de bucket; zij leveren aan zoals ze gewend
+zijn, met de juiste bestandsnamen. Claude zet de bestanden er zelf in met
+`wrangler r2 object put <bucket>/<maandmap>/<naam> --file <pad> --remote`.
+
+Publieke toegang betekent: wie de exacte link heeft kan het bestand ophalen. De bucket
+is niet doorzoekbaar en geeft geen bestandslijst.
+
 ## Status
 
 - [x] Ontwerp vastgelegd en goedgekeurd (10 aug 2026)
 - [x] Maandplan, captions, contentbank en briefing voor september
+- [x] Beeldopslag ingericht: R2-bucket met publieke toegang (11 aug 2026)
 - [ ] Shootdag ingepland met de contentmakers (uiterlijk 22 aug)
 - [ ] Beeld geleverd (uiterlijk 28 aug)
-- [ ] Aanleverroute voor media vastgesteld — open vraag bij de contentmakers
 - [ ] Batch september goedgekeurd en ingepland in Buffer

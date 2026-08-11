@@ -36,6 +36,11 @@ Ruwe opbrengst van de dag: 17 reels en ongeveer 56 stills.
   Instagram kan commerciële tracks dempen of het bereik knijpen
 - Lever geen muzieksticker of tekst-in-app aan: tekst mag ingebrand, stickers niet
 
+**Waar naartoe:** stuur alles in één keer naar Jonathan, via de dienst die jullie
+gewend zijn — WeTransfer, Drive, Dropbox, maakt niet uit. Wij zetten het daarna zelf
+in onze eigen opslag. Belangrijk is alleen dat de bestandsnamen kloppen: aan de naam
+zien wij bij welke post het beeld hoort, dus een verkeerde naam kost tijd.
+
 ## Wat er precies nodig is
 
 Dit is de harde ondergrens: hiermee komt september rond. Het draaiboek hierboven

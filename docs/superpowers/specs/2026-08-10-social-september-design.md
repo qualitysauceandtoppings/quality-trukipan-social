@@ -154,11 +154,16 @@ MERK_TYPE_ONDERWERP_NR.ext      REST_REEL_pom_01.mp4 · SAUCE_FOTO_fles_03.jpg
 
 Merk is `REST`, `TRUCK` of `SAUCE`. Type is `REEL`, `FOTO` of `STORY`.
 
-**Open beslissing:** waar de contentmakers aanleveren, zodat elk bestand een directe URL
-heeft. Buffer accepteert media uitsluitend via een directe bestands-URL. De vraag ligt bij
-de contentmakers. Voorkeursroute is een vaste cloudmap (Cloudflare R2 of S3) waarbij de
-bestandsnaam de URL bepaalt, zodat er niemand meer aan te pas komt. Terugvaloptie: de
-posts worden zonder beeld klaargezet en één persoon vult ze aan in Buffer.
+**Besloten op 11 augustus 2026.** Buffer accepteert media uitsluitend via een directe
+bestands-URL. Daarvoor staat een Cloudflare R2-bucket klaar, `quality-trukipan-media`,
+met publieke toegang op `https://pub-45b4de13a5a44d21a27e6ebf505bfc5b.r2.dev` en één map
+per maand (`2026-09/`). De bestandsnaam bepaalt de link, dus koppelen kan zonder dat er
+iemand aan te pas komt.
+
+De contentmakers krijgen geen toegang tot die bucket. Zij leveren aan via de dienst die
+zij gewend zijn, met de afgesproken bestandsnamen; Claude zet de bestanden er daarna zelf
+in. Zo hoeven er geen sleutels gedeeld te worden en blijft de toegang tot de opslag
+beperkt tot het account van de zaak.
 
 ## Publicatie-instellingen
 
