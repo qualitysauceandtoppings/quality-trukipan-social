@@ -1,29 +1,40 @@
 # Briefing contentmakers — september 2026
 
-**Let op vóór verzending:** vul de datum bij Shootdag hieronder in — dit document
-mag niet met `[datum]` naar de contentmakers.
-
-**Shootdag:** [datum], een donderdag of zaterdag zodat de foodtruck ook staat.
-Uiterste datum: zaterdag 22 augustus 2026.
-**Aanleveren:** uiterlijk vrijdag 28 augustus 2026.
+**Shootdagen:** zaterdag 29 augustus 2026 bij het restaurant in Presikhaaf, zondag
+30 augustus 2026 bij de foodtruck.
+**Aanleveren:** week 1 met voorrang op maandag 31 augustus, de rest uiterlijk woensdag
+2 september. Zie "Aanleveren" hieronder — die volgorde is hard, want de eerste post
+staat gepland op dinsdag 1 september om 12:00.
 **Waarvoor:** de complete social media van september — 54 contentmomenten over drie
 merken, samen goed voor 83 posts omdat een deel naar twee kanalen gaat.
 
-## Draaiboek shootdag
+## Draaiboek
 
-Eén dag, op een donderdag of zaterdag zodat de foodtruck ook staat. Zes blokken,
-achter elkaar.
+### Dag 1 — zaterdag 29 augustus, restaurant Presikhaaf
 
 | Blok | Tijd | Wat | Levert |
 |---|---|---|---|
-| 1 · Truck op locatie | 09:00–12:00 | Opbouw-timelapse, bestseller, rij/drukte, locatiebeeld | 4 reels + 16 stills |
-| 2 · Keuken | 12:30–15:30 | 8 gerechten van pan tot bord, elk 20–30 seconden | 8 reels |
-| 3 · Gerechten stills | 15:30–17:00 | Diezelfde 8 gerechten, twee hoeken, daglicht | 16 stills |
-| 4 · Pairing | 17:00–17:45 | Drie drinks naast een gerecht | 6 stills |
-| 5 · Sfeer en team | 18:00–19:30 | Timelapse vanaf vast standpunt, rustig naar vol; gedekte zaak, avondlicht, chef, team | 10 stills + 4 reels |
-| 6 · Sauce | 19:30–20:15 | Flessen los, in de hand, giet-shot op het bord | 8 stills + 1 reel |
+| 1 · Keuken | 12:30–15:30 | 8 gerechten van pan tot bord, elk 20–30 seconden | 8 reels |
+| 2 · Gerechten stills | 15:30–17:00 | Diezelfde 8 gerechten, twee hoeken, daglicht | 16 stills |
+| 3 · Pairing | 17:00–17:45 | Drie drinks naast een gerecht | 6 stills |
+| 4 · Sfeer en team | 18:00–19:30 | Timelapse vanaf vast standpunt, rustig naar vol; gedekte zaak, avondlicht, chef, team | 10 stills + 4 reels |
+| 5 · Sauce | 19:30–20:15 | Flessen los, in de hand, giet-shot op het bord | 8 stills + 1 reel |
 
-Ruwe opbrengst van de dag: 17 reels en ongeveer 56 stills.
+Zaterdag is een drukke dienst. Dat is juist gunstig voor de timelapse in blok 4: begin
+bij een lege zaak en laat 'm vollopen.
+
+### Dag 2 — zondag 30 augustus, foodtruck
+
+| Blok | Tijd | Wat | Levert |
+|---|---|---|---|
+| 6 · Truck op locatie | 09:00–12:00 | Opbouw-timelapse, bestseller, rij/drukte, locatiebeeld | 4 reels + 16 stills |
+
+De truck rijdt die zondag gewoon, dus dit is een normale draaidag met echte klanten.
+Zorg dat de omgeving herkenbaar in beeld staat. Die acht locatiefoto's moeten in
+september vier donderdagen en vier zaterdagen dekken, dus varieer het standpunt: niet
+acht keer dezelfde hoek.
+
+Ruwe opbrengst van beide dagen samen: 17 reels en ongeveer 56 stills.
 
 ## Aanleveren
 
@@ -36,10 +47,31 @@ Ruwe opbrengst van de dag: 17 reels en ongeveer 56 stills.
   Instagram kan commerciële tracks dempen of het bereik knijpen
 - Lever geen muzieksticker of tekst-in-app aan: tekst mag ingebrand, stickers niet
 
-**Waar naartoe:** stuur alles in één keer naar Jonathan, via de dienst die jullie
-gewend zijn — WeTransfer, Drive, Dropbox, maakt niet uit. Wij zetten het daarna zelf
-in onze eigen opslag. Belangrijk is alleen dat de bestandsnamen kloppen: aan de naam
-zien wij bij welke post het beeld hoort, dus een verkeerde naam kost tijd.
+**Waar naartoe:** stuur het naar Jonathan, via de dienst die jullie gewend zijn —
+WeTransfer, Drive, Dropbox, maakt niet uit. Wij zetten het daarna zelf in onze eigen
+opslag. Belangrijk is alleen dat de bestandsnamen kloppen: aan de naam zien wij bij
+welke post het beeld hoort, dus een verkeerde naam kost tijd.
+
+**In twee zendingen, en de eerste is haastwerk.** De eerste post staat gepland op
+dinsdag 1 september om 12:00. Deze twaalf bestanden moeten daarom **maandag 31 augustus**
+binnen zijn:
+
+| Bestand | Wat |
+|---|---|
+| `REST_FOTO_gerecht_01.jpg` | Gerecht bovenaanzicht (di 1 sept) |
+| `REST_REEL_gerecht_01.mp4` | Bereiding tot bord (wo 2 sept, ook de bron voor de sausreel van vrijdag) |
+| `TRUCK_FOTO_locatie_01.jpg` | Truck op locatie (do 3 sept) |
+| `TRUCK_REEL_bestseller_01.mp4` | Bestseller bij de truck (do 3 sept) |
+| `REST_FOTO_sfeer_01.jpg` | Avondsfeer (do 3 sept) |
+| `REST_FOTO_pairing_01.jpg` | Drink naast een gerecht (vr 4 sept) |
+| `TRUCK_FOTO_locatie_02.jpg` | Truck op locatie (za 5 sept) |
+| `REST_FOTO_gerecht_06.jpg` | De klassieker (za 5 sept) |
+| `TRUCK_FOTO_onsite_01.jpg` | Rij of drukte bij de truck (za 5 sept) |
+| `REST_REEL_sfeer_01.mp4` | Timelapse zaterdagavond (za 5 sept) |
+| `REST_FOTO_gerecht_10.jpg` | Zondagbord (zo 6 sept) |
+
+De rest — alles wat hierboven niet genoemd staat — mag uiterlijk **woensdag
+2 september**.
 
 ## Wat er precies nodig is
 

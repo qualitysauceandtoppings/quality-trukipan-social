@@ -87,6 +87,10 @@ is niet doorzoekbaar en geeft geen bestandslijst.
 - [x] Ontwerp vastgelegd en goedgekeurd (10 aug 2026)
 - [x] Maandplan, captions, contentbank en briefing voor september
 - [x] Beeldopslag ingericht: R2-bucket met publieke toegang (11 aug 2026)
-- [ ] Shootdag ingepland met de contentmakers (uiterlijk 22 aug)
-- [ ] Beeld geleverd (uiterlijk 28 aug)
+- [x] Shootdagen vastgelegd: za 29 aug restaurant, zo 30 aug foodtruck
+- [ ] Beeld geleverd — week 1 op ma 31 aug, de rest uiterlijk wo 2 sept
+
+> Let op: de shoot valt later dan de maandroutine voorschrijft. September start
+> daardoor krap: één werkdag tussen de shoot en de eerste post op di 1 sept 12:00.
+> Vanaf oktober weer volgens de routine, dus shoot vóór de 27e.
 - [ ] Batch september goedgekeurd en ingepland in Buffer
