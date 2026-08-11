@@ -8,9 +8,15 @@ Stijl: warm, Nederlands, emoji spaarzaam. Captions eindigen op een uitnodiging
 
 ## Sjablonen — Restaurant
 
-Per rubriek drie varianten, vier voor rubrieken zonder placeholder (Avondsfeer,
-On-site bestseller, Drukte, Zaterdagavond, Saus in gebruik, Fles in beeld),
-zodat de weken niet identiek klinken.
+Standaard drie varianten per rubriek (A-C). Rubrieken die vaker dan drie keer
+per maand voorkomen krijgen extra varianten, zodat geen enkele caption
+binnen dezelfde maand letterlijk terugkomt: vier varianten (A-D) voor
+Avondsfeer, On-site bestseller, Drukte, Zaterdagavond, Saus in gebruik, Fles
+in beeld, Locatie-reveal donderdag, Locatie-reveal zaterdag, Pairing, De
+klassieker en Zondagbord; vijf varianten (A-E) voor Bord van de week en In de
+keuken, omdat die op een dag vallen die in september vijf keer voorkomt.
+Tel bij een nieuwe maand zelf na hoe vaak elke rubriek voorkomt en vul zo
+nodig varianten aan voordat je de maand uitschrijft.
 
 **Bord van de week — variant A**
 > Nieuwe week, nieuw bord: [gerecht]. Vers gemaakt, precies zoals het hoort. Kom langs in Presikhaaf.
@@ -24,6 +30,14 @@ zodat de weken niet identiek klinken.
 > [gerecht], zoals wij 'm maken. Dinsdag is een prima dag om 'm te proberen.
 > #QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan
 
+**Bord van de week — variant D**
+> [gerecht] is deze week het bord waar we trots op zijn. Vers, vol smaak en klaar voor jou. Kom langs in Presikhaaf.
+> #QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan
+
+**Bord van de week — variant E**
+> Deze week draait alles om [gerecht] op ons bord. Geen kunstjes, gewoon goed eten. Reserveer een tafel en proef mee.
+> #QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan
+
 **In de keuken — variant A**
 > Achter de schermen bij Quality Trukipan: [gerecht] van pan tot bord. Zo maken we het, met liefde en tijd. Kom proeven in Presikhaaf.
 > #QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan
@@ -34,6 +48,14 @@ zodat de weken niet identiek klinken.
 
 **In de keuken — variant C**
 > Zo ontstaat [gerecht] bij ons in de keuken. Geen kortere weg, wel de lekkerste. Kom langs en proef het verschil.
+> #QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan
+
+**In de keuken — variant D**
+> Kijk mee hoe [gerecht] in onze keuken ontstaat: rustig, met aandacht en de juiste tijd. Kom langs en proef het resultaat.
+> #QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan
+
+**In de keuken — variant E**
+> Voor [gerecht] op je bord staat, gebeurt er heel wat in onze pannen. Reserveer je tafel en zie waar het vandaan komt.
 > #QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan
 
 **Avondsfeer — variant A**
@@ -64,6 +86,10 @@ zodat de weken niet identiek klinken.
 > [drink] en [gerecht], gemaakt om samen op tafel te staan. Kom langs en laat het je smaken.
 > #QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan
 
+**Pairing — variant D**
+> Bij [gerecht] hoort wat ons betreft [drink]. Kom de combinatie proeven in Presikhaaf.
+> #QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan
+
 **De klassieker — variant A**
 > Een klassieker die nooit verveelt: [gerecht]. Kom hem proeven zoals hij hoort te zijn.
 > #QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan
@@ -74,6 +100,10 @@ zodat de weken niet identiek klinken.
 
 **De klassieker — variant C**
 > Sommige gerechten hoeven nooit te veranderen. [gerecht] is er zo een. Kom langs in Presikhaaf.
+> #QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan
+
+**De klassieker — variant D**
+> [gerecht] verandert nooit, en dat is precies de bedoeling. Kom hem proeven zoals je hem kent.
 > #QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan
 
 **Zaterdagavond — variant A**
@@ -104,6 +134,10 @@ zodat de weken niet identiek klinken.
 > Zo sluit je de week goed af: met [gerecht] bij ons aan tafel. Kom langs en proef het zelf.
 > #QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan
 
+**Zondagbord — variant D**
+> Op zondag serveren we [gerecht], rustig en zonder haast. Kom aanschuiven in Presikhaaf.
+> #QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan
+
 ## Sjablonen — Foodtruck & Sauce
 
 **Locatie-reveal donderdag — variant A**
@@ -116,6 +150,10 @@ zodat de weken niet identiek klinken.
 
 **Locatie-reveal donderdag — variant C**
 > Vandaag rijdt de truck naar [locatie]. Kom een bakkie trukipan halen.
+> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
+
+**Locatie-reveal donderdag — variant D**
+> Deze donderdag staan we weer klaar bij [locatie]. Kom langs voor verse trukipan.
 > #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
 
 **On-site bestseller — variant A**
@@ -144,6 +182,10 @@ zodat de weken niet identiek klinken.
 
 **Locatie-reveal zaterdag — variant C**
 > Het weekend is begonnen, en dat vieren we bij [locatie]. Kom gezellig langs voor verse trukipan.
+> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
+
+**Locatie-reveal zaterdag — variant D**
+> Dit weekend staan we bij [locatie] klaar voor je. Kom langs voor verse trukipan.
 > #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
 
 **Locatie-reveal — variant zonder adres**
@@ -377,16 +419,16 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 > #QualitySauce #SurinaamsEten #Saus #Arnhem
 
 **22-09 · 12:00 · RESTAURANT · Instagram · FOTO**
-> Nieuwe week, nieuw bord: [gerecht]. Vers gemaakt, precies zoals het hoort. Kom langs in Presikhaaf.
+> [gerecht] is deze week het bord waar we trots op zijn. Vers, vol smaak en klaar voor jou. Kom langs in Presikhaaf.
 > #QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan
 
 **23-09 · 18:00 · RESTAURANT · Instagram + TikTok · REEL**
-> Achter de schermen bij Quality Trukipan: [gerecht] van pan tot bord. Zo maken we het, met liefde en tijd. Kom proeven in Presikhaaf.
+> Kijk mee hoe [gerecht] in onze keuken ontstaat: rustig, met aandacht en de juiste tijd. Kom langs en proef het resultaat.
 > #QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan
-> TikTok: [gerecht] van pan tot bord 🔥 #QualityTrukipan #SurinaamsEten #Arnhem
+> TikTok: [gerecht] ontstaat, stap voor stap in de keuken. #QualityTrukipan #SurinaamsEten #Arnhem
 
 **24-09 · 10:00 · FOODTRUCK · Instagram + Facebook · FOTO**
-> Donderdag staan we bij [locatie] 📍 Kom langs voor verse trukipan.
+> Deze donderdag staan we weer klaar bij [locatie]. Kom langs voor verse trukipan.
 > #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
 
 **24-09 · 13:00 · FOODTRUCK · Instagram + TikTok · REEL**
@@ -399,7 +441,7 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 > #QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan
 
 **25-09 · 12:00 · RESTAURANT · Instagram · FOTO**
-> [drink] bij [gerecht], een combinatie die altijd werkt. Kom het proeven in Presikhaaf.
+> Bij [gerecht] hoort wat ons betreft [drink]. Kom de combinatie proeven in Presikhaaf.
 > #QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan
 
 **25-09 · 18:00 · SAUCE · Instagram + TikTok · REEL**
@@ -408,11 +450,11 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 > TikTok: onze saus, gewoon overal bij. #QualitySauce #SurinaamsEten #Arnhem
 
 **26-09 · 10:00 · FOODTRUCK · Instagram + Facebook · FOTO**
-> Zaterdag staan we bij [locatie] 📍 Kom langs voor verse trukipan.
+> Dit weekend staan we bij [locatie] klaar voor je. Kom langs voor verse trukipan.
 > #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
 
 **26-09 · 12:30 · RESTAURANT · Instagram · FOTO**
-> Een klassieker die nooit verveelt: [gerecht]. Kom hem proeven zoals hij hoort te zijn.
+> [gerecht] verandert nooit, en dat is precies de bedoeling. Kom hem proeven zoals je hem kent.
 > #QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan
 
 **26-09 · 13:00 · FOODTRUCK · Instagram · FOTO**
@@ -425,7 +467,7 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 > TikTok: nog een volle zaterdagavond. #QualityTrukipan #Presikhaaf #Arnhem
 
 **27-09 · 12:30 · RESTAURANT · Instagram · FOTO**
-> Zondag, tijd voor [gerecht]. Rustig aan tafel met de mensen van wie je houdt. Kom langs in Presikhaaf.
+> Op zondag serveren we [gerecht], rustig en zonder haast. Kom aanschuiven in Presikhaaf.
 > #QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan
 
 ## Slot — ma 28 t/m wo 30 september
@@ -435,10 +477,10 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 > #QualitySauce #SurinaamsEten #Saus #Arnhem
 
 **29-09 · 12:00 · RESTAURANT · Instagram · FOTO**
-> Dit staat deze week op je bord: [gerecht] 😋 Reserveren kan, aanschuiven mag ook.
+> Deze week draait alles om [gerecht] op ons bord. Geen kunstjes, gewoon goed eten. Reserveer een tafel en proef mee.
 > #QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan
 
 **30-09 · 18:00 · RESTAURANT · Instagram + TikTok · REEL**
-> Recht uit onze keuken: [gerecht] 🔥 Van pan tot bord, stap voor stap. Reserveer je tafel en proef het zelf.
+> Voor [gerecht] op je bord staat, gebeurt er heel wat in onze pannen. Reserveer je tafel en zie waar het vandaan komt.
 > #QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan
-> TikTok: recht uit de keuken, [gerecht] in wording. #QualityTrukipan #SurinaamsEten #Arnhem
+> TikTok: van pan naar bord, [gerecht] in de maak. #QualityTrukipan #SurinaamsEten #Arnhem
