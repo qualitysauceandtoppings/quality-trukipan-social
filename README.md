@@ -15,14 +15,15 @@ quality-trukipan-social/
 │   ├── contentbank.md               ← index van al het beeldmateriaal
 │   ├── briefing-contentmakers.md    ← gaat naar de contentmakers
 │   ├── maandroutine.md              ← de vaste maandcyclus
-│   ├── weekplanning.md              ← oud sjabloon, naslag
-│   └── ideeenbank.md                ← contentideeën per categorie
+│   ├── ideeenbank.md                ← contentideeën per categorie
+│   ├── weekplanning.md              ← oud, alleen naslag (oude weekritme)
+│   └── captions-week-2026-08-11.md  ← oud, alleen naslag (oude weekritme)
 ├── docs/superpowers/
 │   ├── specs/                       ← het ontwerp
 │   └── plans/                       ← dit uitvoeringsplan
 ├── buffer/
 │   └── setup.md           ← accounts, kanalen, plan en werkwijze
-└── exports/
+└── exports/                         ← oud, alleen naslag (oude weekritme)
     ├── Quality Trukipan - Social Media Weeksysteem.xlsx
     └── Quality Trukipan - Social Media Weeksysteem.docx
 ```

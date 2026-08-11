@@ -208,8 +208,7 @@ ingepland wordt.
 | `CLAUDE.md` | Bijwerken: organisatienaam is Quality empire, nieuw systeem, nieuwe rolverdeling |
 
 Bestaand: `content/weekplanning.md` en `content/ideeenbank.md` blijven staan als naslag.
-`content/weekplanning-2026-08-18.md` en `content/captions-week-2026-08-11.md` horen bij het
-oude ritme en worden niet voortgezet.
+`content/captions-week-2026-08-11.md` hoort bij het oude ritme en wordt niet voortgezet.
 
 ## Meten
 

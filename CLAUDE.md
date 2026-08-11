@@ -50,7 +50,8 @@ worden samen 83 posts.
 
 ## Rolverdeling
 
-- **Jonathan** — keurt één keer per maand de complete batch goed. Verder niets.
+- **Jonathan** — keurt één keer per maand de complete batch goed en levert daarbij
+  de invulling van [gerecht], [drink] en [locatie] voor die maand aan. Verder niets.
 - **Contentmakers** — leveren beeld volgens `content/briefing-contentmakers.md`, vóór de 28e.
 - **Claude** — maandplan, captions, beeld koppelen, inplannen in Buffer, index bijhouden, evaluatie.
 

@@ -22,7 +22,7 @@ Pak hieruit als je de weekplanning invult. Vul zelf aan met eigen ideeën.
 - Tevreden gasten (met toestemming)
 - Timelapse van rustig naar vol
 
-## Reels-ideeën (de 2 per week)
+## Reels-ideeën (voor In de keuken, Zaterdagavond, On-site bestseller en Saus in gebruik)
 - 'Wat kost het om dit gerecht te maken'
 - Transformatie: leeg bord → plating
 - Trending audio + jullie signature gerecht

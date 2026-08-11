@@ -4,7 +4,8 @@ Bron van waarheid voor de maand. Captions staan in `captions-september-2026.md`,
 beelden in `contentbank.md`. Status is `Gepland`, `In Buffer` of `Geplaatst`.
 
 September 2026 begint op dinsdag 1 en eindigt op woensdag 30.
-Volle weken: 1–6, 7–13, 14–20, 21–27. Slot: 28–30.
+Week 1 (1–6) heeft geen maandag, dus geen sauce-post die week. Volle weken:
+7–13, 14–20, 21–27. Slot: 28–30.
 
 Totaal 54 contentmomenten — 30 restaurant, 16 foodtruck, 8 sauce. Daarvan gaan
 er 29 naar twee kanalen (elk een eigen `create_post`-aanroep), dus in Buffer

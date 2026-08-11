@@ -1,3 +1,6 @@
+> **Verouderd:** hoort bij het oude weekritme, vervangen door
+> `captions-september-2026.md`. Alleen als naslag bewaard.
+
 # Captions — week 11 t/m 16 aug 2026
 
 Deze captions staan ook als **Ideeën** in Buffer (org: My Organization).

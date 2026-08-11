@@ -1,3 +1,6 @@
+> **Verouderd:** hoort bij het oude weekritme, vervangen door het voorraadmodel
+> in `september-2026.md`. Alleen als naslag bewaard.
+
 # Weekplanning — voorbeeldweek (kopieer per week)
 
 Restaurant = Quality Trukipan Presikhaaf (di–zo) · Foodtruck = Quality Trukipan (do + za).

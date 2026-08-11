@@ -5,9 +5,9 @@ Elke maand hetzelfde. Data zijn hard: de 20e en de 28e.
 | Wanneer | Wie | Wat |
 |---|---|---|
 | 20e | Claude | Maandplan en captions voor de volgende maand klaar; briefing naar de contentmakers |
-| 20e–27e | Contentmakers | Schieten en leveren |
+| 20e–28e | Contentmakers | Schieten en leveren |
 | 28e | Claude | Alles in Buffer, batch ter goedkeuring naar Jonathan |
-| 28e | Jonathan | Eén keer akkoord op de hele batch |
+| 28e | Jonathan | Eén keer akkoord op de hele batch, inclusief de invulling van [gerecht], [drink] en [locatie] voor die maand |
 | 28e | Claude | Na akkoord inplannen op dag en tijd |
 | 1e | — | De maand loopt |
 | Laatste dag | Claude | Evaluatie: welke rubrieken liepen het best, welke wordt vervangen |
