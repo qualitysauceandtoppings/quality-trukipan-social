@@ -4,3 +4,6 @@ Thumbs.db
 *~
 .idea/
 .vscode/
+
+# wrangler werkmap
+.wrangler/
