@@ -112,9 +112,16 @@ eigen `create_post`-aanroep. In Buffer worden 62 contentmomenten dus 95 posts
 Daarvan zijn 13 reels die echt gefilmd moeten worden (9 restaurant, 4 foodtruck); de
 sauce-reels komen uit restaurant-materiaal.
 
-## Shootdag
+## Shootdagen
 
-Eén dag in augustus, op een donderdag of zaterdag zodat de truck ook staat.
+Vastgelegd met de contentmakers op 11 augustus 2026: **zaterdag 29 augustus** bij het
+restaurant (blok 2 tot en met 6) en **zondag 30 augustus** bij de foodtruck (blok 1).
+De truck rijdt ook op zondag, dus dat is een gewone draaidag met klanten.
+
+Dat valt later dan de maandroutine voorschrijft: er zit één werkdag tussen de shoot en
+de eerste post op dinsdag 1 september. Daarom leveren de contentmakers in twee zendingen,
+met het materiaal voor week 1 op maandag 31 augustus. Vanaf oktober weer volgens de
+routine, dus shoot vóór de 27e.
 
 | Blok | Tijd | Wat | Levert |
 |---|---|---|---|
@@ -129,8 +136,8 @@ Ruwe opbrengst: 17 reels en ongeveer 56 stills. Dat dekt de 13 nodige reels prec
 keukenreels en 4 zaterdagavondreels voor het restaurant (samen 9) en 4 voor de truck. De
 sauce-reel uit blok 6 en de 3 extra keukenreels zijn reserve.
 
-**Datum shootdag:** wordt vastgelegd zodra de contentmakers reageren. Uiterste datum is
-zaterdag 22 augustus 2026 — later haalt de levering van 28 augustus het niet.
+Blok 1 valt op zondag 30 augustus, de rest op zaterdag 29 augustus. Voor de foodtruck
+zijn twaalf locatiefoto's nodig in plaats van acht, omdat er ook op zondag gereden wordt.
 
 ### Repurposeregels
 

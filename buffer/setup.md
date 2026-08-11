@@ -39,6 +39,7 @@ schema meer.
 
 September 2026 staat klaar in de repo: maandplan, captions en contentbank-index
 zijn af (zie `CLAUDE.md`). Wacht nog op twee dingen: het beeld van de
-contentmakers (uiterlijk 28 augustus, zie `content/briefing-contentmakers.md`)
-en de goedkeuring van Jonathan op de complete batch. Pas na beide wordt er iets
-in Buffer ingepland.
+contentmakers — geschoten op 29 en 30 augustus, week 1 aangeleverd op maandag
+31 augustus en de rest uiterlijk woensdag 2 september (zie
+`content/briefing-contentmakers.md`) — en de goedkeuring van Jonathan op de
+complete batch. Pas na beide wordt er iets in Buffer ingepland.
