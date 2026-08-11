@@ -6,7 +6,8 @@ mag niet met `[datum]` naar de contentmakers.
 **Shootdag:** [datum], een donderdag of zaterdag zodat de foodtruck ook staat.
 Uiterste datum: zaterdag 22 augustus 2026.
 **Aanleveren:** uiterlijk vrijdag 28 augustus 2026.
-**Waarvoor:** de complete social media van september — 54 posts over drie merken.
+**Waarvoor:** de complete social media van september — 54 contentmomenten over drie
+merken, samen goed voor 83 posts omdat een deel naar twee kanalen gaat.
 
 ## Draaiboek shootdag
 
@@ -35,17 +36,41 @@ Ruwe opbrengst van de dag: 17 reels en ongeveer 56 stills.
   Instagram kan commerciële tracks dempen of het bereik knijpen
 - Lever geen muzieksticker of tekst-in-app aan: tekst mag ingebrand, stickers niet
 
-## Shotlist per rubriek
+## Wat er precies nodig is
 
-| Rubriek | Wat we nodig hebben | Aantal |
+Dit is de harde ondergrens: hiermee komt september rond. Het draaiboek hierboven
+schiet ruimer — dat meerdere is reserve voor oktober en voor beelden die tegenvallen.
+
+### Restaurant — Quality Trukipan Presikhaaf
+
+| Rubriek | Wat | Aantal |
 |---|---|---|
-| Bord van de week | Gerecht bovenaanzicht, daglicht, schone rand | 5 foto's |
+| Bord van de week | Gerecht bovenaanzicht, daglicht, schone bordrand | 5 foto's |
 | In de keuken | Bereiding tot bord, 20–30 sec, korte shots | 5 reels |
-| Avondsfeer | Zaak bij avondlicht, mensen onherkenbaar of met toestemming | 4 foto's |
-| Pairing | Drink naast gerecht in één kader | 4 foto's |
+| Avondsfeer | Zaak bij avondlicht; gasten onherkenbaar of met toestemming | 4 foto's |
+| Pairing | Drink naast een gerecht, samen in één kader | 4 foto's |
 | De klassieker | Close-up plating | 4 foto's |
 | Zaterdagavond | Timelapse van rustig naar vol, vast standpunt | 4 reels |
 | Zondagbord | Gerecht van de dag | 4 foto's |
-| Foodtruck locatie | Truck met omgeving herkenbaar | 8 foto's |
-| Foodtruck on-site | Opbouw, bestseller, rij | 4 reels + 8 foto's |
-| Sauce | Fles los, in de hand, giet-shot op het bord | 8 foto's + 1 reel |
+
+### Foodtruck — Quality Trukipan
+
+| Rubriek | Wat | Aantal |
+|---|---|---|
+| Locatie-reveal | Truck met de omgeving herkenbaar in beeld | 8 foto's |
+| On-site bestseller | Bestseller bij de truck, van bakken tot uitgifte | 4 reels |
+| Drukte | Rij of aanloop bij de truck | 4 foto's |
+
+### Quality Sauce & Toppings
+
+| Rubriek | Wat | Aantal |
+|---|---|---|
+| Fles in beeld | Fles los en in de hand, schone achtergrond | 4 foto's |
+| Saus in gebruik | Giet-shot over een bord | 1 reel |
+
+### Totaal
+
+**14 reels en 37 foto's.**
+
+Stories hoeven niet apart geschoten te worden: die knippen we uit de reels.
+De vrijdagreel voor Sauce komt ook uit de keukenreel van woensdag.
