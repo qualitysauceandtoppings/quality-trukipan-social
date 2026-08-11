@@ -1,0 +1,11 @@
+name = "quality-trukipan-upload"
+main = "src/index.js"
+compatibility_date = "2026-08-11"
+
+[[r2_buckets]]
+binding = "MEDIA"
+bucket_name = "quality-trukipan-media"
+
+[vars]
+# Map waarin geüpload wordt. Elke maand aanpassen en opnieuw deployen.
+MAANDMAP = "2026-09"
