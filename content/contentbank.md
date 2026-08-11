@@ -23,7 +23,10 @@ Status: `Nieuw` (ongebruikt) · `Ingepland` · `Geplaatst` · `Afgevoerd`
 | REST_REEL_gerecht_06.mp4 | REST | REEL | Gerecht 6 van pan tot bord | | Nieuw |
 | REST_REEL_gerecht_07.mp4 | REST | REEL | Gerecht 7 van pan tot bord | | Nieuw |
 | REST_REEL_gerecht_08.mp4 | REST | REEL | Gerecht 8 van pan tot bord | | Nieuw |
-| REST_REEL_sfeer_01.mp4 | REST | REEL | Sfeerbeeld avond | | Nieuw |
+| REST_REEL_sfeer_01.mp4 | REST | REEL | Zaterdagavond-timelapse, week 1 | | Nieuw |
+| REST_REEL_sfeer_02.mp4 | REST | REEL | Zaterdagavond-timelapse, week 2 | | Nieuw |
+| REST_REEL_sfeer_03.mp4 | REST | REEL | Zaterdagavond-timelapse, week 3 | | Nieuw |
+| REST_REEL_sfeer_04.mp4 | REST | REEL | Zaterdagavond-timelapse, week 4 | | Nieuw |
 | SAUCE_REEL_giet_01.mp4 | SAUCE | REEL | Giet-shot op het bord | | Nieuw |
 | REST_FOTO_gerecht_01.jpg | REST | FOTO | Gerecht 1, hoek 1, daglicht | | Nieuw |
 | REST_FOTO_gerecht_02.jpg | REST | FOTO | Gerecht 1, hoek 2, daglicht | | Nieuw |
@@ -65,6 +68,14 @@ Status: `Nieuw` (ongebruikt) · `Ingepland` · `Geplaatst` · `Afgevoerd`
 | TRUCK_FOTO_onsite_06.jpg | TRUCK | FOTO | Klant ontvangt lachend de bestelling | | Nieuw |
 | TRUCK_FOTO_onsite_07.jpg | TRUCK | FOTO | Truck van opzij, omgeving en locatie herkenbaar | | Nieuw |
 | TRUCK_FOTO_onsite_08.jpg | TRUCK | FOTO | Drukte rond de truck bij zonsondergang | | Nieuw |
+| TRUCK_FOTO_locatie_01.jpg | TRUCK | FOTO | Truck op locatie donderdag week 1, omgeving herkenbaar | | Nieuw |
+| TRUCK_FOTO_locatie_02.jpg | TRUCK | FOTO | Truck op locatie zaterdag week 1, omgeving herkenbaar | | Nieuw |
+| TRUCK_FOTO_locatie_03.jpg | TRUCK | FOTO | Truck op locatie donderdag week 2, omgeving herkenbaar | | Nieuw |
+| TRUCK_FOTO_locatie_04.jpg | TRUCK | FOTO | Truck op locatie zaterdag week 2, omgeving herkenbaar | | Nieuw |
+| TRUCK_FOTO_locatie_05.jpg | TRUCK | FOTO | Truck op locatie donderdag week 3, omgeving herkenbaar | | Nieuw |
+| TRUCK_FOTO_locatie_06.jpg | TRUCK | FOTO | Truck op locatie zaterdag week 3, omgeving herkenbaar | | Nieuw |
+| TRUCK_FOTO_locatie_07.jpg | TRUCK | FOTO | Truck op locatie donderdag week 4, omgeving herkenbaar | | Nieuw |
+| TRUCK_FOTO_locatie_08.jpg | TRUCK | FOTO | Truck op locatie zaterdag week 4, omgeving herkenbaar | | Nieuw |
 | SAUCE_FOTO_fles_01.jpg | SAUCE | FOTO | Fles solo op houten snijplank, studiolicht | | Nieuw |
 | SAUCE_FOTO_fles_02.jpg | SAUCE | FOTO | Fles in de hand, label goed leesbaar | | Nieuw |
 | SAUCE_FOTO_fles_03.jpg | SAUCE | FOTO | Giet-shot: saus stroomt over een bord | | Nieuw |
