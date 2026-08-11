@@ -1,6 +1,6 @@
 # Buffer — setup & werkwijze
 
-- **Organisatie:** My Organization — `organizationId: 6a2d69cf3d34f01dcdb6401f`
+- **Organisatie:** Quality empire — `organizationId: 6a2d69cf3d34f01dcdb6401f`
 - **Plan:** Essentials (± $6 per kanaal/mnd, of ± $5 bij jaarlijks). Alle kanalen gekoppeld.
 - **Gratis-plan grens (ter info):** max 3 kanalen, ~10 posts in de wachtrij per kanaal.
 
@@ -8,7 +8,11 @@
 
 **Quality Trukipan (foodtruck)** — Instagram, TikTok, Facebook
 **Quality Trukipan Presikhaaf (restaurant)** — Instagram, TikTok
-**Quality Sauce & Toppings (los merk)** — Instagram, TikTok, Facebook
+**Quality Sauce & Toppings** — Instagram, TikTok, Facebook
+
+Quality Sauce & Toppings draait vanaf september mee in hetzelfde systeem als
+restaurant en foodtruck: vaste foto op maandag, vaste reel op vrijdag. Geen los
+schema meer.
 
 (Volledige kanaal-IDs staan in `../CLAUDE.md`.)
 
@@ -31,5 +35,8 @@
 
 ## Status
 
-Captions voor week 11–16 aug staan als **Ideeën** klaar (nog zonder media).
-Volgende stap: foto's/video's toevoegen en per kanaal inplannen op dag + tijd.
+September 2026 staat klaar in de repo: maandplan, captions en contentbank-index
+zijn af (zie `CLAUDE.md`). Wacht nog op twee dingen: het beeld van de
+contentmakers (uiterlijk 28 augustus, zie `content/briefing-contentmakers.md`)
+en de goedkeuring van Jonathan op de complete batch. Pas na beide wordt er iets
+in Buffer ingepland.
