@@ -29,7 +29,7 @@ Drie merken, acht kanalen.
 | Merk | Kanalen | Actief |
 |---|---|---|
 | Quality Trukipan Presikhaaf (restaurant) | Instagram, TikTok | di t/m zo |
-| Quality Trukipan (foodtruck) | Instagram, TikTok, Facebook | do + za |
+| Quality Trukipan (foodtruck) | Instagram, TikTok, Facebook | do + za + zo |
 | Quality Sauce & Toppings | Instagram, TikTok, Facebook | ma + vr |
 
 Buffer-organisatie: **Quality empire** (`6a2d69cf3d34f01dcdb6401f`), plan Essentials,
@@ -74,6 +74,8 @@ past slecht bij foodtruck-locaties die per week verschillen.
 | Do | 13:00 | Instagram + TikTok | Reel | On-site — bestseller |
 | Za | 10:00 | Instagram + Facebook | Foto | Locatie-reveal |
 | Za | 13:00 | Instagram | Foto | Drukte als social proof |
+| Zo | 10:00 | Instagram + Facebook | Foto | Locatie-reveal |
+| Zo | 13:00 | Instagram | Foto | Drukte als social proof |
 
 ### Quality Sauce & Toppings
 
@@ -98,14 +100,14 @@ September begint op dinsdag 1 en eindigt op woensdag 30. Vier volle weken
 | Merk | Contentmomenten |
 |---|---|
 | Restaurant | 30 |
-| Foodtruck | 16 |
+| Foodtruck | 24 |
 | Sauce & Toppings | 8 |
-| **Totaal** | **54** |
+| **Totaal** | **62** |
 
-Dit zijn contentmomenten (rijen in het maandplan), geen Buffer-posts: 29 van de 54
+Dit zijn contentmomenten (rijen in het maandplan), geen Buffer-posts: 33 van de 62
 gaan naar twee kanalen (bijvoorbeeld Instagram + TikTok), en elk kanaal krijgt een
-eigen `create_post`-aanroep. In Buffer worden 54 contentmomenten dus 83 posts
-(54 + 29).
+eigen `create_post`-aanroep. In Buffer worden 62 contentmomenten dus 95 posts
+(62 + 33).
 
 Daarvan zijn 13 reels die echt gefilmd moeten worden (9 restaurant, 4 foodtruck); de
 sauce-reels komen uit restaurant-materiaal.
@@ -206,7 +208,7 @@ ingepland wordt.
 | Bestand | Inhoud |
 |---|---|
 | `content/september-2026.md` | Elke dag van de maand: datum, tijd, kanaal, type, rubriek, onderwerp, beeld |
-| `content/captions-september-2026.md` | Alle 54 captions, per week gegroepeerd |
+| `content/captions-september-2026.md` | Alle 62 captions, per week gegroepeerd |
 | `content/contentbank.md` | Index van alle beelden |
 | `content/briefing-contentmakers.md` | Shotlist, deadline, aanleverformaat, bestandsnamen |
 | `content/maandroutine.md` | De maandcyclus, zodat het ook zonder Claude te volgen is |

@@ -7,9 +7,9 @@ September 2026 begint op dinsdag 1 en eindigt op woensdag 30.
 Week 1 (1–6) heeft geen maandag, dus geen sauce-post die week. Volle weken:
 7–13, 14–20, 21–27. Slot: 28–30.
 
-Totaal 54 contentmomenten — 30 restaurant, 16 foodtruck, 8 sauce. Daarvan gaan
-er 29 naar twee kanalen (elk een eigen `create_post`-aanroep), dus in Buffer
-worden dit 83 posts.
+Totaal 62 contentmomenten — 30 restaurant, 24 foodtruck, 8 sauce. Daarvan gaan
+er 33 naar twee kanalen (elk een eigen `create_post`-aanroep), dus in Buffer
+worden dit 95 posts.
 
 ## Week 1 — di 1 t/m zo 6 september
 
@@ -26,7 +26,9 @@ worden dit 83 posts.
 | 05-09 | za | 12:30 | Restaurant | Instagram | Foto | De klassieker | [gerecht] | | Gepland |
 | 05-09 | za | 13:00 | Foodtruck | Instagram | Foto | Drukte | Rij bij de truck | | Gepland |
 | 05-09 | za | 18:00 | Restaurant | Instagram + TikTok | Reel | Zaterdagavond | Sfeer in de zaak | | Gepland |
+| 06-09 | zo | 10:00 | Foodtruck | Instagram + Facebook | Foto | Locatie-reveal | [locatie] | | Gepland |
 | 06-09 | zo | 12:30 | Restaurant | Instagram | Foto | Zondagbord | [gerecht] | | Gepland |
+| 06-09 | zo | 13:00 | Foodtruck | Instagram | Foto | Drukte | Rij bij de truck | | Gepland |
 
 ## Week 2 — ma 7 t/m zo 13 september
 
@@ -44,7 +46,9 @@ worden dit 83 posts.
 | 12-09 | za | 12:30 | Restaurant | Instagram | Foto | De klassieker | [gerecht] | | Gepland |
 | 12-09 | za | 13:00 | Foodtruck | Instagram | Foto | Drukte | Rij bij de truck | | Gepland |
 | 12-09 | za | 18:00 | Restaurant | Instagram + TikTok | Reel | Zaterdagavond | Sfeer in de zaak | | Gepland |
+| 13-09 | zo | 10:00 | Foodtruck | Instagram + Facebook | Foto | Locatie-reveal | [locatie] | | Gepland |
 | 13-09 | zo | 12:30 | Restaurant | Instagram | Foto | Zondagbord | [gerecht] | | Gepland |
+| 13-09 | zo | 13:00 | Foodtruck | Instagram | Foto | Drukte | Rij bij de truck | | Gepland |
 
 ## Week 3 — ma 14 t/m zo 20 september
 
@@ -62,7 +66,9 @@ worden dit 83 posts.
 | 19-09 | za | 12:30 | Restaurant | Instagram | Foto | De klassieker | [gerecht] | | Gepland |
 | 19-09 | za | 13:00 | Foodtruck | Instagram | Foto | Drukte | Rij bij de truck | | Gepland |
 | 19-09 | za | 18:00 | Restaurant | Instagram + TikTok | Reel | Zaterdagavond | Sfeer in de zaak | | Gepland |
+| 20-09 | zo | 10:00 | Foodtruck | Instagram + Facebook | Foto | Locatie-reveal | [locatie] | | Gepland |
 | 20-09 | zo | 12:30 | Restaurant | Instagram | Foto | Zondagbord | [gerecht] | | Gepland |
+| 20-09 | zo | 13:00 | Foodtruck | Instagram | Foto | Drukte | Rij bij de truck | | Gepland |
 
 ## Week 4 — ma 21 t/m zo 27 september
 
@@ -80,7 +86,9 @@ worden dit 83 posts.
 | 26-09 | za | 12:30 | Restaurant | Instagram | Foto | De klassieker | [gerecht] | | Gepland |
 | 26-09 | za | 13:00 | Foodtruck | Instagram | Foto | Drukte | Rij bij de truck | | Gepland |
 | 26-09 | za | 18:00 | Restaurant | Instagram + TikTok | Reel | Zaterdagavond | Sfeer in de zaak | | Gepland |
+| 27-09 | zo | 10:00 | Foodtruck | Instagram + Facebook | Foto | Locatie-reveal | [locatie] | | Gepland |
 | 27-09 | zo | 12:30 | Restaurant | Instagram | Foto | Zondagbord | [gerecht] | | Gepland |
+| 27-09 | zo | 13:00 | Foodtruck | Instagram | Foto | Drukte | Rij bij de truck | | Gepland |
 
 ## Slot — ma 28 t/m wo 30 september
 

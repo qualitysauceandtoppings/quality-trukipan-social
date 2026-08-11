@@ -76,6 +76,10 @@ Status: `Nieuw` (ongebruikt) · `Ingepland` · `Geplaatst` · `Afgevoerd`
 | TRUCK_FOTO_locatie_06.jpg | TRUCK | FOTO | Truck op locatie zaterdag week 3, omgeving herkenbaar | | Nieuw |
 | TRUCK_FOTO_locatie_07.jpg | TRUCK | FOTO | Truck op locatie donderdag week 4, omgeving herkenbaar | | Nieuw |
 | TRUCK_FOTO_locatie_08.jpg | TRUCK | FOTO | Truck op locatie zaterdag week 4, omgeving herkenbaar | | Nieuw |
+| TRUCK_FOTO_locatie_09.jpg | TRUCK | FOTO | Truck op locatie zondag week 1, omgeving herkenbaar | | Nieuw |
+| TRUCK_FOTO_locatie_10.jpg | TRUCK | FOTO | Truck op locatie zondag week 2, omgeving herkenbaar | | Nieuw |
+| TRUCK_FOTO_locatie_11.jpg | TRUCK | FOTO | Truck op locatie zondag week 3, omgeving herkenbaar | | Nieuw |
+| TRUCK_FOTO_locatie_12.jpg | TRUCK | FOTO | Truck op locatie zondag week 4, omgeving herkenbaar | | Nieuw |
 | SAUCE_FOTO_fles_01.jpg | SAUCE | FOTO | Fles solo op houten snijplank, studiolicht | | Nieuw |
 | SAUCE_FOTO_fles_02.jpg | SAUCE | FOTO | Fles in de hand, label goed leesbaar | | Nieuw |
 | SAUCE_FOTO_fles_03.jpg | SAUCE | FOTO | Giet-shot: saus stroomt over een bord | | Nieuw |
@@ -98,8 +102,8 @@ Zo hoeft niemand te raden welk beeld waar terechtkomt.
 | Pairing | 4 foto's | `REST_FOTO_pairing_01` t/m `_04` |
 | In de keuken | 5 reels | `REST_REEL_gerecht_01` t/m `_05` |
 | Zaterdagavond | 4 reels | `REST_REEL_sfeer_01` t/m `_04` |
-| Locatie-reveal | 8 foto's | `TRUCK_FOTO_locatie_01` t/m `_08` |
-| Drukte | 4 foto's | `TRUCK_FOTO_onsite_01` t/m `_04` |
+| Locatie-reveal | 12 foto's | `TRUCK_FOTO_locatie_01` t/m `_12` |
+| Drukte | 8 foto's | `TRUCK_FOTO_onsite_01` t/m `_08` |
 | On-site bestseller | 4 reels | `TRUCK_REEL_bestseller_01`, `TRUCK_REEL_opbouw_01`, `TRUCK_REEL_drukte_01`, `TRUCK_REEL_locatie_01` |
 | Fles in beeld | 4 foto's | `SAUCE_FOTO_fles_01` t/m `_04` |
 | Saus in gebruik | 4 reels | Geknipt uit `REST_REEL_gerecht_01` t/m `_04`; `SAUCE_REEL_giet_01` is reserve |
@@ -109,8 +113,8 @@ in één maand leest als een herhaling. Opbouw, bestseller, drukte en locatie vu
 vier donderdagen.
 
 Reserve voor oktober: `REST_FOTO_gerecht_14` t/m `_16`, `REST_FOTO_sfeer_05` t/m `_10`,
-`REST_FOTO_pairing_05` en `_06`, `TRUCK_FOTO_onsite_05` t/m `_08`, `SAUCE_FOTO_fles_05`
-t/m `_08`, `REST_REEL_gerecht_06` t/m `_08`.
+`REST_FOTO_pairing_05` en `_06`, `SAUCE_FOTO_fles_05` t/m `_08`, `REST_REEL_gerecht_06`
+t/m `_08`.
 
 ## Repurposeregels
 

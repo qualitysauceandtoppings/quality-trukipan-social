@@ -9,7 +9,7 @@ maand vooraf ingepland via Buffer. Gebruik dit bestand om het werk voort te zett
 | Onderdeel | Merk / account | Actief | Kanalen |
 |---|---|---|---|
 | Restaurant | **Quality Trukipan Presikhaaf** | di t/m zo (ma dicht) | Instagram, TikTok |
-| Foodtruck | **Quality Trukipan** | do + za | Instagram, TikTok, Facebook |
+| Foodtruck | **Quality Trukipan** | do + za + zo | Instagram, TikTok, Facebook |
 | Eigen merk | Quality Sauce & Toppings | ma + vr | Instagram, TikTok, Facebook |
 
 > Quality Sauce & Toppings zit vanaf september mee in het systeem: vaste foto op
@@ -42,11 +42,11 @@ maand vooraf ingepland via Buffer. Gebruik dit bestand om het werk voort te zett
 Voorraadmodel met vaste weekdag-rubrieken. Volledige beschrijving staat in
 `docs/superpowers/specs/2026-08-10-social-september-design.md`.
 
-Drie merken: restaurant (di–zo), foodtruck (do + za), Sauce & Toppings (ma + vr).
-Per maand 54 contentmomenten, vooraf ingepland in Buffer. Een contentmoment dat
+Drie merken: restaurant (di–zo), foodtruck (do + za + zo), Sauce & Toppings (ma + vr).
+Per maand 62 contentmomenten, vooraf ingepland in Buffer. Een contentmoment dat
 naar twee kanalen gaat (bijvoorbeeld Instagram + TikTok) is in Buffer twee
-aparte posts; 29 van de 54 contentmomenten gaan naar twee kanalen, dus dat
-worden samen 83 posts.
+aparte posts; 33 van de 62 contentmomenten gaan naar twee kanalen, dus dat
+worden samen 95 posts.
 
 ## Rolverdeling
 

@@ -31,7 +31,7 @@ schema meer.
 2. **Klaar? → inplannen.** Verplaats idee naar de wachtrij met dag + tijd.
 3. **Eén contentmoment, aparte post per kanaal.** Een contentmoment dat naar twee
    kanalen gaat wordt in Buffer twee losse posts, elk met een eigen caption. Van de
-   54 contentmomenten in september gaan er 29 naar twee kanalen: samen 83 posts.
+   62 contentmomenten in september gaan er 33 naar twee kanalen: samen 95 posts.
 4. **Reels → ook TikTok.** Zelfde video, kortere caption en minder hashtags.
 5. **Stories & Google.** Handmatig op de dag zelf.
 

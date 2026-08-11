@@ -5,8 +5,8 @@
 **Aanleveren:** week 1 met voorrang op maandag 31 augustus, de rest uiterlijk woensdag
 2 september. Zie "Aanleveren" hieronder — die volgorde is hard, want de eerste post
 staat gepland op dinsdag 1 september om 12:00.
-**Waarvoor:** de complete social media van september — 54 contentmomenten over drie
-merken, samen goed voor 83 posts omdat een deel naar twee kanalen gaat.
+**Waarvoor:** de complete social media van september — 62 contentmomenten over drie
+merken, samen goed voor 95 posts omdat een deel naar twee kanalen gaat.
 
 ## Draaiboek
 
@@ -30,9 +30,12 @@ bij een lege zaak en laat 'm vollopen.
 | 6 · Truck op locatie | 09:00–12:00 | Opbouw-timelapse, bestseller, rij/drukte, locatiebeeld | 4 reels + 16 stills |
 
 De truck rijdt die zondag gewoon, dus dit is een normale draaidag met echte klanten.
-Zorg dat de omgeving herkenbaar in beeld staat. Die acht locatiefoto's moeten in
-september vier donderdagen en vier zaterdagen dekken, dus varieer het standpunt: niet
-acht keer dezelfde hoek.
+Zorg dat de omgeving herkenbaar in beeld staat. Er zijn nu meer locatiebeelden nodig
+dan het draaiboek hierboven op het eerste gezicht laat zien: de truck rijdt vanaf nu
+ook op zondag, dus schiet er tijdens dit blok extra locatiefoto's bij, vanaf duidelijk
+verschillende standpunten. De twaalf locatiefoto's moeten in september vier
+donderdagen, vier zaterdagen én vier zondagen dekken, dus varieer het standpunt: niet
+twaalf keer dezelfde hoek.
 
 Ruwe opbrengst van beide dagen samen: 17 reels en ongeveer 56 stills.
 
@@ -94,9 +97,9 @@ schiet ruimer — dat meerdere is reserve voor oktober en voor beelden die tegen
 
 | Rubriek | Wat | Aantal |
 |---|---|---|
-| Locatie-reveal | Truck met de omgeving herkenbaar in beeld | 8 foto's |
+| Locatie-reveal | Truck met de omgeving herkenbaar in beeld | 12 foto's |
 | On-site bestseller | Bestseller bij de truck, van bakken tot uitgifte | 4 reels |
-| Drukte | Rij of aanloop bij de truck | 4 foto's |
+| Drukte | Rij of aanloop bij de truck | 8 foto's |
 
 ### Quality Sauce & Toppings
 
@@ -107,7 +110,7 @@ schiet ruimer — dat meerdere is reserve voor oktober en voor beelden die tegen
 
 ### Totaal
 
-**14 reels en 37 foto's.**
+**14 reels en 45 foto's.**
 
 Stories hoeven niet apart geschoten te worden: die knippen we uit de reels.
 De vrijdagreel voor Sauce komt ook uit de keukenreel van woensdag.

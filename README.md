@@ -11,7 +11,7 @@ quality-trukipan-social/
 ├── CLAUDE.md              ← context voor Claude Code om verder te werken
 ├── content/
 │   ├── september-2026.md            ← het maandplan (bron van waarheid)
-│   ├── captions-september-2026.md   ← alle 54 captions
+│   ├── captions-september-2026.md   ← alle 62 captions
 │   ├── contentbank.md               ← index van al het beeldmateriaal
 │   ├── briefing-contentmakers.md    ← gaat naar de contentmakers
 │   ├── maandroutine.md              ← de vaste maandcyclus
@@ -34,7 +34,7 @@ Dit werkt volgens een **voorraadmodel**, niet een weekritme:
 
 - **Eén shootdag per maand** levert de complete beeldvoorraad voor die maand.
 - Elk merk heeft een **vaste rubriek per weekdag**: restaurant di t/m zo, foodtruck
-  do + za, Quality Sauce & Toppings ma (foto) + vr (reel).
+  do + za + zo, Quality Sauce & Toppings ma (foto) + vr (reel).
 - De **hele maand** wordt in één keer vooraf ingepland in **Buffer** (Essentials-plan,
   alle kanalen gekoppeld); Jonathan keurt één keer per maand de complete batch goed.
 - De volledige cyclus — wie doet wat en wanneer — staat in `content/maandroutine.md`.
