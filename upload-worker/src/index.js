@@ -3,7 +3,7 @@
 
 const NAAM_PATROON = /^(REST|TRUCK|SAUCE)_(REEL|FOTO|STORY)_[a-z0-9]+_\d{2}\.(mp4|mov|jpg|jpeg|png)$/;
 
-const LOGO = "https://pub-45b4de13a5a44d21a27e6ebf505bfc5b.r2.dev/assets/logo.svg";
+const LOGO = "https://pub-45b4de13a5a44d21a27e6ebf505bfc5b.r2.dev/assets/logo-trukipan.svg";
 
 const PAGINA = (maandmap, melding = "", gelukt = false) => `<!doctype html>
 <html lang="nl">
