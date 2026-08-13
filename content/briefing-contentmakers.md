@@ -56,7 +56,7 @@ opslag. Belangrijk is alleen dat de bestandsnamen kloppen: aan de naam zien wij 
 welke post het beeld hoort, dus een verkeerde naam kost tijd.
 
 **In twee zendingen, en de eerste is haastwerk.** De eerste post staat gepland op
-dinsdag 1 september om 12:00. Deze twaalf bestanden moeten daarom **maandag 31 augustus**
+dinsdag 1 september om 12:00. Deze dertien bestanden moeten daarom **maandag 31 augustus**
 binnen zijn:
 
 | Bestand | Wat |
@@ -72,6 +72,8 @@ binnen zijn:
 | `TRUCK_FOTO_onsite_01.jpg` | Rij of drukte bij de truck (za 5 sept) |
 | `REST_REEL_sfeer_01.mp4` | Timelapse zaterdagavond (za 5 sept) |
 | `REST_FOTO_gerecht_10.jpg` | Zondagbord (zo 6 sept) |
+| `TRUCK_FOTO_locatie_09.jpg` | Truck op Elderhof (zo 6 sept) |
+| `TRUCK_FOTO_onsite_05.jpg` | Rij of drukte bij de truck (zo 6 sept) |
 
 De rest — alles wat hierboven niet genoemd staat — mag uiterlijk **woensdag
 2 september**.
