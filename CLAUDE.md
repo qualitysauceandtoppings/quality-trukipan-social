@@ -9,7 +9,7 @@ maand vooraf ingepland via Buffer. Gebruik dit bestand om het werk voort te zett
 | Onderdeel | Merk / account | Actief | Kanalen |
 |---|---|---|---|
 | Restaurant | **Quality Trukipan Presikhaaf** | di t/m zo (ma dicht) | Instagram, TikTok |
-| Foodtruck | **Quality Trukipan** | do + za + zo | Instagram, TikTok, Facebook |
+| Foodtruck | **Quality Trukipan** | do + za + zo (bevestigd) | Instagram, TikTok, Facebook |
 | Eigen merk | Quality Sauce & Toppings | ma + vr | Instagram, TikTok, Facebook |
 
 > Quality Sauce & Toppings zit vanaf september mee in het systeem: vaste foto op
@@ -75,6 +75,23 @@ Beide Instagram-accounts zijn Professional Accounts zonder herinneringen: feed-p
 en reels publiceren automatisch. Kale stories ook. Alleen reels die op een trending
 sound uit de app moeten worden als herinnering klaargezet, maximaal twee per maand.
 
+### Foto's versus reels
+
+**Foto's gaan volautomatisch.** De post krijgt een media-URL mee en Buffer haalt het
+beeld daar zelf op. Er komt geen mens aan te pas.
+
+**Reels worden één keer in Buffer geüpload** en posten daarna vanzelf op het geplande
+moment. Volgens Jonathan post Buffer video zonder problemen — bewezen op 1 juli 2026.
+Dat is één handeling per reel, en de enige die overblijft in de maandcyclus.
+
+Volautomatische reels, rechtstreeks via de Instagram- en TikTok-API, staan beschreven in
+`docs/superpowers/specs/spec-volautomatisch-video-posten.md`. Dat is werk voor later en
+vereist eerst een Facebook-pagina voor Presikhaaf, een Meta-app en een TikTok-audit.
+
+**Geluid moet in het videobestand zitten.** De muziekbibliotheken van Instagram en TikTok
+bestaan alleen in hun eigen app; Buffer en de API kunnen er niet bij. Een reel zonder
+ingebakken audio komt stil online. Dit staat ook in de briefing.
+
 ## Beeldopslag
 
 Buffer accepteert media alleen via een directe bestands-URL. Daarvoor staat een
@@ -82,10 +99,13 @@ Cloudflare R2-bucket klaar in het account `info@qualityfoodcocktailbar.nl`
 (account-ID `49cd4a50cee1c34782a6d375951b7143`):
 
 - Bucket: `quality-trukipan-media`
-- Publieke leesroute: `https://quality-trukipan-upload.trukipan.workers.dev/media`
+- Worker: `quality-trukipan-upload`, live op `https://quality-trukipan-upload.trukipan.workers.dev`
+  (workers.dev, geen eigen domein). Broncode in `upload-worker/`.
 - Eén map per maand: `2026-09/`, `2026-10/`, enzovoort
-- Link van een bestand: `<publiek adres>/<maandmap>/<bestandsnaam>`, bijvoorbeeld
+- **Media-URL-vorm:** `https://<worker-domein>/media/<maand>/<bestandsnaam>`, dus
   `https://quality-trukipan-upload.trukipan.workers.dev/media/2026-09/REST_REEL_pom_01.mp4`
+- De worker leest via de binding `MEDIA`. Publieke toegang op de bucket zelf staat uit:
+  het oude `pub-…r2.dev`-adres geeft 401 en wordt niet meer gebruikt.
 
 De contentmakers krijgen géén toegang tot de bucket; zij leveren aan zoals ze gewend
 zijn, met de juiste bestandsnamen. Claude zet de bestanden er zelf in met

@@ -45,6 +45,11 @@ Ruwe opbrengst van beide dagen samen: 17 reels en ongeveer 56 stills.
 - Foto's: liefst vierkant of 4:5, minimaal 1440px op de korte zijde, JPG
 - Bestandsnamen: `MERK_TYPE_ONDERWERP_NR.ext` — `REST` / `TRUCK` / `SAUCE`,
   `REEL` / `FOTO` / `STORY`. Voorbeeld: `REST_REEL_pom_01.mp4`
+- **Geluid moet ín het videobestand zitten.** Lever de reel aan met de muziek er al
+  overheen, gerenderd in het bestand. Wij plannen de posts in via Buffer, en daar kan
+  achteraf geen muziek meer bij: de muziekbibliotheken van Instagram en TikTok bestaan
+  alleen in hun eigen app en zijn niet bereikbaar voor Buffer of voor de API. Een reel
+  zonder ingebakken audio komt dus stil online.
 - Muziek: gebruik rechtenvrije of gelicentieerde audio (Epidemic Sound, Artlist,
   de gratis bibliotheek van CapCut). Muziek die al in het bestand zit is prima —
   Instagram kan commerciële tracks dempen of het bereik knijpen
