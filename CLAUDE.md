@@ -82,10 +82,10 @@ Cloudflare R2-bucket klaar in het account `info@qualityfoodcocktailbar.nl`
 (account-ID `49cd4a50cee1c34782a6d375951b7143`):
 
 - Bucket: `quality-trukipan-media`
-- Publiek adres: `https://pub-45b4de13a5a44d21a27e6ebf505bfc5b.r2.dev`
+- Publieke leesroute: `https://quality-trukipan-upload.trukipan.workers.dev/media`
 - Eén map per maand: `2026-09/`, `2026-10/`, enzovoort
 - Link van een bestand: `<publiek adres>/<maandmap>/<bestandsnaam>`, bijvoorbeeld
-  `https://pub-45b4de13a5a44d21a27e6ebf505bfc5b.r2.dev/2026-09/REST_REEL_pom_01.mp4`
+  `https://quality-trukipan-upload.trukipan.workers.dev/media/2026-09/REST_REEL_pom_01.mp4`
 
 De contentmakers krijgen géén toegang tot de bucket; zij leveren aan zoals ze gewend
 zijn, met de juiste bestandsnamen. Claude zet de bestanden er zelf in met

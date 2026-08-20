@@ -3,7 +3,25 @@
 
 const NAAM_PATROON = /^(REST|TRUCK|SAUCE)_(REEL|FOTO|STORY)_[a-z0-9]+_\d{2}\.(mp4|mov|jpg|jpeg|png)$/;
 
-const LOGO = "https://pub-45b4de13a5a44d21a27e6ebf505bfc5b.r2.dev/assets/logo-trukipan.svg";
+// Alles loopt via deze worker, dus ook het logo: één domein, geen los publiek bucketadres.
+const LOGO = "/media/assets/logo-trukipan.svg";
+
+// Keys mogen alleen letters, cijfers, punt, streepje, liggend streepje en schuine streep
+// bevatten. Een key met ".." erin wordt apart geweigerd.
+const VEILIGE_KEY = /^[A-Za-z0-9][A-Za-z0-9._/-]*$/;
+
+const TYPES = {
+  mp4: "video/mp4",
+  mov: "video/quicktime",
+  jpg: "image/jpeg",
+  jpeg: "image/jpeg",
+  png: "image/png",
+  svg: "image/svg+xml",
+  txt: "text/plain; charset=utf-8",
+};
+
+const typeVanNaam = (naam) =>
+  TYPES[(naam.split(".").pop() || "").toLowerCase()] || "application/octet-stream";
 
 const PAGINA = (maandmap, melding = "", gelukt = false) => `<!doctype html>
 <html lang="nl">
@@ -175,7 +193,39 @@ export default {
     const html = (body, status = 200) =>
       new Response(body, { status, headers: { "content-type": "text/html; charset=utf-8" } });
 
-    if (request.method === "GET") return html(PAGINA(maandmap));
+    const url = new URL(request.url);
+
+    // Publieke leesroute: hier haalt Buffer het beeld op. Geen wachtwoord — een
+    // ingeplande post moet het bestand zonder inloggen kunnen downloaden.
+    if (url.pathname.startsWith("/media/")) {
+      if (request.method !== "GET" && request.method !== "HEAD") {
+        return new Response("Methode niet toegestaan", { status: 405 });
+      }
+      let key;
+      try {
+        key = decodeURIComponent(url.pathname.slice("/media/".length));
+      } catch {
+        return new Response("Niet gevonden", { status: 404 });
+      }
+      if (!key || key.includes("..") || !VEILIGE_KEY.test(key)) {
+        return new Response("Niet gevonden", { status: 404 });
+      }
+      const object = await env.MEDIA.get(key);
+      if (!object) return new Response("Niet gevonden", { status: 404 });
+
+      const koppen = new Headers();
+      koppen.set("content-type", object.httpMetadata?.contentType || typeVanNaam(key));
+      koppen.set("content-length", String(object.size));
+      koppen.set("cache-control", "public, max-age=3600");
+      if (object.httpEtag) koppen.set("etag", object.httpEtag);
+      return new Response(request.method === "HEAD" ? null : object.body, { headers: koppen });
+    }
+
+    if (request.method === "GET") {
+      return url.pathname === "/"
+        ? html(PAGINA(maandmap))
+        : new Response("Niet gevonden", { status: 404 });
+    }
     if (request.method !== "POST") return new Response("Methode niet toegestaan", { status: 405 });
 
     if (!env.WACHTWOORD) {

@@ -165,7 +165,7 @@ Merk is `REST`, `TRUCK` of `SAUCE`. Type is `REEL`, `FOTO` of `STORY`.
 
 **Besloten op 11 augustus 2026.** Buffer accepteert media uitsluitend via een directe
 bestands-URL. Daarvoor staat een Cloudflare R2-bucket klaar, `quality-trukipan-media`,
-met publieke toegang op `https://pub-45b4de13a5a44d21a27e6ebf505bfc5b.r2.dev` en één map
+met publieke toegang op `https://quality-trukipan-upload.trukipan.workers.dev/media` en één map
 per maand (`2026-09/`). De bestandsnaam bepaalt de link, dus koppelen kan zonder dat er
 iemand aan te pas komt.
 
