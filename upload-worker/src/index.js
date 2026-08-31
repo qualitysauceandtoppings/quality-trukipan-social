@@ -1,7 +1,18 @@
 // Uploadpagina voor de contentmakers van Quality Trukipan.
 // Eén link, één wachtwoord, bestanden komen in de maandmap van de R2-bucket.
 
-const NAAM_PATROON = /^(REST|TRUCK|SAUCE)_(REEL|FOTO|STORY)_[a-z0-9]+_\d{2}\.(mp4|mov|jpg|jpeg|png)$/;
+// Soepel bij het aannemen, streng bij het opslaan. Hoofdletters in het onderwerp of de
+// extensie mogen, en één tot drie cijfers ook — dat werd te vaak fout ingetypt. Wat er
+// binnenkomt wordt daarna omgezet naar de vaste vorm MERK_TYPE_onderwerp_NN.ext.
+const NAAM_PATROON = /^(REST|TRUCK|SAUCE)_(REEL|FOTO|STORY)_([A-Za-z0-9]+)_(\d{1,3})\.(mp4|mov|jpg|jpeg|png)$/i;
+
+function nettteNaam(naam) {
+  const m = NAAM_PATROON.exec(naam);
+  if (!m) return null;
+  const [, merk, type, onderwerp, nummer, ext] = m;
+  const nr = nummer.length === 1 ? "0" + nummer : nummer;
+  return `${merk.toUpperCase()}_${type.toUpperCase()}_${onderwerp.toLowerCase()}_${nr}.${ext.toLowerCase()}`;
+}
 
 // Alles loopt via deze worker, dus ook het logo: één domein, geen los publiek bucketadres.
 const LOGO = "/media/assets/logo-trukipan.svg";
@@ -187,6 +198,84 @@ SAUCE_FOTO_fles_02.jpg</div>
 </body>
 </html>`;
 
+const LIJSTPAGINA = (maandmap, melding = "", bestanden = null, logregels = null) => `<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Quality Trukipan — wat staat er in ${maandmap}</title>
+<style>
+  :root { --inkt:#1a1208; --inkt-diep:#0d0d0d; --creme:#f3e9c8; --creme-zacht:#e9ddc0;
+          --goud:#e5c358; --goud-diep:#d4af37; --warm:#e08a6a; --rand:rgba(229,195,88,.22); }
+  * { box-sizing:border-box; }
+  body { margin:0; font:16px/1.6 ui-sans-serif, system-ui, sans-serif; color:var(--creme);
+         background:linear-gradient(180deg,var(--inkt) 0%,var(--inkt-diep) 100%);
+         background-attachment:fixed; min-height:100vh; }
+  .wrap { max-width:52rem; margin:0 auto; padding:3rem 1.25rem 5rem; }
+  h1 { font-size:1.5rem; margin:0 0 .3rem; }
+  .sub { margin:0 0 2rem; color:var(--creme-zacht); opacity:.7; font-size:.95rem; }
+  h2 { font-size:1rem; color:var(--goud); margin:2.5rem 0 .75rem; }
+  form { background:rgba(243,233,200,.04); border:1px solid var(--rand); border-radius:1rem; padding:1.5rem; }
+  label { display:block; font-weight:600; margin-bottom:.5rem; font-size:.92rem; }
+  input { width:100%; padding:.8rem 1rem; font:inherit; color:var(--creme);
+          background:rgba(13,13,13,.55); border:1px solid var(--rand); border-radius:.6rem; }
+  button { width:100%; margin-top:1.25rem; padding:.9rem; font:inherit; font-weight:700;
+           color:var(--inkt); background:linear-gradient(180deg,var(--goud),var(--goud-diep));
+           border:0; border-radius:.6rem; cursor:pointer; }
+  .melding { padding:1rem 1.25rem; border-radius:.75rem; margin-bottom:1.5rem;
+             border:1px solid rgba(224,138,106,.45); background:rgba(224,138,106,.1); }
+  pre { margin:0; padding:1.1rem; border-radius:.6rem; overflow-x:auto;
+        background:rgba(13,13,13,.5); border:1px solid var(--rand);
+        font:.85rem/1.7 ui-monospace, SFMono-Regular, Menlo, monospace; color:var(--creme-zacht); }
+  .leeg { color:var(--warm); font-size:.93rem; }
+  a { color:var(--goud); }
+</style>
+</head>
+<body><div class="wrap">
+  <h1>Wat staat er in ${maandmap}</h1>
+  <p class="sub">Overzicht van de aangeleverde bestanden en de laatste uploadpogingen.</p>
+
+  ${melding ? `<div class="melding">${melding}</div>` : ""}
+
+  ${
+    bestanden === null
+      ? `<form method="post">
+    <label for="w">Wachtwoord</label>
+    <input id="w" name="wachtwoord" type="password" required autocomplete="off">
+    <button type="submit">Bekijken</button>
+  </form>`
+      : `<h2>Bestanden in ${maandmap} (${bestanden.length})</h2>
+  ${bestanden.length ? `<pre>${bestanden.join("\n")}</pre>` : `<p class="leeg">Nog niets aangeleverd.</p>`}
+
+  <h2>Laatste pogingen</h2>
+  ${
+    logregels && logregels.length
+      ? `<pre>${logregels.join("\n")}</pre>`
+      : `<p class="leeg">Nog geen pogingen vastgelegd.</p>`
+  }`
+  }
+
+  <p style="margin-top:2.5rem"><a href="/">Terug naar de uploadpagina</a></p>
+</div></body>
+</html>`;
+
+// Legt elke poging vast in logs/<datum>.jsonl. Geen wachtwoorden, geen IP-adressen —
+// alleen wat nodig is om te zien waarom een upload niet aankwam.
+async function noteer(env, gegevens) {
+  try {
+    const nu = new Date();
+    const sleutel = `logs/${nu.toISOString().slice(0, 10)}.jsonl`;
+    const bestaand = await env.MEDIA.get(sleutel);
+    const eerder = bestaand ? await bestaand.text() : "";
+    const regel = JSON.stringify({ tijd: nu.toISOString(), ...gegevens }) + "\n";
+    await env.MEDIA.put(sleutel, eerder + regel, {
+      httpMetadata: { contentType: "application/x-ndjson" },
+    });
+  } catch {
+    // Loggen mag een upload nooit laten mislukken.
+  }
+}
+
 export default {
   async fetch(request, env) {
     const maandmap = env.MAANDMAP || "2026-09";
@@ -210,6 +299,8 @@ export default {
       if (!key || key.includes("..") || !VEILIGE_KEY.test(key)) {
         return new Response("Niet gevonden", { status: 404 });
       }
+      // Het uploadlog blijft binnen: dat is alleen zichtbaar op /lijst, achter het wachtwoord.
+      if (key.startsWith("logs/")) return new Response("Niet gevonden", { status: 404 });
       const object = await env.MEDIA.get(key);
       if (!object) return new Response("Niet gevonden", { status: 404 });
 
@@ -219,6 +310,58 @@ export default {
       koppen.set("cache-control", "public, max-age=3600");
       if (object.httpEtag) koppen.set("etag", object.httpEtag);
       return new Response(request.method === "HEAD" ? null : object.body, { headers: koppen });
+    }
+
+    // Overzichtspagina achter hetzelfde wachtwoord: wat staat er in de maandmap, en
+    // welke pogingen zijn er gedaan.
+    if (url.pathname === "/lijst") {
+      if (request.method === "GET") return html(LIJSTPAGINA(maandmap));
+      if (request.method !== "POST") return new Response("Methode niet toegestaan", { status: 405 });
+      if (!env.WACHTWOORD) return html(LIJSTPAGINA(maandmap, "Er is nog geen wachtwoord ingesteld."), 503);
+
+      let f;
+      try {
+        f = await request.formData();
+      } catch {
+        return html(LIJSTPAGINA(maandmap, "Formulier kon niet gelezen worden."), 400);
+      }
+      if (f.get("wachtwoord") !== env.WACHTWOORD) {
+        return html(LIJSTPAGINA(maandmap, "Wachtwoord klopt niet."), 401);
+      }
+
+      const inhoud = await env.MEDIA.list({ prefix: maandmap + "/" });
+      const bestanden = inhoud.objects
+        .map(
+          (o) =>
+            `${o.key.slice(maandmap.length + 1)}  ·  ${Math.round(o.size / 1024)} kB  ·  ${o.uploaded
+              .toISOString()
+              .slice(0, 16)
+              .replace("T", " ")}`
+        )
+        .sort();
+
+      const logs = await env.MEDIA.list({ prefix: "logs/" });
+      const recent = logs.objects.map((o) => o.key).sort().slice(-5).reverse();
+      const regels = [];
+      for (const k of recent) {
+        const obj = await env.MEDIA.get(k);
+        if (!obj) continue;
+        const tekst = await obj.text();
+        for (const r of tekst.trim().split("\n").filter(Boolean).slice(-25).reverse()) {
+          try {
+            const p = JSON.parse(r);
+            const stukken = [p.tijd?.slice(0, 16).replace("T", " "), p.uitkomst];
+            if (p.gelukt?.length) stukken.push("gelukt: " + p.gelukt.join(", "));
+            if (p.geweigerd?.length) stukken.push("geweigerd: " + p.geweigerd.join(" | "));
+            regels.push(stukken.filter(Boolean).join("  ·  "));
+          } catch {
+            regels.push(r);
+          }
+        }
+        if (regels.length >= 40) break;
+      }
+
+      return html(LIJSTPAGINA(maandmap, "", bestanden, regels.slice(0, 40)));
     }
 
     if (request.method === "GET") {
@@ -232,14 +375,22 @@ export default {
       return html(PAGINA(maandmap, "Er is nog geen wachtwoord ingesteld. Neem contact op met Jonathan."), 503);
     }
 
+    const browser = request.headers.get("user-agent") || "";
+
     let formulier;
     try {
       formulier = await request.formData();
     } catch {
+      await noteer(env, { uitkomst: "formulier onleesbaar, waarschijnlijk te groot bestand", browser });
       return html(PAGINA(maandmap, "Het formulier kon niet gelezen worden. Probeer minder bestanden tegelijk."), 400);
     }
 
     if (formulier.get("wachtwoord") !== env.WACHTWOORD) {
+      const namen = formulier
+        .getAll("bestanden")
+        .filter((b) => typeof b === "object" && b.name)
+        .map((b) => b.name);
+      await noteer(env, { uitkomst: "wachtwoord fout", geweigerd: namen, browser });
       return html(PAGINA(maandmap, "Wachtwoord klopt niet."), 401);
     }
 
@@ -250,19 +401,30 @@ export default {
     const geweigerd = [];
 
     for (const bestand of bestanden) {
-      if (!NAAM_PATROON.test(bestand.name)) {
-        geweigerd.push(`${bestand.name} — naam klopt niet`);
+      const naam = nettteNaam(bestand.name);
+      if (!naam) {
+        geweigerd.push(
+          `${bestand.name} — naam klopt niet, verwacht MERK_TYPE_onderwerp_NN.ext ` +
+            `(merk REST/TRUCK/SAUCE, type REEL/FOTO/STORY, extensie mp4/mov/jpg/png)`
+        );
         continue;
       }
       try {
-        await env.MEDIA.put(`${maandmap}/${bestand.name}`, bestand.stream(), {
-          httpMetadata: { contentType: bestand.type || "application/octet-stream" },
+        await env.MEDIA.put(`${maandmap}/${naam}`, bestand.stream(), {
+          httpMetadata: { contentType: bestand.type || typeVanNaam(naam) },
         });
-        gelukt.push(bestand.name);
+        gelukt.push(naam === bestand.name ? naam : `${naam} (hernoemd van ${bestand.name})`);
       } catch (fout) {
         geweigerd.push(`${bestand.name} — uploaden mislukt (${fout.message})`);
       }
     }
+
+    await noteer(env, {
+      uitkomst: geweigerd.length ? "deels of niets gelukt" : "alles gelukt",
+      gelukt,
+      geweigerd,
+      browser,
+    });
 
     const regels = [];
     if (gelukt.length) regels.push(`Geüpload (${gelukt.length}):\n${gelukt.join("\n")}`);
