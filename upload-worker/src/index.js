@@ -14,6 +14,15 @@ function nettteNaam(naam) {
   return `${merk.toUpperCase()}_${type.toUpperCase()}_${onderwerp.toLowerCase()}_${nr}.${ext.toLowerCase()}`;
 }
 
+// Naast beeld mag ook het gerechtenlijstje mee: een document waarin staat welk gerecht
+// of welke drink in welk bestand zit. De naam moet met LIJST beginnen, zodat het niet
+// tussen de media verdwaalt.
+const LIJST_PATROON = /^LIJST[A-Za-z0-9._-]*\.(pdf|docx|doc|txt|md|rtf|csv|pages|numbers|xlsx)$/i;
+
+function lijstNaam(naam) {
+  return LIJST_PATROON.test(naam) ? naam.replace(/[^A-Za-z0-9._-]/g, "-") : null;
+}
+
 // Alles loopt via deze worker, dus ook het logo: één domein, geen los publiek bucketadres.
 const LOGO = "/media/assets/logo-trukipan.svg";
 
@@ -159,7 +168,7 @@ const PAGINA = (maandmap, melding = "", gelukt = false) => `<!doctype html>
     <div class="veld">
       <label for="bestanden">Bestanden</label>
       <input id="bestanden" name="bestanden" type="file" multiple required
-             accept="video/mp4,video/quicktime,image/jpeg,image/png">
+             accept="video/mp4,video/quicktime,image/jpeg,image/png,.pdf,.docx,.doc,.txt,.md,.rtf,.csv,.pages,.numbers,.xlsx">
     </div>
     <button type="submit">Uploaden</button>
   </form>
@@ -188,9 +197,13 @@ SAUCE_FOTO_fles_02.jpg</div>
       <li>Grote video's een voor een; boven de 100 MB per bestand gaat het mis</li>
     </ul>
 
-    <h2>Niet vergeten</h2>
-    <p>Stuur een lijstje mee met welk gerecht of welke drink in welk bestand zit. Zonder
-    dat lijstje kunnen de teksten niet geschreven worden.</p>
+    <h2>Niet vergeten: het gerechtenlijstje</h2>
+    <p>Stuur mee welk gerecht of welke drink in welk bestand zit. Zonder dat lijstje
+    kunnen de teksten niet geschreven worden.</p>
+    <p>Dat mag hier gewoon mee geüpload worden als document — PDF, Word, tekstbestand,
+    Pages of Numbers. Eén voorwaarde: <strong>laat de naam met <code>LIJST</code>
+    beginnen</strong>, bijvoorbeeld <code>LIJST_september.pdf</code> of
+    <code>LIJST-gerechten.docx</code>. Anders wordt het geweigerd.</p>
   </section>
 
   <footer>Quality Trukipan · Presikhaaf, Arnhem</footer>
@@ -401,6 +414,18 @@ export default {
     const geweigerd = [];
 
     for (const bestand of bestanden) {
+      const doc = lijstNaam(bestand.name);
+      if (doc) {
+        try {
+          await env.MEDIA.put(`${maandmap}/${doc}`, bestand.stream(), {
+            httpMetadata: { contentType: bestand.type || "application/octet-stream" },
+          });
+          gelukt.push(doc);
+        } catch (fout) {
+          geweigerd.push(`${bestand.name} — uploaden mislukt (${fout.message})`);
+        }
+        continue;
+      }
       const naam = nettteNaam(bestand.name);
       if (!naam) {
         geweigerd.push(
