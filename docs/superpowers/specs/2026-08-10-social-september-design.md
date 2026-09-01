@@ -158,7 +158,7 @@ ongebruikt is.
 Bestandsnaamconventie:
 
 ```
-MERK_TYPE_ONDERWERP_NR.ext      REST_REEL_pom_01.mp4 · SAUCE_FOTO_fles_03.jpg
+MERK_TYPE_ONDERWERP_NR.ext      REST_REEL_karni_01.mp4 · SAUCE_FOTO_fles_03.jpg
 ```
 
 Merk is `REST`, `TRUCK` of `SAUCE`. Type is `REEL`, `FOTO` of `STORY`.

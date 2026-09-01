@@ -5,7 +5,7 @@ Index van al het beeldmateriaal. De bestanden zelf staan niet in git.
 Naamconventie: `MERK_TYPE_ONDERWERP_NR.ext`
 Merk: `REST` (restaurant) · `TRUCK` (foodtruck) · `SAUCE`
 Type: `REEL` · `FOTO` · `STORY`
-Voorbeeld: `REST_REEL_pom_01.mp4` · `SAUCE_FOTO_fles_03.jpg`
+Voorbeeld: `REST_REEL_karni_01.mp4` · `SAUCE_FOTO_fles_03.jpg`
 
 Status: `Nieuw` (ongebruikt) · `Ingepland` · `Geplaatst` · `Afgevoerd`
 
@@ -44,12 +44,12 @@ Status: `Nieuw` (ongebruikt) · `Ingepland` · `Geplaatst` · `Afgevoerd`
 | REST_FOTO_gerecht_14.jpg | REST | FOTO | Gerecht 7, hoek 2, daglicht | | Nieuw |
 | REST_FOTO_gerecht_15.jpg | REST | FOTO | Gerecht 8, hoek 1, daglicht | | Nieuw |
 | REST_FOTO_gerecht_16.jpg | REST | FOTO | Gerecht 8, hoek 2, daglicht | | Nieuw |
-| REST_FOTO_pairing_01.jpg | REST | FOTO | Pom met kipjus naast een koud glas Parbo bier | | Nieuw |
-| REST_FOTO_pairing_02.jpg | REST | FOTO | Bruine bonen met rijst naast een glas rode huiswijn | | Nieuw |
-| REST_FOTO_pairing_03.jpg | REST | FOTO | Roti met kip naast een verse limoen-ijsthee | | Nieuw |
-| REST_FOTO_pairing_04.jpg | REST | FOTO | Saoto soep naast een Surinaamse rumcocktail | | Nieuw |
-| REST_FOTO_pairing_05.jpg | REST | FOTO | Bakbanaan met zoutvis naast een fles Fernandes ananas | | Nieuw |
-| REST_FOTO_pairing_06.jpg | REST | FOTO | Moksi meti naast een glas witte huiswijn | | Nieuw |
+| REST_FOTO_pairing_01.jpg | REST | FOTO | Karni stoba naast een koud glas Amstel Bright | | Nieuw |
+| REST_FOTO_pairing_02.jpg | REST | FOTO | Kabritu stoba met funchi naast een glas rode huiswijn | | Nieuw |
+| REST_FOTO_pairing_03.jpg | REST | FOTO | Bakiljou met moro rijst naast een verse limoen-ijsthee | | Nieuw |
+| REST_FOTO_pairing_04.jpg | REST | FOTO | Sopi di piska naast een Antilliaanse rumcocktail | | Nieuw |
+| REST_FOTO_pairing_05.jpg | REST | FOTO | Bakbanaan met bakiljou naast een fles Awa di Lamunchi | | Nieuw |
+| REST_FOTO_pairing_06.jpg | REST | FOTO | Sult naast een glas witte huiswijn | | Nieuw |
 | REST_FOTO_sfeer_01.jpg | REST | FOTO | Gedekte tafels vooraan bij de ingang, avondlicht | | Nieuw |
 | REST_FOTO_sfeer_02.jpg | REST | FOTO | Chef aan het fornuis, stoom boven de pan | | Nieuw |
 | REST_FOTO_sfeer_03.jpg | REST | FOTO | Team achter de pass, bord wordt doorgegeven | | Nieuw |

@@ -1,6 +1,6 @@
 # CLAUDE.md — context voor Claude Code
 
-Dit project beheert de social media van **Quality Trukipan** (Surinaams eten,
+Dit project beheert de social media van **Quality Trukipan** (Antilliaanse BBQ,
 Presikhaaf/Arnhem). Doel: een voorraadmodel met vaste weekdag-rubrieken, per
 maand vooraf ingepland via Buffer. Gebruik dit bestand om het werk voort te zetten.
 
@@ -103,7 +103,7 @@ Cloudflare R2-bucket klaar in het account `info@qualityfoodcocktailbar.nl`
   (workers.dev, geen eigen domein). Broncode in `upload-worker/`.
 - Eén map per maand: `2026-09/`, `2026-10/`, enzovoort
 - **Media-URL-vorm:** `https://<worker-domein>/media/<maand>/<bestandsnaam>`, dus
-  `https://quality-trukipan-upload.trukipan.workers.dev/media/2026-09/REST_REEL_pom_01.mp4`
+  `https://quality-trukipan-upload.trukipan.workers.dev/media/2026-09/REST_REEL_karni_01.mp4`
 - De worker leest via de binding `MEDIA`. Publieke toegang op de bucket zelf staat uit:
   het oude `pub-…r2.dev`-adres geeft 401 en wordt niet meer gebruikt.
 

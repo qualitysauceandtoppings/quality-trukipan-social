@@ -164,9 +164,9 @@ Wij schrijven de teksten bij jullie beeld. Zonder te weten wat er op een foto st
 lukt dat niet. Eén regel per bestand is genoeg:
 
 ```
-REST_FOTO_gerecht_01.jpg  — pom met kipjus
-REST_REEL_gerecht_01.mp4  — roti met kip, van pan tot bord
-REST_FOTO_pairing_01.jpg  — bakbanaan met een Parbo
+REST_FOTO_gerecht_01.jpg  — karni stoba met funchi
+REST_REEL_gerecht_01.mp4  — kabritu stoba, van pan tot bord
+REST_FOTO_pairing_01.jpg  — bakbanaan met een Amstel Bright
 ```
 
 Verplicht voor de gerechten en de drinks. Bij sfeer- en locatiebeelden hoeft het niet.

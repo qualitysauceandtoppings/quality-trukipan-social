@@ -21,9 +21,9 @@
   posts); 29 van de 54 contentmomenten gaan naar twee kanalen, dus dat wordt
   samen 83 posts in Buffer
 - Captionstijl: warm, Nederlands, emoji spaarzaam, vaste hashtagsets per merk
-- Vaste hashtags restaurant: `#QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan`
-- Vaste hashtags foodtruck: `#QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem`
-- Vaste hashtags sauce: `#QualitySauce #SurinaamsEten #Saus #Arnhem`
+- Vaste hashtags restaurant: `#QualityTrukipan #Presikhaaf #Arnhem #AntilliaanseBBQ #Trukipan`
+- Vaste hashtags foodtruck: `#QualityTrukipan #Foodtruck #StreetFood #AntilliaanseBBQ #Arnhem`
+- Vaste hashtags sauce: `#QualitySauce #AntilliaanseBBQ #Saus #Arnhem`
 - Bestandsnamen beeld: `MERK_TYPE_ONDERWERP_NR.ext`, merk is `REST`/`TRUCK`/`SAUCE`, type is `REEL`/`FOTO`/`STORY`
 - Alles publiceert automatisch (`schedulingType: "automatic"`), behalve maximaal twee trending-sound reels per maand
 - Niets wordt in Buffer ingepland zonder expliciete goedkeuring van Jonathan op de complete batch
@@ -207,15 +207,15 @@ Per rubriek drie varianten, zodat vier weken niet identiek klinken. Voor Bord va
 ```markdown
 **Bord van de week — variant A**
 > Nieuwe week, nieuw bord: [gerecht]. Vers gemaakt, precies zoals het hoort. Kom langs in Presikhaaf.
-> #QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan
+> #QualityTrukipan #Presikhaaf #Arnhem #AntilliaanseBBQ #Curacao #Trukipan
 
 **Bord van de week — variant B**
 > Dit staat deze week op je bord: [gerecht] 😋 Reserveren kan, aanschuiven mag ook.
-> #QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan
+> #QualityTrukipan #Presikhaaf #Arnhem #AntilliaanseBBQ #Curacao #Trukipan
 
 **Bord van de week — variant C**
 > [gerecht], zoals wij 'm maken. Dinsdag is een prima dag om 'm te proberen.
-> #QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan
+> #QualityTrukipan #Presikhaaf #Arnhem #AntilliaanseBBQ #Curacao #Trukipan
 ```
 
 Doe hetzelfde voor: In de keuken, Avondsfeer, Pairing, De klassieker, Zaterdagavond, Zondagbord.
@@ -227,7 +227,7 @@ Vier foodtruck-rubrieken (Locatie-reveal donderdag, On-site bestseller, Locatie-
 ```markdown
 **Locatie-reveal — variant zonder adres**
 > Vandaag staan we op onze vaste plek 🔥 Tijden vind je in de story. Kom langs voor verse trukipan.
-> #QualityTrukipan #Foodtruck #StreetFood #SurinaamsEten #Arnhem
+> #QualityTrukipan #Foodtruck #StreetFood #AntilliaanseBBQ #Curacao #Arnhem
 ```
 
 - [ ] **Stap 4: Zet de captions per week uit**
@@ -239,13 +239,13 @@ Loop het maandplan af en schrijf per rij het definitieve blok. Wissel de variant
 
 **01-09 · 12:00 · RESTAURANT · Instagram · FOTO**
 > Nieuwe week, nieuw bord: [gerecht]. Vers gemaakt, precies zoals het hoort. Kom langs in Presikhaaf.
-> #QualityTrukipan #Presikhaaf #Arnhem #SurinaamsEten #Trukipan
+> #QualityTrukipan #Presikhaaf #Arnhem #AntilliaanseBBQ #Curacao #Trukipan
 ```
 
 TikTok-captions komen als aparte regel onder de post, korter en met minder hashtags:
 
 ```markdown
-> TikTok: [gerecht] van pan tot bord 🔥 #QualityTrukipan #SurinaamsEten #Arnhem
+> TikTok: [gerecht] van pan tot bord 🔥 #QualityTrukipan #AntilliaanseBBQ #Arnhem
 ```
 
 - [ ] **Stap 5: Controleer het aantal captions**
@@ -292,7 +292,7 @@ Index van al het beeldmateriaal. De bestanden zelf staan niet in git.
 Naamconventie: `MERK_TYPE_ONDERWERP_NR.ext`
 Merk: `REST` (restaurant) · `TRUCK` (foodtruck) · `SAUCE`
 Type: `REEL` · `FOTO` · `STORY`
-Voorbeeld: `REST_REEL_pom_01.mp4` · `SAUCE_FOTO_fles_03.jpg`
+Voorbeeld: `REST_REEL_karni_01.mp4` · `SAUCE_FOTO_fles_03.jpg`
 
 Status: `Nieuw` (ongebruikt) · `Ingepland` · `Geplaatst` · `Afgevoerd`
 ```
@@ -376,7 +376,7 @@ De zes blokken uit de spec, met tijden en opbrengst per blok. Neem de tabel lett
 - Reels: verticaal 9:16, minimaal 1080x1920, MP4
 - Foto's: liefst vierkant of 4:5, minimaal 1440px op de korte zijde, JPG
 - Bestandsnamen: `MERK_TYPE_ONDERWERP_NR.ext` — `REST` / `TRUCK` / `SAUCE`,
-  `REEL` / `FOTO` / `STORY`. Voorbeeld: `REST_REEL_pom_01.mp4`
+  `REEL` / `FOTO` / `STORY`. Voorbeeld: `REST_REEL_karni_01.mp4`
 - Muziek: gebruik rechtenvrije of gelicentieerde audio (Epidemic Sound, Artlist,
   de gratis bibliotheek van CapCut). Muziek die al in het bestand zit is prima —
   Instagram kan commerciële tracks dempen of het bereik knijpen

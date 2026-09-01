@@ -44,7 +44,7 @@ Ruwe opbrengst van beide dagen samen: 17 reels en ongeveer 56 stills.
 - Reels: verticaal 9:16, minimaal 1080x1920, MP4
 - Foto's: liefst vierkant of 4:5, minimaal 1440px op de korte zijde, JPG
 - Bestandsnamen: `MERK_TYPE_ONDERWERP_NR.ext` — `REST` / `TRUCK` / `SAUCE`,
-  `REEL` / `FOTO` / `STORY`. Voorbeeld: `REST_REEL_pom_01.mp4`
+  `REEL` / `FOTO` / `STORY`. Voorbeeld: `REST_REEL_karni_01.mp4`
 - **Geluid moet ín het videobestand zitten.** Lever de reel aan met de muziek er al
   overheen, gerenderd in het bestand. Wij plannen de posts in via Buffer, en daar kan
   achteraf geen muziek meer bij: de muziekbibliotheken van Instagram en TikTok bestaan
@@ -87,9 +87,9 @@ De rest — alles wat hierboven niet genoemd staat — mag uiterlijk **woensdag
 weten we niet wat er op een foto staat. Eén regel per bestand is genoeg:
 
 ```
-REST_FOTO_gerecht_01.jpg  — pom met kipjus
-REST_REEL_gerecht_01.mp4  — roti met kip, van pan tot bord
-REST_FOTO_pairing_01.jpg  — bakbanaan met een Parbo
+REST_FOTO_gerecht_01.jpg  — karni stoba met funchi
+REST_REEL_gerecht_01.mp4  — kabritu stoba, van pan tot bord
+REST_FOTO_pairing_01.jpg  — bakbanaan met een Amstel Bright
 ```
 
 Voor de acht gerechten uit de keuken en de drie drinks bij de pairings is dat lijstje
