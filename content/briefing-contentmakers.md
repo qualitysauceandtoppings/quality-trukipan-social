@@ -5,8 +5,8 @@
 **Aanleveren:** week 1 met voorrang op maandag 31 augustus, de rest uiterlijk woensdag
 2 september. Zie "Aanleveren" hieronder — die volgorde is hard, want de eerste post
 staat gepland op dinsdag 1 september om 12:00.
-**Waarvoor:** de complete social media van september — 62 contentmomenten over drie
-merken, samen goed voor 95 posts omdat een deel naar twee kanalen gaat.
+**Waarvoor:** de complete social media van september — 71 contentmomenten over drie
+merken, samen goed voor 108 posts omdat een deel naar twee kanalen gaat.
 
 ## Draaiboek
 
