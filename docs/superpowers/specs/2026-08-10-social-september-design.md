@@ -9,8 +9,11 @@ Het bestaande weekritme-systeem loopt vast: elke week opnieuw bedenken wát er g
 moet worden, terwijl er geen beeldvoorraad ligt. De ideeën voor 11–16 augustus staan
 sinds 10 augustus zonder media stil in Buffer.
 
-Daarom een herstart per **1 september 2026** (een dinsdag, meteen een open dag), met een
-andere motor eronder: eerst voorraad, dan pas posten.
+Daarom een herstart per **1 september 2026**, een dinsdag. Het restaurant is op
+dinsdag dicht (zie `content/openingstijden.md`); de post van die dag is een
+aankondiging van de heropening op woensdag, geen gewone "Bord van de week"-post.
+Vanaf woensdag 2 september draait het weekritme, met een andere motor eronder:
+eerst voorraad, dan pas posten.
 
 ## Doelen
 
@@ -28,7 +31,7 @@ Drie merken, acht kanalen.
 
 | Merk | Kanalen | Actief |
 |---|---|---|
-| Quality Trukipan Presikhaaf (restaurant) | Instagram, TikTok | di t/m zo |
+| Quality Trukipan Presikhaaf (restaurant) | Instagram, TikTok | wo t/m zo |
 | Quality Trukipan (foodtruck) | Instagram, TikTok, Facebook | do + za + zo |
 | Quality Sauce & Toppings | Instagram, TikTok, Facebook | ma + vr |
 
@@ -56,9 +59,14 @@ past slecht bij foodtruck-locaties die per week verschillen.
 
 ### Restaurant — Quality Trukipan Presikhaaf
 
+Restaurant open **wo t/m zo**, dicht op **ma + di**. De rubriek "Bord van de week"
+stond eerder op dinsdag; dat was fout, want de zaak was toen al dicht. Verplaatst
+naar woensdag 12:00, zie `content/openingstijden.md`.
+
 | Dag | Tijd | Kanaal | Type | Rubriek |
 |---|---|---|---|---|
-| Di | 12:00 | Instagram | Foto | Bord van de week |
+| Wo | 11:00 | Instagram | Story | Openingstijden |
+| Wo | 12:00 | Instagram | Foto | Bord van de week |
 | Wo | 18:00 | Instagram + TikTok | Reel | In de keuken — van pan tot bord |
 | Do | 17:30 | Instagram | Foto | Avondsfeer |
 | Vr | 12:00 | Instagram | Foto | Pairing — drink + gerecht |
@@ -66,16 +74,23 @@ past slecht bij foodtruck-locaties die per week verschillen.
 | Za | 18:00 | Instagram + TikTok | Reel | Zaterdagavond |
 | Zo | 12:30 | Instagram | Foto | Zondagbord |
 
+De Openingstijden-story is nieuw: een kale story met de openingstijden van die week
+gebrand in het beeld, elke woensdag 11:00, alleen Instagram.
+
 ### Foodtruck — Quality Trukipan
 
 | Dag | Tijd | Kanaal | Type | Rubriek |
 |---|---|---|---|---|
+| Do | 09:30 | Instagram + Facebook | Story | Waar staan we |
 | Do | 10:00 | Instagram + Facebook | Foto | Locatie-reveal |
 | Do | 13:00 | Instagram + TikTok | Reel | On-site — bestseller |
 | Za | 10:00 | Instagram + Facebook | Foto | Locatie-reveal |
 | Za | 13:00 | Instagram | Foto | Drukte als social proof |
 | Zo | 10:00 | Instagram + Facebook | Foto | Locatie-reveal |
 | Zo | 13:00 | Instagram | Foto | Drukte als social proof |
+
+De Waar staan we-story is nieuw: een kale story met de standplaatsen van die week
+gebrand in het beeld, elke donderdag 09:30, Instagram + Facebook.
 
 ### Quality Sauce & Toppings
 
@@ -92,6 +107,12 @@ hergebruik van woensdag, met een ander fragment en een andere caption.
 Eén kale story per open dag: beeld met tekst erin, geen muzieksticker, poll of link.
 Kaal betekent dat Buffer ze automatisch publiceert.
 
+Daarnaast twee vaste wekelijkse informatie-stories, los van dat patroon: de
+Openingstijden-story (restaurant, wo 11:00) en de Waar staan we-story (foodtruck,
+do 09:30) hierboven onder Weekritme. Die gebruiken bestaand beeld uit de contentbank
+in plaats van een reel-still, en dezelfde tekst elke week — het zijn de actuele
+openingstijden en standplaatsen, geen verhaal dat mag variëren.
+
 ## September 2026 in cijfers
 
 September begint op dinsdag 1 en eindigt op woensdag 30. Vier volle weken
@@ -99,18 +120,24 @@ September begint op dinsdag 1 en eindigt op woensdag 30. Vier volle weken
 
 | Merk | Contentmomenten |
 |---|---|
-| Restaurant | 30 |
-| Foodtruck | 24 |
+| Restaurant | 35 |
+| Foodtruck | 28 |
 | Sauce & Toppings | 8 |
-| **Totaal** | **62** |
+| **Totaal** | **71** |
 
-Dit zijn contentmomenten (rijen in het maandplan), geen Buffer-posts: 33 van de 62
+Inclusief 9 nieuwe wekelijkse openingstijden-stories: 5 keer Openingstijden voor het
+restaurant en 4 keer Waar staan we voor de foodtruck (september heeft 5 woensdagen
+en 4 donderdagen). Toegevoegd bij het herstellen van de dinsdag-fout in het
+weekritme — zie `content/openingstijden.md`.
+
+Dit zijn contentmomenten (rijen in het maandplan), geen Buffer-posts: 37 van de 71
 gaan naar twee kanalen (bijvoorbeeld Instagram + TikTok), en elk kanaal krijgt een
-eigen `create_post`-aanroep. In Buffer worden 62 contentmomenten dus 95 posts
-(62 + 33).
+eigen `create_post`-aanroep. In Buffer worden 71 contentmomenten dus 108 posts
+(71 + 37).
 
 Daarvan zijn 13 reels die echt gefilmd moeten worden (9 restaurant, 4 foodtruck); de
-sauce-reels komen uit restaurant-materiaal.
+sauce-reels komen uit restaurant-materiaal. De 9 nieuwe stories filmen niet mee: die
+hergebruiken bestaand beeld (`REST_FOTO_sfeer_01.jpg`, `TRUCK_FOTO_locatie_01.jpg`).
 
 ## Shootdagen
 
@@ -215,7 +242,7 @@ ingepland wordt.
 | Bestand | Inhoud |
 |---|---|
 | `content/september-2026.md` | Elke dag van de maand: datum, tijd, kanaal, type, rubriek, onderwerp, beeld |
-| `content/captions-september-2026.md` | Alle 62 captions, per week gegroepeerd |
+| `content/captions-september-2026.md` | Alle 71 captions, per week gegroepeerd |
 | `content/contentbank.md` | Index van alle beelden |
 | `content/briefing-contentmakers.md` | Shotlist, deadline, aanleverformaat, bestandsnamen |
 | `content/maandroutine.md` | De maandcyclus, zodat het ook zonder Claude te volgen is |

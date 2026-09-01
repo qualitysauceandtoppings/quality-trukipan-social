@@ -6,6 +6,12 @@ gerecht, de drink of de locatie van die week.
 Stijl: warm, Nederlands, emoji spaarzaam. Captions eindigen op een uitnodiging
 (langskomen, reserveren, bestellen), niet op een uitroepteken alleen.
 
+Het restaurant is woensdag t/m zondag open, maandag en dinsdag dicht — zie
+`openingstijden.md`. "Bord van de week" staat daarom op woensdag 12:00, met als
+enige uitzondering dinsdag 1 september: die caption blijft ongewijzigd, want de
+post gaat vandaag al uit als aankondiging van de heropening, niet als gewone
+"Bord van de week"-post.
+
 ## Sjablonen — Restaurant
 
 Standaard drie varianten per rubriek (A-C). Rubrieken die vaker dan drie keer
@@ -18,6 +24,10 @@ van de week en In de keuken, omdat die op een dag vallen die in september
 vijf keer voorkomt; acht varianten (A-H) voor Drukte, omdat de foodtruck nu
 ook op zondag rijdt en die rubriek daardoor acht keer per maand voorkomt (vier
 zaterdagen plus vier zondagen).
+Openingstijden (restaurant) en Waar staan we (foodtruck) zijn een uitzondering op de
+"geen twee identieke captions"-regel: één vaste tekst, want het is de tekst die in het
+beeld gebrand wordt en die hoort elke week hetzelfde te zijn — het zijn de actuele
+openingstijden en standplaatsen, geen verhaal.
 Tel bij een nieuwe maand zelf na hoe vaak elke rubriek voorkomt en vul zo
 nodig varianten aan voordat je de maand uitschrijft.
 
@@ -26,19 +36,19 @@ nodig varianten aan voordat je de maand uitschrijft.
 > #QualityTrukipan #Presikhaaf #Arnhem #AntilliaanseBBQ #Curacao #Trukipan
 
 **Bord van de week — variant B**
-> Dit staat deze week op je bord: [gerecht] 😋 Reserveren kan, aanschuiven mag ook.
+> Dit staat deze week op je bord: [gerecht] 😋 Vanaf 15:00 weer open, kom dan gerust aanschuiven.
 > #QualityTrukipan #Presikhaaf #Arnhem #AntilliaanseBBQ #Curacao #Trukipan
 
 **Bord van de week — variant C**
-> [gerecht], zoals wij 'm maken. Dinsdag is een prima dag om 'm te proberen.
+> [gerecht], zoals wij 'm maken. Vanaf 15:00 kun je 'm proberen.
 > #QualityTrukipan #Presikhaaf #Arnhem #AntilliaanseBBQ #Curacao #Trukipan
 
 **Bord van de week — variant D**
-> [gerecht] is deze week het bord waar we trots op zijn. Vers, vol smaak en klaar voor jou. Kom langs in Presikhaaf.
+> [gerecht] is deze week het bord waar we trots op zijn. Vers, vol smaak en klaar voor jou vanaf 15:00. Kom langs in Presikhaaf.
 > #QualityTrukipan #Presikhaaf #Arnhem #AntilliaanseBBQ #Curacao #Trukipan
 
 **Bord van de week — variant E**
-> Deze week draait alles om [gerecht] op ons bord. Geen kunstjes, gewoon goed eten. Reserveer een tafel en proef mee.
+> Deze week draait alles om [gerecht] op ons bord. Geen kunstjes, gewoon goed eten, vanaf 15:00. Reserveer een tafel en proef mee.
 > #QualityTrukipan #Presikhaaf #Arnhem #AntilliaanseBBQ #Curacao #Trukipan
 
 **In de keuken — variant A**
@@ -141,7 +151,18 @@ nodig varianten aan voordat je de maand uitschrijft.
 > Op zondag serveren we [gerecht], rustig en zonder haast. Kom aanschuiven in Presikhaaf.
 > #QualityTrukipan #Presikhaaf #Arnhem #AntilliaanseBBQ #Curacao #Trukipan
 
+**Openingstijden — variant A**
+> Deze week open
+> wo · do 15:00 – 20:00
+> vr 15:00 – 21:00
+> za · zo 12:00 – 21:00
+
 ## Sjablonen — Foodtruck & Sauce
+
+**Waar staan we — variant A**
+> Deze week op de weg
+> do · za Hatert, Nijmegen 13:00 – 20:00
+> zo Elderhof, Arnhem 13:00 – 19:00
 
 **Locatie-reveal donderdag — variant A**
 > Donderdag staan we bij winkelcentrum Hatert in Nijmegen 📍 Kom langs voor verse trukipan.
@@ -283,10 +304,21 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 > Nieuwe week, nieuw bord: [gerecht]. Vers gemaakt, precies zoals het hoort. Kom langs in Presikhaaf.
 > #QualityTrukipan #Presikhaaf #Arnhem #AntilliaanseBBQ #Curacao #Trukipan
 
+**02-09 · 11:00 · RESTAURANT · Instagram · STORY**
+> Deze week open
+> wo · do 15:00 – 20:00
+> vr 15:00 – 21:00
+> za · zo 12:00 – 21:00
+
 **02-09 · 18:00 · RESTAURANT · Instagram + TikTok · REEL**
 > Achter de schermen bij Quality Trukipan: [gerecht] van pan tot bord. Zo maken we het, met liefde en tijd. Kom proeven in Presikhaaf.
 > #QualityTrukipan #Presikhaaf #Arnhem #AntilliaanseBBQ #Curacao #Trukipan
 > TikTok: [gerecht] van pan tot bord 🔥 #QualityTrukipan #AntilliaanseBBQ #Arnhem
+
+**03-09 · 09:30 · FOODTRUCK · Instagram + Facebook · STORY**
+> Deze week op de weg
+> do · za Hatert, Nijmegen 13:00 – 20:00
+> zo Elderhof, Arnhem 13:00 – 19:00
 
 **03-09 · 10:00 · FOODTRUCK · Instagram + Facebook · FOTO**
 > Donderdag staan we bij winkelcentrum Hatert in Nijmegen 📍 Kom langs voor verse trukipan.
@@ -345,14 +377,25 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 > Deze fles hoort in elke keuken 🌶️ Bestel via de webshop en proef het verschil.
 > #QualitySauce #AntilliaanseBBQ #Curacao #Saus #Arnhem
 
-**08-09 · 12:00 · RESTAURANT · Instagram · FOTO**
-> Dit staat deze week op je bord: [gerecht] 😋 Reserveren kan, aanschuiven mag ook.
+**09-09 · 11:00 · RESTAURANT · Instagram · STORY**
+> Deze week open
+> wo · do 15:00 – 20:00
+> vr 15:00 – 21:00
+> za · zo 12:00 – 21:00
+
+**09-09 · 12:00 · RESTAURANT · Instagram · FOTO**
+> Dit staat deze week op je bord: [gerecht] 😋 Vanaf 15:00 weer open, kom dan gerust aanschuiven.
 > #QualityTrukipan #Presikhaaf #Arnhem #AntilliaanseBBQ #Curacao #Trukipan
 
 **09-09 · 18:00 · RESTAURANT · Instagram + TikTok · REEL**
 > Recht uit onze keuken: [gerecht] 🔥 Van pan tot bord, stap voor stap. Reserveer je tafel en proef het zelf.
 > #QualityTrukipan #Presikhaaf #Arnhem #AntilliaanseBBQ #Curacao #Trukipan
 > TikTok: recht uit de keuken, [gerecht] in wording. #QualityTrukipan #AntilliaanseBBQ #Arnhem
+
+**10-09 · 09:30 · FOODTRUCK · Instagram + Facebook · STORY**
+> Deze week op de weg
+> do · za Hatert, Nijmegen 13:00 – 20:00
+> zo Elderhof, Arnhem 13:00 – 19:00
 
 **10-09 · 10:00 · FOODTRUCK · Instagram + Facebook · FOTO**
 > Waar vind je ons vandaag? Bij winkelcentrum Hatert in Nijmegen. Loop langs en proef het zelf.
@@ -411,14 +454,25 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 > Klaar voor gebruik, klaar voor jouw bord: onze saus. Bestel 'm nu via de webshoplink.
 > #QualitySauce #AntilliaanseBBQ #Curacao #Saus #Arnhem
 
-**15-09 · 12:00 · RESTAURANT · Instagram · FOTO**
-> [gerecht], zoals wij 'm maken. Dinsdag is een prima dag om 'm te proberen.
+**16-09 · 11:00 · RESTAURANT · Instagram · STORY**
+> Deze week open
+> wo · do 15:00 – 20:00
+> vr 15:00 – 21:00
+> za · zo 12:00 – 21:00
+
+**16-09 · 12:00 · RESTAURANT · Instagram · FOTO**
+> [gerecht], zoals wij 'm maken. Vanaf 15:00 kun je 'm proberen.
 > #QualityTrukipan #Presikhaaf #Arnhem #AntilliaanseBBQ #Curacao #Trukipan
 
 **16-09 · 18:00 · RESTAURANT · Instagram + TikTok · REEL**
 > Zo ontstaat [gerecht] bij ons in de keuken. Geen kortere weg, wel de lekkerste. Kom langs en proef het verschil.
 > #QualityTrukipan #Presikhaaf #Arnhem #AntilliaanseBBQ #Curacao #Trukipan
 > TikTok: kijk mee hoe [gerecht] ontstaat. #QualityTrukipan #AntilliaanseBBQ #Arnhem
+
+**17-09 · 09:30 · FOODTRUCK · Instagram + Facebook · STORY**
+> Deze week op de weg
+> do · za Hatert, Nijmegen 13:00 – 20:00
+> zo Elderhof, Arnhem 13:00 – 19:00
 
 **17-09 · 10:00 · FOODTRUCK · Instagram + Facebook · FOTO**
 > Vandaag rijdt de truck naar winkelcentrum Hatert in Nijmegen. Kom een bakkie trukipan halen.
@@ -477,14 +531,25 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 > Onze saus, recht in beeld. Bestel 'm via de link in bio en breng de smaak naar huis.
 > #QualitySauce #AntilliaanseBBQ #Curacao #Saus #Arnhem
 
-**22-09 · 12:00 · RESTAURANT · Instagram · FOTO**
-> [gerecht] is deze week het bord waar we trots op zijn. Vers, vol smaak en klaar voor jou. Kom langs in Presikhaaf.
+**23-09 · 11:00 · RESTAURANT · Instagram · STORY**
+> Deze week open
+> wo · do 15:00 – 20:00
+> vr 15:00 – 21:00
+> za · zo 12:00 – 21:00
+
+**23-09 · 12:00 · RESTAURANT · Instagram · FOTO**
+> [gerecht] is deze week het bord waar we trots op zijn. Vers, vol smaak en klaar voor jou vanaf 15:00. Kom langs in Presikhaaf.
 > #QualityTrukipan #Presikhaaf #Arnhem #AntilliaanseBBQ #Curacao #Trukipan
 
 **23-09 · 18:00 · RESTAURANT · Instagram + TikTok · REEL**
 > Kijk mee hoe [gerecht] in onze keuken ontstaat: rustig, met aandacht en de juiste tijd. Kom langs en proef het resultaat.
 > #QualityTrukipan #Presikhaaf #Arnhem #AntilliaanseBBQ #Curacao #Trukipan
 > TikTok: [gerecht] ontstaat, stap voor stap in de keuken. #QualityTrukipan #AntilliaanseBBQ #Arnhem
+
+**24-09 · 09:30 · FOODTRUCK · Instagram + Facebook · STORY**
+> Deze week op de weg
+> do · za Hatert, Nijmegen 13:00 – 20:00
+> zo Elderhof, Arnhem 13:00 – 19:00
 
 **24-09 · 10:00 · FOODTRUCK · Instagram + Facebook · FOTO**
 > Deze donderdag staan we weer klaar bij winkelcentrum Hatert in Nijmegen. Kom langs voor verse trukipan.
@@ -543,8 +608,14 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 > De fles die nooit mag ontbreken in huis. Bestel 'm via de webshop en zet 'm in je keukenkast.
 > #QualitySauce #AntilliaanseBBQ #Curacao #Saus #Arnhem
 
-**29-09 · 12:00 · RESTAURANT · Instagram · FOTO**
-> Deze week draait alles om [gerecht] op ons bord. Geen kunstjes, gewoon goed eten. Reserveer een tafel en proef mee.
+**30-09 · 11:00 · RESTAURANT · Instagram · STORY**
+> Deze week open
+> wo · do 15:00 – 20:00
+> vr 15:00 – 21:00
+> za · zo 12:00 – 21:00
+
+**30-09 · 12:00 · RESTAURANT · Instagram · FOTO**
+> Deze week draait alles om [gerecht] op ons bord. Geen kunstjes, gewoon goed eten, vanaf 15:00. Reserveer een tafel en proef mee.
 > #QualityTrukipan #Presikhaaf #Arnhem #AntilliaanseBBQ #Curacao #Trukipan
 
 **30-09 · 18:00 · RESTAURANT · Instagram + TikTok · REEL**

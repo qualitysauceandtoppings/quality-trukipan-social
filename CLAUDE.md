@@ -8,13 +8,15 @@ maand vooraf ingepland via Buffer. Gebruik dit bestand om het werk voort te zett
 
 | Onderdeel | Merk / account | Actief | Kanalen |
 |---|---|---|---|
-| Restaurant | **Quality Trukipan Presikhaaf** | di t/m zo (ma dicht) | Instagram, TikTok |
+| Restaurant | **Quality Trukipan Presikhaaf** | wo t/m zo (ma + di dicht) | Instagram, TikTok |
 | Foodtruck | **Quality Trukipan** | do + za + zo (bevestigd) | Instagram, TikTok, Facebook |
 | Eigen merk | Quality Sauce & Toppings | ma + vr | Instagram, TikTok, Facebook |
 
 > Quality Sauce & Toppings zit vanaf september mee in het systeem: vaste foto op
 > maandag, vaste reel op vrijdag.
 > Presikhaaf heeft (nog) geen eigen Facebook-pagina; Facebook loopt via het hoofdaccount.
+> Openingstijden staan in `content/openingstijden.md` — dat is de bron van waarheid.
+> Het restaurant is dinsdag dicht; dat stond er tot 1 september 2026 verkeerd in.
 
 ## Buffer
 
@@ -49,11 +51,14 @@ Afwijkingen (festival, privéfeest, dag dat de truck niet rijdt) geeft
 Jonathan door via de chat, uiterlijk de dag ervoor — niet meer per maand
 aanleveren zoals bij [gerecht]/[drink].
 
-Drie merken: restaurant (di–zo), foodtruck (do + za + zo), Sauce & Toppings (ma + vr).
-Per maand 62 contentmomenten, vooraf ingepland in Buffer. Een contentmoment dat
+Drie merken: restaurant (wo–zo), foodtruck (do + za + zo), Sauce & Toppings (ma + vr).
+Elke woensdag 11:00 gaat er ook een openingstijden-story uit voor het restaurant
+(alleen Instagram) en elke donderdag 09:30 een standplaats-story voor de foodtruck
+(Instagram + Facebook) — zie `content/openingstijden.md`.
+Per maand 71 contentmomenten, vooraf ingepland in Buffer. Een contentmoment dat
 naar twee kanalen gaat (bijvoorbeeld Instagram + TikTok) is in Buffer twee
-aparte posts; 33 van de 62 contentmomenten gaan naar twee kanalen, dus dat
-worden samen 95 posts.
+aparte posts; 37 van de 71 contentmomenten gaan naar twee kanalen, dus dat
+worden samen 108 posts.
 
 ## Rolverdeling
 

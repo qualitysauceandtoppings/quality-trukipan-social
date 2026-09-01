@@ -107,6 +107,8 @@ Zo hoeft niemand te raden welk beeld waar terechtkomt.
 | On-site bestseller | 4 reels | `TRUCK_REEL_bestseller_01`, `TRUCK_REEL_opbouw_01`, `TRUCK_REEL_drukte_01`, `TRUCK_REEL_locatie_01` |
 | Fles in beeld | 4 foto's | `SAUCE_FOTO_fles_01` t/m `_04` |
 | Saus in gebruik | 4 reels | Geknipt uit `REST_REEL_gerecht_01` t/m `_04`; `SAUCE_REEL_giet_01` is reserve |
+| Openingstijden (story) | 5x, elke woensdag | `REST_FOTO_sfeer_01` — hergebruik, staat hierboven ook al bij Avondsfeer |
+| Waar staan we (story) | 4x, elke donderdag | `TRUCK_FOTO_locatie_01` — hergebruik, staat hierboven ook al bij Locatie-reveal |
 
 De vier truck-reels zijn bewust verschillend van elkaar: vier keer dezelfde bestseller-reel
 in één maand leest als een herhaling. Opbouw, bestseller, drukte en locatie vullen samen de
