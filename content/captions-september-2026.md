@@ -104,7 +104,7 @@ nodig varianten aan voordat je de maand uitschrijft.
 > #QualityTrukipan #Presikhaaf #Arnhem #AntilliaanseBBQ #Curacao #Trukipan
 
 **De klassieker — variant A**
-> Een klassieker die nooit verveelt: [gerecht]. Kom hem proeven zoals hij hoort te zijn.
+> Een klassieker die nooit verveelt: gestoofde kabeljauw, half rijst half frietjes. Vanaf 12:00 staat 'ie voor je klaar in Presikhaaf.
 > #QualityTrukipan #Presikhaaf #Arnhem #AntilliaanseBBQ #Curacao #Trukipan
 
 **De klassieker — variant B**
@@ -136,7 +136,7 @@ nodig varianten aan voordat je de maand uitschrijft.
 > #QualityTrukipan #Presikhaaf #Arnhem #AntilliaanseBBQ #Curacao #Trukipan
 
 **Zondagbord — variant A**
-> Zondag, tijd voor [gerecht]. Rustig aan tafel met de mensen van wie je houdt. Kom langs in Presikhaaf.
+> Zondag, tijd voor nacho's steak and cheese. Rustig aan tafel met de mensen van wie je houdt. Vanaf 12:00 open in Presikhaaf.
 > #QualityTrukipan #Presikhaaf #Arnhem #AntilliaanseBBQ #Curacao #Trukipan
 
 **Zondagbord — variant B**
@@ -347,7 +347,7 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 > #QualityTrukipan #Foodtruck #StreetFood #AntilliaanseBBQ #Curacao #Arnhem #Nijmegen
 
 **05-09 · 12:30 · RESTAURANT · Instagram · FOTO**
-> Een klassieker die nooit verveelt: [gerecht]. Kom hem proeven zoals hij hoort te zijn.
+> Een klassieker die nooit verveelt: gestoofde kabeljauw, half rijst half frietjes. Vanaf 12:00 staat 'ie voor je klaar in Presikhaaf.
 > #QualityTrukipan #Presikhaaf #Arnhem #AntilliaanseBBQ #Curacao #Trukipan
 
 **05-09 · 13:00 · FOODTRUCK · Instagram · FOTO**
@@ -364,7 +364,7 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 > #QualityTrukipan #Foodtruck #StreetFood #AntilliaanseBBQ #Curacao #Arnhem
 
 **06-09 · 12:30 · RESTAURANT · Instagram · FOTO**
-> Zondag, tijd voor [gerecht]. Rustig aan tafel met de mensen van wie je houdt. Kom langs in Presikhaaf.
+> Zondag, tijd voor nacho's steak and cheese. Rustig aan tafel met de mensen van wie je houdt. Vanaf 12:00 open in Presikhaaf.
 > #QualityTrukipan #Presikhaaf #Arnhem #AntilliaanseBBQ #Curacao #Trukipan
 
 **06-09 · 13:00 · FOODTRUCK · Instagram · FOTO**

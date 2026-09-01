@@ -33,11 +33,11 @@ kanalen (elk een eigen `create_post`-aanroep), dus in Buffer worden dit 108 post
 | 04-09 | vr | 12:00 | Restaurant | Instagram | Foto | Pairing | [drink] + [gerecht] | | Gepland |
 | 04-09 | vr | 18:00 | Sauce | Instagram + TikTok | Reel | Saus in gebruik | Uit reel van 02-09 | | Gepland |
 | 05-09 | za | 10:00 | Foodtruck | Instagram + Facebook | Foto | Locatie-reveal | Hatert, Nijmegen | | Gepland |
-| 05-09 | za | 12:30 | Restaurant | Instagram | Foto | De klassieker | [gerecht] | | Gepland |
+| 05-09 | za | 12:30 | Restaurant | Instagram | Foto | De klassieker | Gestoofde kabeljauw, half rijst half frietjes | REST_FOTO_gerecht_06.jpg | Gepland |
 | 05-09 | za | 13:00 | Foodtruck | Instagram | Foto | Drukte | Rij bij de truck | | Gepland |
 | 05-09 | za | 18:00 | Restaurant | Instagram + TikTok | Reel | Zaterdagavond | Sfeer in de zaak | | Gepland |
 | 06-09 | zo | 10:00 | Foodtruck | Instagram + Facebook | Foto | Locatie-reveal | Elderhof, Arnhem | | Gepland |
-| 06-09 | zo | 12:30 | Restaurant | Instagram | Foto | Zondagbord | [gerecht] | | Gepland |
+| 06-09 | zo | 12:30 | Restaurant | Instagram | Foto | Zondagbord | Nacho's steak and cheese | REST_FOTO_gerecht_10.jpg | Gepland |
 | 06-09 | zo | 13:00 | Foodtruck | Instagram | Foto | Drukte | Rij bij de truck | | Gepland |
 
 ## Week 2 — ma 7 t/m zo 13 september
