@@ -128,3 +128,17 @@ t/m `_08`.
 `STORY`-rijen staan hierboven nog niet: die ontstaan pas na de shootdag, worden uit de
 reels geknipt volgens de repurposeregels hierboven, en worden pas aan deze index
 toegevoegd zodra ze daadwerkelijk gemaakt zijn.
+
+## Quality Sauce & Toppings — geblokkeerd
+
+Op 1 september uit de planning gehaald: er is geen eigen sausbeeld aangeleverd.
+De vrijdagreel gebruikte de keukenreel van het restaurant, waarin de saus niet
+voorkomt, en het was letterlijk hetzelfde bestand als de restaurantpost van
+woensdag — twee dagen later, ander account, zelfde video.
+
+Nodig voordat het Sauce-account weer meedraait:
+
+- `SAUCE_REEL_giet_01.mp4` — giet-shot over een bord, stond in blok 6 van de shootdag
+- `SAUCE_FOTO_fles_01.jpg` t/m `_04.jpg` — fles los, in de hand, schone achtergrond
+
+Zolang die er niet zijn blijven de Sauce-rijen in het maandplan op `Geblokkeerd`.
