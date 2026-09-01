@@ -23,14 +23,14 @@ kanalen (elk een eigen `create_post`-aanroep), dus in Buffer worden dit 108 post
 
 | Datum | Dag | Tijd | Merk | Kanaal | Type | Rubriek | Onderwerp | Beeld | Status |
 |---|---|---|---|---|---|---|---|---|---|
-| 01-09 | di | 12:00 | Restaurant | Instagram | Foto | Bord van de week | [gerecht] (aankondiging: vanaf morgen 15:00 weer open) | | Gepland |
+| 01-09 | di | 12:00 | Restaurant | Instagram | Foto | Bord van de week | Houtskool kalfsribs (aankondiging: vanaf morgen 15:00 open) | REST_FOTO_gerecht_01.jpg | Gepland |
 | 02-09 | wo | 11:00 | Restaurant | Instagram | Story | Openingstijden | Openingstijden deze week | REST_FOTO_sfeer_01.jpg | Gepland |
-| 02-09 | wo | 18:00 | Restaurant | Instagram + TikTok | Reel | In de keuken | [gerecht] van pan tot bord | | Gepland |
+| 02-09 | wo | 18:00 | Restaurant | Instagram + TikTok | Reel | In de keuken | Bakkeljauw met frietjes en moro rijst, van pan tot bord | REST_REEL_gerecht_01.mp4 | Gepland |
 | 03-09 | do | 09:30 | Foodtruck | Instagram + Facebook | Story | Waar staan we | Locaties deze week | TRUCK_FOTO_locatie_01.jpg | Gepland |
 | 03-09 | do | 10:00 | Foodtruck | Instagram + Facebook | Foto | Locatie-reveal | Hatert, Nijmegen | | Gepland |
 | 03-09 | do | 13:00 | Foodtruck | Instagram + TikTok | Reel | On-site bestseller | Bestseller bij de truck | | Gepland |
 | 03-09 | do | 17:30 | Restaurant | Instagram | Foto | Avondsfeer | Sfeerbeeld avond | | Gepland |
-| 04-09 | vr | 12:00 | Restaurant | Instagram | Foto | Pairing | [drink] + [gerecht] | | Gepland |
+| 04-09 | vr | 12:00 | Restaurant | Instagram | Foto | Pairing | Fria banana bij gestoofde kabeljauw, half rijst half frietjes | REST_FOTO_pairing_01.jpg | Gepland |
 | 04-09 | vr | 18:00 | Sauce | Instagram + TikTok | Reel | Saus in gebruik | Uit reel van 02-09 | | Gepland |
 | 05-09 | za | 10:00 | Foodtruck | Instagram + Facebook | Foto | Locatie-reveal | Hatert, Nijmegen | | Gepland |
 | 05-09 | za | 12:30 | Restaurant | Instagram | Foto | De klassieker | Gestoofde kabeljauw, half rijst half frietjes | REST_FOTO_gerecht_06.jpg | Gepland |

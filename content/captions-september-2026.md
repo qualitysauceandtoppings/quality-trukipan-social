@@ -52,7 +52,7 @@ nodig varianten aan voordat je de maand uitschrijft.
 > #QualityTrukipan #Presikhaaf #Arnhem #AntilliaanseBBQ #Curacao #Trukipan
 
 **In de keuken — variant A**
-> Achter de schermen bij Quality Trukipan: [gerecht] van pan tot bord. Zo maken we het, met liefde en tijd. Kom proeven in Presikhaaf.
+> Achter de schermen bij Quality Trukipan: bakkeljauw met frietjes en moro rijst, van pan tot bord. Zo maken we het, met tijd en vuur. Vanaf 15:00 open in Presikhaaf.
 > #QualityTrukipan #Presikhaaf #Arnhem #AntilliaanseBBQ #Curacao #Trukipan
 
 **In de keuken — variant B**
@@ -88,7 +88,7 @@ nodig varianten aan voordat je de maand uitschrijft.
 > #QualityTrukipan #Presikhaaf #Arnhem #AntilliaanseBBQ #Curacao #Trukipan
 
 **Pairing — variant A**
-> [drink] bij [gerecht], een combinatie die altijd werkt. Kom het proeven in Presikhaaf.
+> Een koude Fria banana bij gestoofde kabeljauw, half rijst half frietjes. Die combinatie werkt altijd. Vanaf 15:00 staan we voor je klaar in Presikhaaf.
 > #QualityTrukipan #Presikhaaf #Arnhem #AntilliaanseBBQ #Curacao #Trukipan
 
 **Pairing — variant B**
@@ -311,9 +311,9 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 > za · zo 12:00 – 21:00
 
 **02-09 · 18:00 · RESTAURANT · Instagram + TikTok · REEL**
-> Achter de schermen bij Quality Trukipan: [gerecht] van pan tot bord. Zo maken we het, met liefde en tijd. Kom proeven in Presikhaaf.
+> Achter de schermen bij Quality Trukipan: bakkeljauw met frietjes en moro rijst, van pan tot bord. Zo maken we het, met tijd en vuur. Vanaf 15:00 open in Presikhaaf.
 > #QualityTrukipan #Presikhaaf #Arnhem #AntilliaanseBBQ #Curacao #Trukipan
-> TikTok: [gerecht] van pan tot bord 🔥 #QualityTrukipan #AntilliaanseBBQ #Arnhem
+> TikTok: bakkeljauw met frietjes en moro rijst, van pan tot bord 🔥 #QualityTrukipan #AntilliaanseBBQ #Curacao #Arnhem
 
 **03-09 · 09:30 · FOODTRUCK · Instagram + Facebook · STORY**
 > Deze week op de weg
@@ -334,7 +334,7 @@ Voor donderdag én zaterdag, te gebruiken als de locatie niet op tijd bekend is.
 > #QualityTrukipan #Presikhaaf #Arnhem #AntilliaanseBBQ #Curacao #Trukipan
 
 **04-09 · 12:00 · RESTAURANT · Instagram · FOTO**
-> [drink] bij [gerecht], een combinatie die altijd werkt. Kom het proeven in Presikhaaf.
+> Een koude Fria banana bij gestoofde kabeljauw, half rijst half frietjes. Die combinatie werkt altijd. Vanaf 15:00 staan we voor je klaar in Presikhaaf.
 > #QualityTrukipan #Presikhaaf #Arnhem #AntilliaanseBBQ #Curacao #Trukipan
 
 **04-09 · 18:00 · SAUCE · Instagram + TikTok · REEL**
