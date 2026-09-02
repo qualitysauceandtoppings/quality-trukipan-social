@@ -142,3 +142,27 @@ Nodig voordat het Sauce-account weer meedraait:
 - `SAUCE_FOTO_fles_01.jpg` t/m `_04.jpg` — fles los, in de hand, schone achtergrond
 
 Zolang die er niet zijn blijven de Sauce-rijen in het maandplan op `Geblokkeerd`.
+
+## Story-beelden met openingstijden
+
+Gemaakt op 1 september 2026 door de tijden over een bestaande foto te zetten en het
+geheel als PNG van 1080x1920 te renderen. De tekst zit in het beeld, niet als sticker —
+daardoor publiceert Buffer ze automatisch.
+
+| Bestand | Merk | Dag | Achtergrond |
+|---|---|---|---|
+| REST_STORY_open_01.png | REST | woensdag | REST_FOTO_sfeer_01.jpg |
+| REST_STORY_open_02.png | REST | donderdag | REST_FOTO_gerecht_01.jpg |
+| REST_STORY_open_03.png | REST | vrijdag | REST_FOTO_pairing_01.jpg |
+| REST_STORY_open_04.png | REST | zaterdag | REST_FOTO_gerecht_06.jpg |
+| REST_STORY_open_05.png | REST | zondag | REST_FOTO_gerecht_10.jpg |
+| TRUCK_STORY_locatie_01.png | TRUCK | donderdag | TRUCK_FOTO_locatie_01.jpg |
+| TRUCK_STORY_locatie_02.png | TRUCK | zaterdag | TRUCK_FOTO_locatie_02.jpg |
+| TRUCK_STORY_locatie_03.png | TRUCK | zondag | TRUCK_FOTO_onsite_01.jpg |
+
+De zondag-story van de truck gebruikt bewust een close-up zonder herkenbare omgeving:
+er is geen foto van Elderhof aangeleverd, en een herkenbaar Hatert-beeld onder de tekst
+"Elderhof" zou misleidend zijn. Vervangen zodra `TRUCK_FOTO_locatie_09.jpg` binnen is.
+
+Het script dat ze maakt staat buiten de repo, in de scratchpad van de sessie. Bij een
+wijziging in de openingstijden moeten deze acht beelden opnieuw gerenderd worden.

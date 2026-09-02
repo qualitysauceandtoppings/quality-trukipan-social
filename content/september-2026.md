@@ -24,9 +24,7 @@ kanalen (elk een eigen `create_post`-aanroep), dus in Buffer worden dit 108 post
 | Datum | Dag | Tijd | Merk | Kanaal | Type | Rubriek | Onderwerp | Beeld | Status |
 |---|---|---|---|---|---|---|---|---|---|
 | 01-09 | di | 12:00 | Restaurant | Instagram | Foto | Bord van de week | Houtskool kalfsribs (aankondiging: vanaf morgen 15:00 open) | REST_FOTO_gerecht_01.jpg | Gepland |
-| 02-09 | wo | 11:00 | Restaurant | Instagram | Story | Openingstijden | Openingstijden deze week | REST_FOTO_sfeer_01.jpg | Gepland |
 | 02-09 | wo | 18:00 | Restaurant | Instagram + TikTok | Reel | In de keuken | Bakkeljauw met frietjes en moro rijst, van pan tot bord | REST_REEL_gerecht_01.mp4 | In Buffer |
-| 03-09 | do | 09:30 | Foodtruck | Instagram + Facebook | Story | Waar staan we | Locaties deze week | TRUCK_FOTO_locatie_01.jpg | Gepland |
 | 03-09 | do | 10:00 | Foodtruck | Instagram + Facebook | Foto | Locatie-reveal | Hatert, Nijmegen | | In Buffer |
 | 03-09 | do | 13:00 | Foodtruck | Instagram + TikTok | Reel | On-site bestseller | Bestseller bij de truck | | In Buffer |
 | 03-09 | do | 17:30 | Restaurant | Instagram | Foto | Avondsfeer | Sfeerbeeld avond | | In Buffer |
@@ -45,10 +43,8 @@ kanalen (elk een eigen `create_post`-aanroep), dus in Buffer worden dit 108 post
 | Datum | Dag | Tijd | Merk | Kanaal | Type | Rubriek | Onderwerp | Beeld | Status |
 |---|---|---|---|---|---|---|---|---|---|
 | 07-09 | ma | 17:00 | Sauce | Instagram + Facebook | Foto | Fles in beeld | Fles + webshoplink | | Geblokkeerd |
-| 09-09 | wo | 11:00 | Restaurant | Instagram | Story | Openingstijden | Openingstijden deze week | REST_FOTO_sfeer_01.jpg | Gepland |
 | 09-09 | wo | 12:00 | Restaurant | Instagram | Foto | Bord van de week | [gerecht] | | Gepland |
 | 09-09 | wo | 18:00 | Restaurant | Instagram + TikTok | Reel | In de keuken | [gerecht] van pan tot bord | | Gepland |
-| 10-09 | do | 09:30 | Foodtruck | Instagram + Facebook | Story | Waar staan we | Locaties deze week | TRUCK_FOTO_locatie_01.jpg | Gepland |
 | 10-09 | do | 10:00 | Foodtruck | Instagram + Facebook | Foto | Locatie-reveal | Hatert, Nijmegen | | Gepland |
 | 10-09 | do | 13:00 | Foodtruck | Instagram + TikTok | Reel | On-site bestseller | Bestseller bij de truck | | Gepland |
 | 10-09 | do | 17:30 | Restaurant | Instagram | Foto | Avondsfeer | Sfeerbeeld avond | | Gepland |
@@ -67,10 +63,8 @@ kanalen (elk een eigen `create_post`-aanroep), dus in Buffer worden dit 108 post
 | Datum | Dag | Tijd | Merk | Kanaal | Type | Rubriek | Onderwerp | Beeld | Status |
 |---|---|---|---|---|---|---|---|---|---|
 | 14-09 | ma | 17:00 | Sauce | Instagram + Facebook | Foto | Fles in beeld | Fles + webshoplink | | Geblokkeerd |
-| 16-09 | wo | 11:00 | Restaurant | Instagram | Story | Openingstijden | Openingstijden deze week | REST_FOTO_sfeer_01.jpg | Gepland |
 | 16-09 | wo | 12:00 | Restaurant | Instagram | Foto | Bord van de week | [gerecht] | | Gepland |
 | 16-09 | wo | 18:00 | Restaurant | Instagram + TikTok | Reel | In de keuken | [gerecht] van pan tot bord | | Gepland |
-| 17-09 | do | 09:30 | Foodtruck | Instagram + Facebook | Story | Waar staan we | Locaties deze week | TRUCK_FOTO_locatie_01.jpg | Gepland |
 | 17-09 | do | 10:00 | Foodtruck | Instagram + Facebook | Foto | Locatie-reveal | Hatert, Nijmegen | | Gepland |
 | 17-09 | do | 13:00 | Foodtruck | Instagram + TikTok | Reel | On-site bestseller | Bestseller bij de truck | | Gepland |
 | 17-09 | do | 17:30 | Restaurant | Instagram | Foto | Avondsfeer | Sfeerbeeld avond | | Gepland |
@@ -89,10 +83,8 @@ kanalen (elk een eigen `create_post`-aanroep), dus in Buffer worden dit 108 post
 | Datum | Dag | Tijd | Merk | Kanaal | Type | Rubriek | Onderwerp | Beeld | Status |
 |---|---|---|---|---|---|---|---|---|---|
 | 21-09 | ma | 17:00 | Sauce | Instagram + Facebook | Foto | Fles in beeld | Fles + webshoplink | | Geblokkeerd |
-| 23-09 | wo | 11:00 | Restaurant | Instagram | Story | Openingstijden | Openingstijden deze week | REST_FOTO_sfeer_01.jpg | Gepland |
 | 23-09 | wo | 12:00 | Restaurant | Instagram | Foto | Bord van de week | [gerecht] | | Gepland |
 | 23-09 | wo | 18:00 | Restaurant | Instagram + TikTok | Reel | In de keuken | [gerecht] van pan tot bord | | Gepland |
-| 24-09 | do | 09:30 | Foodtruck | Instagram + Facebook | Story | Waar staan we | Locaties deze week | TRUCK_FOTO_locatie_01.jpg | Gepland |
 | 24-09 | do | 10:00 | Foodtruck | Instagram + Facebook | Foto | Locatie-reveal | Hatert, Nijmegen | | Gepland |
 | 24-09 | do | 13:00 | Foodtruck | Instagram + TikTok | Reel | On-site bestseller | Bestseller bij de truck | | Gepland |
 | 24-09 | do | 17:30 | Restaurant | Instagram | Foto | Avondsfeer | Sfeerbeeld avond | | Gepland |
@@ -111,7 +103,6 @@ kanalen (elk een eigen `create_post`-aanroep), dus in Buffer worden dit 108 post
 | Datum | Dag | Tijd | Merk | Kanaal | Type | Rubriek | Onderwerp | Beeld | Status |
 |---|---|---|---|---|---|---|---|---|---|
 | 28-09 | ma | 17:00 | Sauce | Instagram + Facebook | Foto | Fles in beeld | Fles + webshoplink | | Geblokkeerd |
-| 30-09 | wo | 11:00 | Restaurant | Instagram | Story | Openingstijden | Openingstijden deze week | REST_FOTO_sfeer_01.jpg | Gepland |
 | 30-09 | wo | 12:00 | Restaurant | Instagram | Foto | Bord van de week | [gerecht] | | Gepland |
 | 30-09 | wo | 18:00 | Restaurant | Instagram + TikTok | Reel | In de keuken | [gerecht] van pan tot bord | | Gepland |
 
@@ -134,3 +125,27 @@ Openingstijden-story om 11:00.
 | vr | 17:00 | Restaurant | Frame uit de pairingfoto |
 | za | 20:00 | Restaurant | Frame uit de zaterdagavondreel |
 | zo | 20:00 | Restaurant | Beste beeld van die week opnieuw |
+
+## Dagelijkse openingstijden-stories
+
+Elke open dag een story met de tijden van díé dag, tekst in het beeld gebrand zodat
+Buffer ze automatisch publiceert. Acht vaste beelden, elke week hergebruikt.
+
+| Dag | Tijd | Merk | Kanaal | Beeld | Tekst in beeld |
+|---|---|---|---|---|---|
+| wo | 11:00 | Restaurant | Instagram | REST_STORY_open_01.png | Woensdag 15:00 – 20:00 |
+| do | 11:00 | Restaurant | Instagram | REST_STORY_open_02.png | Donderdag 15:00 – 20:00 |
+| vr | 11:00 | Restaurant | Instagram | REST_STORY_open_03.png | Vrijdag 15:00 – 21:00 |
+| za | 10:30 | Restaurant | Instagram | REST_STORY_open_04.png | Zaterdag 12:00 – 21:00 |
+| zo | 10:30 | Restaurant | Instagram | REST_STORY_open_05.png | Zondag 12:00 – 21:00 |
+| do | 10:00 | Foodtruck | Instagram | TRUCK_STORY_locatie_01.png | Donderdag 13:00 – 20:00 · Hatert |
+| za | 10:00 | Foodtruck | Instagram | TRUCK_STORY_locatie_02.png | Zaterdag 13:00 – 20:00 · Hatert |
+| zo | 10:00 | Foodtruck | Instagram | TRUCK_STORY_locatie_03.png | Zondag 13:00 – 19:00 · Elderhof |
+
+In september: 21 restaurant-stories (wo 2, 9, 16, 23, 30 · do 3, 10, 17, 24 · vr 4, 11,
+18, 25 · za 5, 12, 19, 26 · zo 6, 13, 20, 27) en 12 foodtruck-stories (do 3, 10, 17, 24 ·
+za 5, 12, 19, 26 · zo 6, 13, 20, 27). Samen 33.
+
+De zondag-story van de truck toont geen Elderhof: dat beeld is nooit aangeleverd. Er
+staat nu een close-up zonder herkenbare omgeving. Vervangen zodra `TRUCK_FOTO_locatie_09.jpg`
+binnen is.
