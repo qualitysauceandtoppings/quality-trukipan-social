@@ -30,10 +30,10 @@ kanalen (elk een eigen `create_post`-aanroep), dus in Buffer worden dit 108 post
 | 03-09 | do | 17:30 | Restaurant | Instagram | Foto | Avondsfeer | Sfeerbeeld avond | | In Buffer |
 | 04-09 | vr | 12:00 | Restaurant | Instagram | Foto | Pairing | Fria banana bij gestoofde kabeljauw, half rijst half frietjes | REST_FOTO_pairing_01.jpg | In Buffer |
 | 04-09 | vr | 18:00 | Sauce | Instagram + TikTok | Reel | Saus in gebruik | Uit reel van 02-09 | | Geblokkeerd |
-| 05-09 | za | 10:00 | Foodtruck | Instagram + Facebook | Foto | Locatie-reveal | Hatert, Nijmegen | | In Buffer |
-| 05-09 | za | 12:30 | Restaurant | Instagram | Foto | De klassieker | Gestoofde kabeljauw, half rijst half frietjes | REST_FOTO_gerecht_06.jpg | In Buffer |
-| 05-09 | za | 13:00 | Foodtruck | Instagram | Foto | Drukte | Rij bij de truck | | In Buffer |
-| 05-09 | za | 18:00 | Restaurant | Instagram + TikTok | Reel | Zaterdagavond | Sfeer in de zaak | | In Buffer |
+| 05-09 | za | 10:00 | Foodtruck | Instagram + Facebook | Foto | Locatie-reveal | Hatert, Nijmegen | | Vervallen |
+| 05-09 | za | 12:30 | Restaurant | Instagram | Foto | De klassieker | Gestoofde kabeljauw, half rijst half frietjes | REST_FOTO_gerecht_06.jpg | Vervallen |
+| 05-09 | za | 13:00 | Foodtruck | Instagram | Foto | Drukte | Rij bij de truck | | Vervallen |
+| 05-09 | za | 18:00 | Restaurant | Instagram + TikTok | Reel | Zaterdagavond | Sfeer in de zaak | | Vervallen |
 | 06-09 | zo | 10:00 | Foodtruck | Instagram + Facebook | Foto | Locatie-reveal | Elderhof, Arnhem | | Gepland |
 | 06-09 | zo | 12:30 | Restaurant | Instagram | Foto | Zondagbord | Nacho's steak and cheese | REST_FOTO_gerecht_10.jpg | In Buffer |
 | 06-09 | zo | 13:00 | Foodtruck | Instagram | Foto | Drukte | Rij bij de truck | | Gepland |
@@ -149,3 +149,37 @@ za 5, 12, 19, 26 · zo 6, 13, 20, 27). Samen 33.
 De zondag-story van de truck toont geen Elderhof: dat beeld is nooit aangeleverd. Er
 staat nu een close-up zonder herkenbare omgeving. Vervangen zodra `TRUCK_FOTO_locatie_09.jpg`
 binnen is.
+
+
+## Afwijking: weekend 5 en 6 september
+
+Doorgegeven door Jonathan op 3 september.
+
+**Foodtruck staat beide dagen op Taste World Fest**, Prinsenpark Rotterdam,
+John Bruijnzeelpad 1. Zaterdag 12:00–22:00, zondag 12:00–20:00. Dus niet op Hatert
+en niet op Elderhof.
+
+**Restaurant is zaterdag gesloten** wegens een besloten bruiloft. Zondag gewoon open.
+
+Wat er in Buffer staat in plaats van het vaste ritme:
+
+| Wanneer | Kanaal | Wat | Beeld |
+|---|---|---|---|
+| vr 4, 17:00 | Truck IG + Facebook | Festivalaankondiging | TRUCK_FOTO_festival_01.png |
+| za 5, 10:00 | Truck IG story | Dag één | TRUCK_STORY_festival_01.png |
+| za 5, 10:30 | Restaurant IG story | Gesloten, bruiloft | REST_STORY_bruiloft_01.png |
+| za 5, 11:00 | Restaurant IG post | Gesloten + verhuur als aanbod | REST_FOTO_bruiloft_01.png |
+| zo 6, 10:00 | Truck IG story | Laatste dag | TRUCK_STORY_festival_01.png |
+
+Zondag 10:30 (openingstijden-story) en 12:30 (nacho's) zijn blijven staan: het
+restaurant is die dag gewoon open.
+
+**Niet verbruikt, klaar voor hergebruik.** De posts van zaterdag zijn verwijderd, de
+beelden niet. Deze liggen ongebruikt in de opslag en kunnen naar een volgende zaterdag:
+
+- `REST_FOTO_gerecht_06.jpg` — gestoofde kabeljauw, half rijst half frietjes
+- `REST_REEL_sfeer_01.mp4` — zaterdagavond-timelapse
+- `TRUCK_FOTO_locatie_02.jpg` — truck op Hatert
+- `TRUCK_FOTO_onsite_01.jpg` — drukte bij de truck
+
+Zodra de rest van het beeld binnen is, plan ik die alsnog in.
