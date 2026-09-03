@@ -165,11 +165,17 @@ Wat er in Buffer staat in plaats van het vaste ritme:
 
 | Wanneer | Kanaal | Wat | Beeld |
 |---|---|---|---|
-| vr 4, 17:00 | Truck IG + Facebook | Festivalaankondiging | TRUCK_FOTO_festival_01.png |
-| za 5, 10:00 | Truck IG story | Dag één | TRUCK_STORY_festival_01.png |
-| za 5, 10:30 | Restaurant IG story | Gesloten, bruiloft | REST_STORY_bruiloft_01.png |
-| za 5, 11:00 | Restaurant IG post | Gesloten + verhuur als aanbod | REST_FOTO_bruiloft_01.png |
-| zo 6, 10:00 | Truck IG story | Laatste dag | TRUCK_STORY_festival_01.png |
+| vr 4, 17:00 | Truck IG + Facebook | Festivalaankondiging, poster groot + logo | TRUCK_FOTO_festival_04.png |
+| za 5, 10:00 | Truck IG story | Dag één, poster op blur-achtergrond | TRUCK_STORY_festival_03.png |
+| za 5, 10:30 | Restaurant IG story | GESLOTEN groot in beeld | REST_STORY_bruiloft_02.png |
+| za 5, 11:00 | Restaurant IG post | GESLOTEN + verhuur als aanbod | REST_FOTO_bruiloft_02.png |
+| zo 6, 10:00 | Truck IG story | Laatste dag, poster op blur-achtergrond | TRUCK_STORY_festival_03.png |
+
+Eerdere versies (TRUCK_FOTO_festival_01/02, TRUCK_STORY_festival_01/02,
+REST_STORY_bruiloft_01, REST_FOTO_bruiloft_01) zijn vervangen: eerst omdat het
+Canva-bestand niet meekwam (een kleurverloop in plaats van de poster), daarna
+op verzoek van Jonathan om de tekst groter en beter leesbaar te maken. Die
+oude bestanden staan nog in de opslag maar worden niet meer gebruikt.
 
 Zondag 10:30 (openingstijden-story) en 12:30 (nacho's) zijn blijven staan: het
 restaurant is die dag gewoon open.
